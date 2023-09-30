@@ -36,7 +36,7 @@ Após as instalações e inicialização do container é possível verificar a a
 
 1. Abra um navegador Web e navegue até `http://localhost:5000`.
    
-## Shutting Down
+## Desligando aplicação
 
 Para parar a aplicação e remover os containers criados pelo Docker Compose, siga os passos abaixo:
 
