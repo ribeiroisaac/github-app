@@ -62,18 +62,18 @@ input.checkbox{
   width: 20px;
 }
 
-/* Estilos para Mapa */
-#map {
-  height: 700px; 
-  width: 80%;
-  margin: auto;
+.tabela{
+  height: 600px; 
+  width: 800px;
+  margin-left: 50%;
   margin-top: 20px;
+  color: #04AA6D;
 }
 
-/* Estilos para Quadro de Dados */
-.data{
-  margin: auto;
-  margin-top: 50px;
-  width: 80%;
-  border: 1px solid black;
+/* Estilos para Mapa */
+#map {
+  height: 600px; 
+  width: 800px;
+  margin: 10%;
+  margin-top: 20px;
 }

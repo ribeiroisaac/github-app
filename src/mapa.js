@@ -1,7 +1,7 @@
 //  Criação do mapa
 var map = L.map('map').setView([-22.78, -43.3096], 10.5);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 16,
+    maxZoom: 15,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
@@ -9,38 +9,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var geojsonEstacoes = {
     "type": "FeatureCollection",
     "features": [
-    { 
-        "type": "Feature", 
-        "properties": { 
-            "objectid": 1, 
-            "cod": 60, 
-            "nome": "Nova Iguaçu", 
-            "flg_integraonibus": null, 
-            "flg_integrametro": null, 
-            "flg_terminal": 1, 
-            "flg_transframal": null, 
-            "flg_transfcentral": null, 
-            "flg_integratele": null, 
-            "flg_mun": 0, 
-            "flg_ativa": null, 
-            "status": null, 
-            "flg_belfordroxo": null, 
-            "flg_saracuruna": null, 
-            "flg_deodoro": null, 
-            "flg_santacruz": null, 
-            "flg_japeri": 1, 
-            "flg_paracambi": null, 
-            "flg_vilainhomirim": null, 
-            "flg_guapimirim": null, 
-            "data_inc": null, 
-            "integra_brt": null, 
-            "corredor_brt": null 
-        }, 
-        "geometry": { 
-            "type": "Point", 
-            "coordinates": [ -43.449436168705333, -22.760743070849077 ] 
-        } 
-    },
+    { "type": "Feature", "properties": { "objectid": 1, "cod": 60, "nome": "Nova Iguaçu", "flg_integraonibus": null, "flg_integrametro": null, "flg_terminal": 1, "flg_transframal": null, "flg_transfcentral": null, "flg_integratele": null, "flg_mun": 0, "flg_ativa": null, "status": null, "flg_belfordroxo": null, "flg_saracuruna": null,"flg_deodoro": null, "flg_santacruz": null,"flg_japeri": 1, "flg_paracambi": null, "flg_vilainhomirim": null,"flg_guapimirim": null,"data_inc": null, "integra_brt": null,"corredor_brt": null}, "geometry": { "type": "Point", "coordinates": [ -43.449436168705333, -22.760743070849077 ] } },
     { "type": "Feature", "properties": { "objectid": 2, "cod": 20, "nome": "Comendador Soares", "flg_integraonibus": null, "flg_integrametro": null, "flg_terminal": null, "flg_transframal": null, "flg_transfcentral": null, "flg_integratele": null, "flg_mun": 0, "flg_ativa": null, "status": null, "flg_belfordroxo": null, "flg_saracuruna": null, "flg_deodoro": null, "flg_santacruz": null, "flg_japeri": 1, "flg_paracambi": null, "flg_vilainhomirim": null, "flg_guapimirim": null, "data_inc": null, "integra_brt": null, "corredor_brt": null }, "geometry": { "type": "Point", "coordinates": [ -43.488991839671286, -22.744159956903395 ] } },
     { "type": "Feature", "properties": { "objectid": 3, "cod": 4, "nome": "Austin", "flg_integraonibus": null, "flg_integrametro": null, "flg_terminal": null, "flg_transframal": null, "flg_transfcentral": null, "flg_integratele": null, "flg_mun": 0, "flg_ativa": null, "status": null, "flg_belfordroxo": null, "flg_saracuruna": null, "flg_deodoro": null, "flg_santacruz": null, "flg_japeri": 1, "flg_paracambi": null, "flg_vilainhomirim": null, "flg_guapimirim": null, "data_inc": null, "integra_brt": null, "corredor_brt": null }, "geometry": { "type": "Point", "coordinates": [ -43.522756662332789, -22.720321443121655 ] } },
     { "type": "Feature", "properties": { "objectid": 4, "cod": 81, "nome": "Queimados", "flg_integraonibus": null, "flg_integrametro": null, "flg_terminal": 1, "flg_transframal": null, "flg_transfcentral": null, "flg_integratele": null, "flg_mun": 0, "flg_ativa": null, "status": null, "flg_belfordroxo": null, "flg_saracuruna": null, "flg_deodoro": null, "flg_santacruz": null, "flg_japeri": 1, "flg_paracambi": null, "flg_vilainhomirim": null, "flg_guapimirim": null, "data_inc": null, "integra_brt": null, "corredor_brt": null }, "geometry": { "type": "Point", "coordinates": [ -43.556146917208963, -22.716257290424608 ] } },

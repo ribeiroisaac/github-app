@@ -11,7 +11,7 @@
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-     crossorigin=""></script>     
+     crossorigin=""></script>
 </head>
 
 <body>
@@ -25,7 +25,9 @@
   <!-- CORPO PÁGINA-->
   <div class="corpo">
     <!-- BOX DE RAMAIS E FUNÇÕES DE EXIBIÇÃO NO MAPA-->
-    <div class="tituloBox"><h2>Ramais</h2></div>
+    <div class="tituloBox">
+      <h2>Ramais</h2>
+    </div>
     <div class="boxRamais">
       <label class="container">Deodoro
         <input type="checkbox" class ="checkbox" id="deodoroBox" onclick="atualizaBox()">
@@ -65,7 +67,6 @@
     <div id="map">
       <script src="mapa.js"></script>
     </div>
-
     <script>
     /* SCRIPT DE FILTRO DO MAPA */
       function atualizaBox(){
@@ -114,13 +115,8 @@
         mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, checkBelfordRoxo, checkParacambi, checkVilaInhomirim, checkGuapimirim)
       }
     </script>
-
-
-    <div class="data">
-      <table>
-        Tabela Infos aqui
-      </table>
-    </div>
   </div> 
 </body>
 </html>
+
+
