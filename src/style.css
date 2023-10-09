@@ -62,16 +62,20 @@ input.checkbox{
   width: 20px;
 }
 
+.grid-container{
+  display: grid;
+  grid-template-areas: 'map tabela';
+  gap: 20px;
+  padding-inline: 10px;
+}
+
 .tabela{
-  height: 600px; 
-  width: 800px;
-  margin-left: 50%;
-  margin-top: 20px;
-  color: #04AA6D;
+  grid-area: tabela;
 }
 
 /* Estilos para Mapa */
 #map {
+  grid-area: map;
   height: 600px; 
   width: 800px;
   margin: 10%;

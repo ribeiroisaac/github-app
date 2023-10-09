@@ -1,5 +1,5 @@
 //  Criação do mapa
-var map = L.map('map').setView([-22.78, -43.3096], 10.5);
+var map = L.map('map').setView([-22.78, -43.3096], 10);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 15,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
