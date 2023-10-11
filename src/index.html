@@ -12,6 +12,9 @@
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+  <script type="text/javascript" src="graphic.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
 </head>
 
 <body>
@@ -24,160 +27,120 @@
 
   <!-- CORPO PÁGINA-->
   <div class="corpo">
-    <!-- BOX DE RAMAIS E FUNÇÕES DE EXIBIÇÃO NO MAPA-->
-    <div class="tituloBox">
-      <h2>Ramais</h2>
+    <div class="retanguloRamais">
+      <!-- BOX DE RAMAIS E FUNÇÕES DE EXIBIÇÃO NO MAPA-->
+      <div class="tituloBox">
+        <h2>Escolha 1 ou mais Ramais abaixo</h2>
+      </div>
+      <div class="boxRamais">
+        <label class="container">Deodoro
+          <input type="checkbox" class ="checkbox" id="deodoroBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Santa Cruz
+          <input type="checkbox" class ="checkbox" id="santacruzBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Japeri
+          <input type="checkbox" class ="checkbox" id="japeriBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Saracuruna
+          <input type="checkbox" class ="checkbox" id="saracurunaBox" onclick="atualizaBox()"> 
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Belford Roxo
+          <input type="checkbox" class ="checkbox" id="belfordRoxoBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Paracambi
+          <input type="checkbox" class ="checkbox" id="paracambiBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Vila Inhomirim
+          <input type="checkbox" class ="checkbox" id="vilainhomirimBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+        <label class="container">Guapimirim
+          <input type="checkbox" class ="checkbox" id="guapimirimBox" onclick="atualizaBox()">
+          <span class="checkmark"></span>
+        </label>
+      </div>
     </div>
-    <div class="boxRamais">
-      <label class="container">Deodoro
-        <input type="checkbox" class ="checkbox" id="deodoroBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Santa Cruz
-        <input type="checkbox" class ="checkbox" id="santacruzBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Japeri
-        <input type="checkbox" class ="checkbox" id="japeriBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Saracuruna
-        <input type="checkbox" class ="checkbox" id="saracurunaBox" onclick="atualizaBox()"> 
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Belford Roxo
-        <input type="checkbox" class ="checkbox" id="belfordRoxoBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Paracambi
-        <input type="checkbox" class ="checkbox" id="paracambiBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Vila Inhomirim
-        <input type="checkbox" class ="checkbox" id="vilainhomirimBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-      <label class="container">Guapimirim
-        <input type="checkbox" class ="checkbox" id="guapimirimBox" onclick="atualizaBox()">
-        <span class="checkmark"></span>
-      </label>
-    </div>
+
+    <div class="central-container">  
+    <!-- SEÇÃO PARA EXIBIÇÃO DO MAPA-->
+      <div id="map">
+        <script src="mapa.js"></script>
+        <script>
+    /* SCRIPT DE FILTRO DO MAPA */
+        function atualizaBox(){
+          cleanMapa();
+          var checkBox_Deodoro = document.getElementById("deodoroBox");
+          var checkBox_SantaCruz = document.getElementById("santacruzBox");
+          var checkBox_Japeri = document.getElementById("japeriBox");
+          var checkBox_Saracuruna = document.getElementById("saracurunaBox");
+          var checkBox_BelfordRoxo = document.getElementById("belfordRoxoBox");
+          var checkBox_Paracambi = document.getElementById("paracambiBox");
+          var checkBox_VilaInhomirim = document.getElementById("vilainhomirimBox");
+          var checkBox_Guapimirim = document.getElementById("guapimirimBox");
+          var checkDeodoro = 0, checkSantaCruz=0, checkJaperi=0, checkSaracuruna=0, checkBelfordRoxo=0, checkVilaInhomirim=0, checkParacambi=0, checkGuapimirim=0;
+          if (checkBox_Deodoro.checked==true){
+            checkDeodoro=1;
+    //          mapaDeodoro();
+          }
+          if (checkBox_SantaCruz.checked==true){
+            checkSantaCruz=1;
+    //          mapaSantaCruz();
+          }
+          if (checkBox_Japeri.checked==true){
+            checkJaperi=1;
+    //          mapaJaperi();
+          }
+          if (checkBox_Saracuruna.checked==true){
+            checkSaracuruna=1;
+    //          mapaSaracuruna();
+          }
+          if (checkBox_BelfordRoxo.checked==true){
+            checkBelfordRoxo=1;
+    //          mapaBelfordRoxo();
+          }
+          if (checkBox_VilaInhomirim.checked==true){
+            checkVilaInhomirim=1;
+    //          mapaVilaInhomirim();
+          }
+          if (checkBox_Paracambi.checked==true){
+            checkParacambi=1;
+    //          mapaParacambi();
+          }
+          if (checkBox_Guapimirim.checked==true){
+            checkGuapimirim=1;
+    //          mapaGuapimirim();
+          }
+          mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, checkBelfordRoxo, checkParacambi, checkVilaInhomirim, checkGuapimirim)
+        }
+        </script>
+      </div>
+
+    <!-- SEÇÃO PARA EXIBIÇÃO DO GRÁFICO-->
+    <script class="graphic" type="text/javascript">
+      window.onload=function(){
+        CanvasJS.addColorSet("verde",["#278013"]);
+        $.get("../etl_process/datasetFerrov.csv", function(data) {
+        var chart = new CanvasJS.Chart("grafico", {
+          title: {text: "Estação",fontFamily: "tahoma",fontColor: "#278013",fontWeight: "bold",},
+          colorSet: "verde",exportEnabled: true,zoomEnabled: true,
+          toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+          axisX: {viewportMinimum: 2015, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+          axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
+          legend: {},
+          data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSV(data)}],
+        });
+        chart.render();});
+      }
+      </script>
+    <div id="grafico" onload="getDataPointsFromCSV(data)" style="width: 100%;"></div>
   </div> 
 
-  <div class="grid-container">  
-  <!-- SEÇÃO PARA EXIBIÇÃO DO MAPA-->
-    <div id="map">
-      <script src="mapa.js"></script>
-    </div>
-
-  <!-- SEÇÃO PARA EXIBIÇÃO DA TABELA-->
-  <div class="tabela">
-      <div id="dataset_tabela">
-      </div>
-     </div>
-
-    <script>
-    /* SCRIPT DE FILTRO DO MAPA */
-      function atualizaBox(){
-        cleanMapa();
-        var checkBox_Deodoro = document.getElementById("deodoroBox");
-        var checkBox_SantaCruz = document.getElementById("santacruzBox");
-        var checkBox_Japeri = document.getElementById("japeriBox");
-        var checkBox_Saracuruna = document.getElementById("saracurunaBox");
-        var checkBox_BelfordRoxo = document.getElementById("belfordRoxoBox");
-        var checkBox_Paracambi = document.getElementById("paracambiBox");
-        var checkBox_VilaInhomirim = document.getElementById("vilainhomirimBox");
-        var checkBox_Guapimirim = document.getElementById("guapimirimBox");
-        var checkDeodoro = 0, checkSantaCruz=0, checkJaperi=0, checkSaracuruna=0, checkBelfordRoxo=0, checkVilaInhomirim=0, checkParacambi=0, checkGuapimirim=0;
-        if (checkBox_Deodoro.checked==true){
-          checkDeodoro=1;
-//          mapaDeodoro();
-        }
-        if (checkBox_SantaCruz.checked==true){
-          checkSantaCruz=1;
-//          mapaSantaCruz();
-        }
-        if (checkBox_Japeri.checked==true){
-          checkJaperi=1;
-//          mapaJaperi();
-        }
-        if (checkBox_Saracuruna.checked==true){
-          checkSaracuruna=1;
-//          mapaSaracuruna();
-        }
-        if (checkBox_BelfordRoxo.checked==true){
-          checkBelfordRoxo=1;
-//          mapaBelfordRoxo();
-        }
-        if (checkBox_VilaInhomirim.checked==true){
-          checkVilaInhomirim=1;
-//          mapaVilaInhomirim();
-        }
-        if (checkBox_Paracambi.checked==true){
-          checkParacambi=1;
-//          mapaParacambi();
-        }
-        if (checkBox_Guapimirim.checked==true){
-          checkGuapimirim=1;
-//          mapaGuapimirim();
-        }
-        mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, checkBelfordRoxo, checkParacambi, checkVilaInhomirim, checkGuapimirim)
-      }
-    </script>
 </body>
 </html>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-<script>
-  $(function preenchetabela(){$.ajax({
-  url:"../etl_process/datasetFerrov.csv",
-  dataType:"text",
-  success:function(data)
-  {
-  //Divide N linhas do dataset separando pela '\n' e atribui à variável "dataset_data"
-  var dataset_data = data.split(/\r?\n|\r/);
-  var table_data = '<table class="table table-bordered table-striped">';
-
-  //For que percorre linhas do Dataset
-  for(var count = 0; count<dataset_data.length; count++)
-  {
-    //Divide N colunas de 1 linha do dataset separando pela vírgula e atribui à variável "cell_data"
-    var cell_data = dataset_data[count].split(",");
-
-    //Inicia uma nova linha na Tabela a ser apresentada
-    table_data += '<tr>';
-
-    //For que percorre todos os N campos da variável 'cell_data', e inclui num espaço da tabela
-    for(var cell_count=0; cell_count<cell_data.length; cell_count++)
-    {
-      //Verificação para parêntese em células
-      let parentese = /[(]/;
-      if(cell_data[cell_count].search(parentese)>0){
-        let posicao_parentese = cell_data[cell_count].search(parentese);
-        cell_data[cell_count]=cell_data[cell_count].slice(0, posicao_parentese)
-      }
-      //Verificação para cabeçalho da tabela
-      if(count === 0)
-      {
-      table_data += '<th>'+cell_data[cell_count]+'</th>';
-      }
-      //Atribui valor do dataset à espaço da tabela
-      else
-      {
-      table_data += '<td>'+cell_data[cell_count]+'</td>';
-      }
-    }
-    //Fecha linha da Tabela
-    table_data += '</tr>';
-  }
-  //Fecha Tabela
-  table_data += '</table>';
-
-  //Exibe Tabela
-  $('#dataset_tabela').html(table_data);
-  }
-});});
-
-</script>
