@@ -1,5 +1,5 @@
 //  Criação do mapa
-var map = L.map('map').setView([-22.78, -43.3096], 10);
+var map = L.map('map').setView([-22.71, -43.3070], 10);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 15,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -145,7 +145,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'red',
                 fillColor: '#f00000',
                 fillOpacity: 0.6,
-                radius: 200
+                radius: 400
             }).addTo(map)
                 .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -159,7 +159,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'green',
                 fillColor: '#00f03c',
                 fillOpacity: 0.6,
-                radius: 200
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -173,7 +173,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#00a8f0',
                 fillColor: '#00a8f0',
                 fillOpacity: 0.6,
-                radius: 200
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -187,7 +187,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'purple',
                 fillColor: '#8800f0',
                 fillOpacity: 0.6,
-                radius: 200
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -201,7 +201,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'yellow',
                 fillColor: '#f0e800',
                 fillOpacity: 0.6,
-                radius: 250
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -215,7 +215,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#f07c00',
                 fillColor: '#f07c00',
                 fillOpacity: 0.6,
-                radius: 200
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
@@ -229,7 +229,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#b3b000',
                 fillColor: '#b3b000',
                 fillOpacity: 0.6,
-                radius: 250
+                radius: 400
             }).addTo(map)
             .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
         }
