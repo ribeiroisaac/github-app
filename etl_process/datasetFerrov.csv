@@ -1,16 +1,16 @@
 ramal,estacao,ano,passageiros
-Deodoro,Central do Brasil ,1995,16692.176
-Deodoro,Central do Brasil ,1996,14705.403
-Deodoro,Central do Brasil ,1997,11866.369
-Deodoro,Central do Brasil ,1998,8941.966
-Deodoro,Central do Brasil ,1999,11392.184
-Deodoro,Central do Brasil ,2000,13436.569
-Deodoro,Praça da Bandeira ,1995,1138.95
-Deodoro,Praça da Bandeira ,1996,984.92
-Deodoro,Praça da Bandeira ,1997,776.657
-Deodoro,Praça da Bandeira ,1998,351.97
-Deodoro,Praça da Bandeira ,1999,667.572
-Deodoro,Praça da Bandeira ,2000,787.371
+Deodoro,Central do Brasil,1995,16692.176
+Deodoro,Central do Brasil,1996,14705.403
+Deodoro,Central do Brasil,1997,11866.369
+Deodoro,Central do Brasil,1998,8941.966
+Deodoro,Central do Brasil,1999,11392.184
+Deodoro,Central do Brasil,2000,13436.569
+Deodoro,Praça da Bandeira,1995,1138.95
+Deodoro,Praça da Bandeira,1996,984.92
+Deodoro,Praça da Bandeira,1997,776.657
+Deodoro,Praça da Bandeira,1998,351.97
+Deodoro,Praça da Bandeira,1999,667.572
+Deodoro,Praça da Bandeira,2000,787.371
 Deodoro,São Cristóvão,1995,5089.175
 Deodoro,São Cristóvão,1996,4342.914
 Deodoro,São Cristóvão,1997,2764.429
@@ -155,12 +155,12 @@ Santa Cruz,Senador Camará,1997,171.627
 Santa Cruz,Senador Camará,1998,223.396
 Santa Cruz,Senador Camará,1999,455.746
 Santa Cruz,Senador Camará,2000,601.597
-Santa Cruz,Santíssimo ,1995,211.212
-Santa Cruz,Santíssimo ,1996,142.929
-Santa Cruz,Santíssimo ,1997,82.427
-Santa Cruz,Santíssimo ,1998,93.328
-Santa Cruz,Santíssimo ,1999,181.242
-Santa Cruz,Santíssimo ,2000,239.244
+Santa Cruz,Santíssimo,1995,211.212
+Santa Cruz,Santíssimo,1996,142.929
+Santa Cruz,Santíssimo,1997,82.427
+Santa Cruz,Santíssimo,1998,93.328
+Santa Cruz,Santíssimo,1999,181.242
+Santa Cruz,Santíssimo,2000,239.244
 Santa Cruz,Augusto Vasconcelos,1995,180.328
 Santa Cruz,Augusto Vasconcelos,1996,104.697
 Santa Cruz,Augusto Vasconcelos,1997,59.303
@@ -209,314 +209,314 @@ Santa Cruz,Santa Cruz,1997,1367.093
 Santa Cruz,Santa Cruz,1998,1145.614
 Santa Cruz,Santa Cruz,1999,1594.034
 Santa Cruz,Santa Cruz,2000,2104.167
-Saracuruna ,Barão de Mauá,1995,2424.227
-Saracuruna ,Barão de Mauá,1996,1832.882
-Saracuruna ,Barão de Mauá,1997,1017.519
-Saracuruna ,Barão de Mauá,1998,648.266
-Saracuruna ,Barão de Mauá,1999,904.668
-Saracuruna ,Barão de Mauá,2000,137.518
-Saracuruna ,Triagem,1995,966.101
-Saracuruna ,Triagem,1996,757.901
-Saracuruna ,Triagem,1997,443.541
-Saracuruna ,Triagem,1998,375.831
-Saracuruna ,Triagem,1999,504.146
-Saracuruna ,Triagem,2000,477.268
-Saracuruna ,Manguinhos,1995,54.901
-Saracuruna ,Manguinhos,1996,105.417
-Saracuruna ,Manguinhos,1997,48.983
-Saracuruna ,Manguinhos,1998,75.108
-Saracuruna ,Manguinhos,1999,170.09
-Saracuruna ,Manguinhos,2000,207.379
-Saracuruna ,Bonsucesso,1995,630.175
-Saracuruna ,Bonsucesso,1996,435.394
-Saracuruna ,Bonsucesso,1997,227.665
-Saracuruna ,Bonsucesso,1998,190.51
-Saracuruna ,Bonsucesso,1999,370.322
-Saracuruna ,Bonsucesso,2000,451.509
-Saracuruna ,Ramos,1995,464.721
-Saracuruna ,Ramos,1996,314.558
-Saracuruna ,Ramos,1997,164.472
-Saracuruna ,Ramos,1998,140.511
-Saracuruna ,Ramos,1999,278.812
-Saracuruna ,Ramos,2000,339.937
-Saracuruna ,Olaria,1995,486.74
-Saracuruna ,Olaria,1996,305.408
-Saracuruna ,Olaria,1997,140.631
-Saracuruna ,Olaria,1998,131.973
-Saracuruna ,Olaria,1999,263.266
-Saracuruna ,Olaria,2000,320.983
-Saracuruna ,Penha,1995,461.593
-Saracuruna ,Penha,1996,309.849
-Saracuruna ,Penha,1997,159.901
-Saracuruna ,Penha,1998,110.111
-Saracuruna ,Penha,1999,203.15
-Saracuruna ,Penha,2000,247.687
-Saracuruna ,Penha Circular,1995,301.222
-Saracuruna ,Penha Circular,1996,208.754
-Saracuruna ,Penha Circular,1997,86.175
-Saracuruna ,Penha Circular,1998,92.014
-Saracuruna ,Penha Circular,1999,138.846
-Saracuruna ,Penha Circular,2000,169.286
-Saracuruna ,Brás de Pina,1995,182.477
-Saracuruna ,Brás de Pina,1996,119.946
-Saracuruna ,Brás de Pina,1997,53.566
-Saracuruna ,Brás de Pina,1998,41.186
-Saracuruna ,Brás de Pina,1999,102.062
-Saracuruna ,Brás de Pina,2000,124.437
-Saracuruna ,Cordovil,1995,221.23
-Saracuruna ,Cordovil,1996,157.267
-Saracuruna ,Cordovil,1997,43.838
-Saracuruna ,Cordovil,1998,46.462
-Saracuruna ,Cordovil,1999,109.255
-Saracuruna ,Cordovil,2000,133.207
-Saracuruna ,Parada de Lucas,1995,353.607
-Saracuruna ,Parada de Lucas,1996,220.008
-Saracuruna ,Parada de Lucas,1997,38.722
-Saracuruna ,Parada de Lucas,1998,79.613
-Saracuruna ,Parada de Lucas,1999,188.329
-Saracuruna ,Parada de Lucas,2000,229.617
-Saracuruna ,Vigário Geral,1995,90.95
-Saracuruna ,Vigário Geral,1996,76.661
-Saracuruna ,Vigário Geral,1997,25.557
-Saracuruna ,Vigário Geral,1998,39.017
-Saracuruna ,Vigário Geral,1999,98.602
-Saracuruna ,Vigário Geral,2000,120.219
-Saracuruna ,Duque de Caxias,1995,2594.323
-Saracuruna ,Duque de Caxias,1996,1843.812
-Saracuruna ,Duque de Caxias,1997,1058.936
-Saracuruna ,Duque de Caxias,1998,727.411
-Saracuruna ,Duque de Caxias,1999,1107.096
-Saracuruna ,Duque de Caxias,2000,1349.808
-Saracuruna ,Gramacho,1995,2968.989
-Saracuruna ,Gramacho,1996,2400.423
-Saracuruna ,Gramacho,1997,1607.1
-Saracuruna ,Gramacho,1998,1293.73
-Saracuruna ,Gramacho,1999,2011.555
-Saracuruna ,Gramacho,2000,2453.482
-Saracuruna ,Campos Eliseos,1995,118.341
-Saracuruna ,Campos Eliseos,1996,53.462
-Saracuruna ,Campos Eliseos,1997,19.459
-Saracuruna ,Campos Eliseos,1998,14.88
-Saracuruna ,Campos Eliseos,1999,74.855
-Saracuruna ,Campos Eliseos,2000,91.266
-Saracuruna ,Jardim Primavera,1995,...
-Saracuruna ,Jardim Primavera,1996,...
-Saracuruna ,Jardim Primavera,1997,...
-Saracuruna ,Jardim Primavera,1998,...
-Saracuruna ,Jardim Primavera,1999,68.388
-Saracuruna ,Jardim Primavera,2000,83.381
-Saracuruna ,Saracuruna ***,1995,...
-Saracuruna ,Saracuruna ***,1996,...
-Saracuruna ,Saracuruna ***,1997,...
-Saracuruna ,Saracuruna ***,1998,...
-Saracuruna ,Saracuruna ***,1999,41.298
-Saracuruna ,Saracuruna ***,2000,1152.724
-Saracuruna ,Jacarezinho ,1995,38.597
-Saracuruna ,Jacarezinho ,1996,25.171
-Saracuruna ,Jacarezinho ,1997,2.448
-Saracuruna ,Jacarezinho ,1998,...
-Saracuruna ,Jacarezinho ,1999,...
-Saracuruna ,Jacarezinho ,2000,330.2
-Belford Roxo ,Del Castilho,1995,111.609
-Belford Roxo ,Del Castilho,1996,98.815
-Belford Roxo ,Del Castilho,1997,33.213
-Belford Roxo ,Del Castilho,1998,63.057
-Belford Roxo ,Del Castilho,1999,115.879
-Belford Roxo ,Del Castilho,2000,97.536
-Belford Roxo ,Cintra Vidal,1995,169.414
-Belford Roxo ,Cintra Vidal,1996,102.723
-Belford Roxo ,Cintra Vidal,1997,41.928
-Belford Roxo ,Cintra Vidal,1998,43.573
-Belford Roxo ,Cintra Vidal,1999,73.109
-Belford Roxo ,Cintra Vidal,2000,54.864
-Belford Roxo ,Tomás Coelho,1995,163.491
-Belford Roxo ,Tomás Coelho,1996,104.403
-Belford Roxo ,Tomás Coelho,1997,48.254
-Belford Roxo ,Tomás Coelho,1998,44.005
-Belford Roxo ,Tomás Coelho,1999,91.867
-Belford Roxo ,Tomás Coelho,2000,73.66
-Belford Roxo ,Cavalcante,1995,95.68
-Belford Roxo ,Cavalcante,1996,65.335
-Belford Roxo ,Cavalcante,1997,24.731
-Belford Roxo ,Cavalcante,1998,34.335
-Belford Roxo ,Cavalcante,1999,80.298
-Belford Roxo ,Cavalcante,2000,61.976
-Belford Roxo ,Mercadão de Madureira ,1995,676.753
-Belford Roxo ,Mercadão de Madureira ,1996,519.145
-Belford Roxo ,Mercadão de Madureira ,1997,207.106
-Belford Roxo ,Mercadão de Madureira ,1998,177.396
-Belford Roxo ,Mercadão de Madureira ,1999,270.861
-Belford Roxo ,Mercadão de Madureira ,2000,252.476
-Belford Roxo ,Rocha Miranda,1995,106.507
-Belford Roxo ,Rocha Miranda,1996,74.609
-Belford Roxo ,Rocha Miranda,1997,23.64
-Belford Roxo ,Rocha Miranda,1998,25.167
-Belford Roxo ,Rocha Miranda,1999,46.958
-Belford Roxo ,Rocha Miranda,2000,28.702
-Belford Roxo ,Honório Gurgel,1995,129.399
-Belford Roxo ,Honório Gurgel,1996,83.732
-Belford Roxo ,Honório Gurgel,1997,31.302
-Belford Roxo ,Honório Gurgel,1998,32.465
-Belford Roxo ,Honório Gurgel,1999,68.607
-Belford Roxo ,Honório Gurgel,2000,47.498
-Belford Roxo ,Barros Filho,1995,28.043
-Belford Roxo ,Barros Filho,1996,21.409
-Belford Roxo ,Barros Filho,1997,6.415
-Belford Roxo ,Barros Filho,1998,19.411
-Belford Roxo ,Barros Filho,1999,35.509
-Belford Roxo ,Barros Filho,2000,17.272
-Belford Roxo ,Costa Barros,1995,133.439
-Belford Roxo ,Costa Barros,1996,74.939
-Belford Roxo ,Costa Barros,1997,47.038
-Belford Roxo ,Costa Barros,1998,62.609
-Belford Roxo ,Costa Barros,1999,86.885
-Belford Roxo ,Costa Barros,2000,68.58
-Belford Roxo ,Pavuna,1995,578.735
-Belford Roxo ,Pavuna,1996,407.545
-Belford Roxo ,Pavuna,1997,166.614
-Belford Roxo ,Pavuna,1998,123.533
-Belford Roxo ,Pavuna,1999,180.576
-Belford Roxo ,Pavuna,2000,162.306
-Belford Roxo ,Vila Rosali,1995,206.825
-Belford Roxo ,Vila Rosali,1996,111.5
-Belford Roxo ,Vila Rosali,1997,38.223
-Belford Roxo ,Vila Rosali,1998,66.374
-Belford Roxo ,Vila Rosali,1999,99.332
-Belford Roxo ,Vila Rosali,2000,81.026
-Belford Roxo ,Agostinho Porto,1995,227.8
-Belford Roxo ,Agostinho Porto,1996,138.031
-Belford Roxo ,Agostinho Porto,1997,68.018
-Belford Roxo ,Agostinho Porto,1998,75.539
-Belford Roxo ,Agostinho Porto,1999,123.502
-Belford Roxo ,Agostinho Porto,2000,105.156
-Belford Roxo ,Coelho da Rocha,1995,398.351
-Belford Roxo ,Coelho da Rocha,1996,271.882
-Belford Roxo ,Coelho da Rocha,1997,147.727
-Belford Roxo ,Coelho da Rocha,1998,142.241
-Belford Roxo ,Coelho da Rocha,1999,211.804
-Belford Roxo ,Coelho da Rocha,2000,193.548
-Belford Roxo ,Belford Roxo,1995,2220.607
-Belford Roxo ,Belford Roxo,1996,1936.418
-Belford Roxo ,Belford Roxo,1997,1264.181
-Belford Roxo ,Belford Roxo,1998,938.489
-Belford Roxo ,Belford Roxo,1999,1054.83
-Belford Roxo ,Belford Roxo,2000,965.2
-Belford Roxo ,São Mateus,1995,55.333
-Belford Roxo ,São Mateus,1996,5.307
-Belford Roxo ,São Mateus,1997,...
-Belford Roxo ,São Mateus,1998,...
-Belford Roxo ,São Mateus,1999,...
-Belford Roxo ,São Mateus,2000,...
-Japeri ,Ricardo de Albuquerque ,1995,284.094
-Japeri ,Ricardo de Albuquerque ,1996,267.977
-Japeri ,Ricardo de Albuquerque ,1997,128.414
-Japeri ,Ricardo de Albuquerque ,1998,85.83
-Japeri ,Ricardo de Albuquerque ,1999,220.456
-Japeri ,Ricardo de Albuquerque ,2000,268.596
-Japeri ,Anchieta,1995,277.487
-Japeri ,Anchieta,1996,233.944
-Japeri ,Anchieta,1997,109.358
-Japeri ,Anchieta,1998,88.724
-Japeri ,Anchieta,1999,210.447
-Japeri ,Anchieta,2000,256.401
-Japeri ,Olinda,1995,403.798
-Japeri ,Olinda,1996,318.653
-Japeri ,Olinda,1997,159.258
-Japeri ,Olinda,1998,65.325
-Japeri ,Olinda,1999,256.806
-Japeri ,Olinda,2000,312.884
-Japeri ,Nilópolis,1995,1341.065
-Japeri ,Nilópolis,1996,1186.632
-Japeri ,Nilópolis,1997,690.707
-Japeri ,Nilópolis,1998,540.252
-Japeri ,Nilópolis,1999,983.743
-Japeri ,Nilópolis,2000,1198.559
-Japeri ,Edson Passos,1995,590.11
-Japeri ,Edson Passos,1996,406.733
-Japeri ,Edson Passos,1997,201.568
-Japeri ,Edson Passos,1998,262.719
-Japeri ,Edson Passos,1999,560.758
-Japeri ,Edson Passos,2000,683.208
-Japeri ,Mesquita,1995,768.699
-Japeri ,Mesquita,1996,564.871
-Japeri ,Mesquita,1997,267.133
-Japeri ,Mesquita,1998,226.193
-Japeri ,Mesquita,1999,572.525
-Japeri ,Mesquita,2000,697.545
-Japeri ,Pres. Juscelino,1995,435.057
-Japeri ,Pres. Juscelino,1996,326.513
-Japeri ,Pres. Juscelino,1997,180.779
-Japeri ,Pres. Juscelino,1998,171.36
-Japeri ,Pres. Juscelino,1999,320.821
-Japeri ,Pres. Juscelino,2000,390.877
-Japeri ,Nova Iguaçu,1995,3666.513
-Japeri ,Nova Iguaçu,1996,3375.933
-Japeri ,Nova Iguaçu,1997,2003.85
-Japeri ,Nova Iguaçu,1998,1584.359
-Japeri ,Nova Iguaçu,1999,2691.575
-Japeri ,Nova Iguaçu,2000,3279.323
-Japeri ,Comendador Soares,1995,1590.259
-Japeri ,Comendador Soares,1996,1558.749
-Japeri ,Comendador Soares,1997,857.72
-Japeri ,Comendador Soares,1998,987.231
-Japeri ,Comendador Soares,1999,1763.569
-Japeri ,Comendador Soares,2000,2148.672
-Japeri ,Austin,1995,2006.627
-Japeri ,Austin,1996,1513.456
-Japeri ,Austin,1997,893.007
-Japeri ,Austin,1998,1113.757
-Japeri ,Austin,1999,1848.444
-Japeri ,Austin,2000,2252.081
-Japeri ,Queimados,1995,4229.423
-Japeri ,Queimados,1996,3377.197
-Japeri ,Queimados,1997,2424.13
-Japeri ,Queimados,1998,2153.453
-Japeri ,Queimados,1999,3329.842
-Japeri ,Queimados,2000,4056.966
-Japeri ,Engenheiro Pedreira,1995,2490.214
-Japeri ,Engenheiro Pedreira,1996,2245.102
-Japeri ,Engenheiro Pedreira,1997,1362.2
-Japeri ,Engenheiro Pedreira,1998,1887.499
-Japeri ,Engenheiro Pedreira,1999,2953.223
-Japeri ,Engenheiro Pedreira,2000,3598.106
-Japeri ,Japeri,1995,1652.876
-Japeri ,Japeri,1996,1317.9
-Japeri ,Japeri,1997,965.103
-Japeri ,Japeri,1998,1166.925
-Japeri ,Japeri,1999,1776.995
-Japeri ,Japeri,2000,2165.03
-Japeri ,Lages,1995,...
-Japeri ,Lages,1996,...
-Japeri ,Lages,1997,114.003
-Japeri ,Lages,1998,166.065
-Japeri ,Lages,1999,239.734
-Japeri ,Lages,2000,292.084
-Japeri ,Paracambi,1995,641.756
-Japeri ,Paracambi,1996,528.922
-Japeri ,Paracambi,1997,446.025
-Japeri ,Paracambi,1998,366.156
-Japeri ,Paracambi,1999,469.97
-Japeri ,Paracambi,2000,572.595
-Deodoro,Central do Brasil ,2001,14287.401
-Deodoro,Central do Brasil ,2002,15827.778
-Deodoro,Central do Brasil ,2003,18335.99
-Deodoro,Central do Brasil ,2004,17448
-Deodoro,Central do Brasil ,2005,18696
-Deodoro,Central do Brasil ,2006,21376
-Deodoro,Central do Brasil ,2007,25050
-Deodoro,Central do Brasil ,2008,28090.486
-Deodoro,Central do Brasil ,2009,28542.657
-Deodoro,Central do Brasil ,2010,31017.015
-Deodoro,Praça da Bandeira ,2001,900.22
-Deodoro,Praça da Bandeira ,2002,989.799
-Deodoro,Praça da Bandeira ,2003,1140.068
-Deodoro,Praça da Bandeira ,2004,1128
-Deodoro,Praça da Bandeira ,2005,1131
-Deodoro,Praça da Bandeira ,2006,1135
-Deodoro,Praça da Bandeira ,2007,1198
-Deodoro,Praça da Bandeira ,2008,1327.258
-Deodoro,Praça da Bandeira ,2009,1264.772
-Deodoro,Praça da Bandeira ,2010,1288.321
+Saracuruna,Barão de Mauá,1995,2424.227
+Saracuruna,Barão de Mauá,1996,1832.882
+Saracuruna,Barão de Mauá,1997,1017.519
+Saracuruna,Barão de Mauá,1998,648.266
+Saracuruna,Barão de Mauá,1999,904.668
+Saracuruna,Barão de Mauá,2000,137.518
+Saracuruna,Triagem,1995,966.101
+Saracuruna,Triagem,1996,757.901
+Saracuruna,Triagem,1997,443.541
+Saracuruna,Triagem,1998,375.831
+Saracuruna,Triagem,1999,504.146
+Saracuruna,Triagem,2000,477.268
+Saracuruna,Manguinhos,1995,54.901
+Saracuruna,Manguinhos,1996,105.417
+Saracuruna,Manguinhos,1997,48.983
+Saracuruna,Manguinhos,1998,75.108
+Saracuruna,Manguinhos,1999,170.09
+Saracuruna,Manguinhos,2000,207.379
+Saracuruna,Bonsucesso,1995,630.175
+Saracuruna,Bonsucesso,1996,435.394
+Saracuruna,Bonsucesso,1997,227.665
+Saracuruna,Bonsucesso,1998,190.51
+Saracuruna,Bonsucesso,1999,370.322
+Saracuruna,Bonsucesso,2000,451.509
+Saracuruna,Ramos,1995,464.721
+Saracuruna,Ramos,1996,314.558
+Saracuruna,Ramos,1997,164.472
+Saracuruna,Ramos,1998,140.511
+Saracuruna,Ramos,1999,278.812
+Saracuruna,Ramos,2000,339.937
+Saracuruna,Olaria,1995,486.74
+Saracuruna,Olaria,1996,305.408
+Saracuruna,Olaria,1997,140.631
+Saracuruna,Olaria,1998,131.973
+Saracuruna,Olaria,1999,263.266
+Saracuruna,Olaria,2000,320.983
+Saracuruna,Penha,1995,461.593
+Saracuruna,Penha,1996,309.849
+Saracuruna,Penha,1997,159.901
+Saracuruna,Penha,1998,110.111
+Saracuruna,Penha,1999,203.15
+Saracuruna,Penha,2000,247.687
+Saracuruna,Penha Circular,1995,301.222
+Saracuruna,Penha Circular,1996,208.754
+Saracuruna,Penha Circular,1997,86.175
+Saracuruna,Penha Circular,1998,92.014
+Saracuruna,Penha Circular,1999,138.846
+Saracuruna,Penha Circular,2000,169.286
+Saracuruna,Brás de Pina,1995,182.477
+Saracuruna,Brás de Pina,1996,119.946
+Saracuruna,Brás de Pina,1997,53.566
+Saracuruna,Brás de Pina,1998,41.186
+Saracuruna,Brás de Pina,1999,102.062
+Saracuruna,Brás de Pina,2000,124.437
+Saracuruna,Cordovil,1995,221.23
+Saracuruna,Cordovil,1996,157.267
+Saracuruna,Cordovil,1997,43.838
+Saracuruna,Cordovil,1998,46.462
+Saracuruna,Cordovil,1999,109.255
+Saracuruna,Cordovil,2000,133.207
+Saracuruna,Parada de Lucas,1995,353.607
+Saracuruna,Parada de Lucas,1996,220.008
+Saracuruna,Parada de Lucas,1997,38.722
+Saracuruna,Parada de Lucas,1998,79.613
+Saracuruna,Parada de Lucas,1999,188.329
+Saracuruna,Parada de Lucas,2000,229.617
+Saracuruna,Vigário Geral,1995,90.95
+Saracuruna,Vigário Geral,1996,76.661
+Saracuruna,Vigário Geral,1997,25.557
+Saracuruna,Vigário Geral,1998,39.017
+Saracuruna,Vigário Geral,1999,98.602
+Saracuruna,Vigário Geral,2000,120.219
+Saracuruna,Duque de Caxias,1995,2594.323
+Saracuruna,Duque de Caxias,1996,1843.812
+Saracuruna,Duque de Caxias,1997,1058.936
+Saracuruna,Duque de Caxias,1998,727.411
+Saracuruna,Duque de Caxias,1999,1107.096
+Saracuruna,Duque de Caxias,2000,1349.808
+Saracuruna,Gramacho,1995,2968.989
+Saracuruna,Gramacho,1996,2400.423
+Saracuruna,Gramacho,1997,1607.1
+Saracuruna,Gramacho,1998,1293.73
+Saracuruna,Gramacho,1999,2011.555
+Saracuruna,Gramacho,2000,2453.482
+Saracuruna,Campos Eliseos,1995,118.341
+Saracuruna,Campos Eliseos,1996,53.462
+Saracuruna,Campos Eliseos,1997,19.459
+Saracuruna,Campos Eliseos,1998,14.88
+Saracuruna,Campos Eliseos,1999,74.855
+Saracuruna,Campos Eliseos,2000,91.266
+Saracuruna,Jardim Primavera,1995,...
+Saracuruna,Jardim Primavera,1996,...
+Saracuruna,Jardim Primavera,1997,...
+Saracuruna,Jardim Primavera,1998,...
+Saracuruna,Jardim Primavera,1999,68.388
+Saracuruna,Jardim Primavera,2000,83.381
+Saracuruna,Saracuruna,1995,...
+Saracuruna,Saracuruna,1996,...
+Saracuruna,Saracuruna,1997,...
+Saracuruna,Saracuruna,1998,...
+Saracuruna,Saracuruna,1999,41.298
+Saracuruna,Saracuruna,2000,1152.724
+Saracuruna,Jacarezinho,1995,38.597
+Saracuruna,Jacarezinho,1996,25.171
+Saracuruna,Jacarezinho,1997,2.448
+Saracuruna,Jacarezinho,1998,...
+Saracuruna,Jacarezinho,1999,...
+Saracuruna,Jacarezinho,2000,330.2
+Belford Roxo,Del Castilho,1995,111.609
+Belford Roxo,Del Castilho,1996,98.815
+Belford Roxo,Del Castilho,1997,33.213
+Belford Roxo,Del Castilho,1998,63.057
+Belford Roxo,Del Castilho,1999,115.879
+Belford Roxo,Del Castilho,2000,97.536
+Belford Roxo,Cintra Vidal,1995,169.414
+Belford Roxo,Cintra Vidal,1996,102.723
+Belford Roxo,Cintra Vidal,1997,41.928
+Belford Roxo,Cintra Vidal,1998,43.573
+Belford Roxo,Cintra Vidal,1999,73.109
+Belford Roxo,Cintra Vidal,2000,54.864
+Belford Roxo,Tomás Coelho,1995,163.491
+Belford Roxo,Tomás Coelho,1996,104.403
+Belford Roxo,Tomás Coelho,1997,48.254
+Belford Roxo,Tomás Coelho,1998,44.005
+Belford Roxo,Tomás Coelho,1999,91.867
+Belford Roxo,Tomás Coelho,2000,73.66
+Belford Roxo,Cavalcante,1995,95.68
+Belford Roxo,Cavalcante,1996,65.335
+Belford Roxo,Cavalcante,1997,24.731
+Belford Roxo,Cavalcante,1998,34.335
+Belford Roxo,Cavalcante,1999,80.298
+Belford Roxo,Cavalcante,2000,61.976
+Belford Roxo,Mercadão de Madureira,1995,676.753
+Belford Roxo,Mercadão de Madureira,1996,519.145
+Belford Roxo,Mercadão de Madureira,1997,207.106
+Belford Roxo,Mercadão de Madureira,1998,177.396
+Belford Roxo,Mercadão de Madureira,1999,270.861
+Belford Roxo,Mercadão de Madureira,2000,252.476
+Belford Roxo,Rocha Miranda,1995,106.507
+Belford Roxo,Rocha Miranda,1996,74.609
+Belford Roxo,Rocha Miranda,1997,23.64
+Belford Roxo,Rocha Miranda,1998,25.167
+Belford Roxo,Rocha Miranda,1999,46.958
+Belford Roxo,Rocha Miranda,2000,28.702
+Belford Roxo,Honório Gurgel,1995,129.399
+Belford Roxo,Honório Gurgel,1996,83.732
+Belford Roxo,Honório Gurgel,1997,31.302
+Belford Roxo,Honório Gurgel,1998,32.465
+Belford Roxo,Honório Gurgel,1999,68.607
+Belford Roxo,Honório Gurgel,2000,47.498
+Belford Roxo,Barros Filho,1995,28.043
+Belford Roxo,Barros Filho,1996,21.409
+Belford Roxo,Barros Filho,1997,6.415
+Belford Roxo,Barros Filho,1998,19.411
+Belford Roxo,Barros Filho,1999,35.509
+Belford Roxo,Barros Filho,2000,17.272
+Belford Roxo,Costa Barros,1995,133.439
+Belford Roxo,Costa Barros,1996,74.939
+Belford Roxo,Costa Barros,1997,47.038
+Belford Roxo,Costa Barros,1998,62.609
+Belford Roxo,Costa Barros,1999,86.885
+Belford Roxo,Costa Barros,2000,68.58
+Belford Roxo,Pavuna,1995,578.735
+Belford Roxo,Pavuna,1996,407.545
+Belford Roxo,Pavuna,1997,166.614
+Belford Roxo,Pavuna,1998,123.533
+Belford Roxo,Pavuna,1999,180.576
+Belford Roxo,Pavuna,2000,162.306
+Belford Roxo,Vila Rosali,1995,206.825
+Belford Roxo,Vila Rosali,1996,111.5
+Belford Roxo,Vila Rosali,1997,38.223
+Belford Roxo,Vila Rosali,1998,66.374
+Belford Roxo,Vila Rosali,1999,99.332
+Belford Roxo,Vila Rosali,2000,81.026
+Belford Roxo,Agostinho Porto,1995,227.8
+Belford Roxo,Agostinho Porto,1996,138.031
+Belford Roxo,Agostinho Porto,1997,68.018
+Belford Roxo,Agostinho Porto,1998,75.539
+Belford Roxo,Agostinho Porto,1999,123.502
+Belford Roxo,Agostinho Porto,2000,105.156
+Belford Roxo,Coelho da Rocha,1995,398.351
+Belford Roxo,Coelho da Rocha,1996,271.882
+Belford Roxo,Coelho da Rocha,1997,147.727
+Belford Roxo,Coelho da Rocha,1998,142.241
+Belford Roxo,Coelho da Rocha,1999,211.804
+Belford Roxo,Coelho da Rocha,2000,193.548
+Belford Roxo,Belford Roxo,1995,2220.607
+Belford Roxo,Belford Roxo,1996,1936.418
+Belford Roxo,Belford Roxo,1997,1264.181
+Belford Roxo,Belford Roxo,1998,938.489
+Belford Roxo,Belford Roxo,1999,1054.83
+Belford Roxo,Belford Roxo,2000,965.2
+Belford Roxo,São Mateus,1995,55.333
+Belford Roxo,São Mateus,1996,5.307
+Belford Roxo,São Mateus,1997,...
+Belford Roxo,São Mateus,1998,...
+Belford Roxo,São Mateus,1999,...
+Belford Roxo,São Mateus,2000,...
+Japeri,Ricardo de Albuquerque,1995,284.094
+Japeri,Ricardo de Albuquerque,1996,267.977
+Japeri,Ricardo de Albuquerque,1997,128.414
+Japeri,Ricardo de Albuquerque,1998,85.83
+Japeri,Ricardo de Albuquerque,1999,220.456
+Japeri,Ricardo de Albuquerque,2000,268.596
+Japeri,Anchieta,1995,277.487
+Japeri,Anchieta,1996,233.944
+Japeri,Anchieta,1997,109.358
+Japeri,Anchieta,1998,88.724
+Japeri,Anchieta,1999,210.447
+Japeri,Anchieta,2000,256.401
+Japeri,Olinda,1995,403.798
+Japeri,Olinda,1996,318.653
+Japeri,Olinda,1997,159.258
+Japeri,Olinda,1998,65.325
+Japeri,Olinda,1999,256.806
+Japeri,Olinda,2000,312.884
+Japeri,Nilópolis,1995,1341.065
+Japeri,Nilópolis,1996,1186.632
+Japeri,Nilópolis,1997,690.707
+Japeri,Nilópolis,1998,540.252
+Japeri,Nilópolis,1999,983.743
+Japeri,Nilópolis,2000,1198.559
+Japeri,Edson Passos,1995,590.11
+Japeri,Edson Passos,1996,406.733
+Japeri,Edson Passos,1997,201.568
+Japeri,Edson Passos,1998,262.719
+Japeri,Edson Passos,1999,560.758
+Japeri,Edson Passos,2000,683.208
+Japeri,Mesquita,1995,768.699
+Japeri,Mesquita,1996,564.871
+Japeri,Mesquita,1997,267.133
+Japeri,Mesquita,1998,226.193
+Japeri,Mesquita,1999,572.525
+Japeri,Mesquita,2000,697.545
+Japeri,Pres. Juscelino,1995,435.057
+Japeri,Pres. Juscelino,1996,326.513
+Japeri,Pres. Juscelino,1997,180.779
+Japeri,Pres. Juscelino,1998,171.36
+Japeri,Pres. Juscelino,1999,320.821
+Japeri,Pres. Juscelino,2000,390.877
+Japeri,Nova Iguaçu,1995,3666.513
+Japeri,Nova Iguaçu,1996,3375.933
+Japeri,Nova Iguaçu,1997,2003.85
+Japeri,Nova Iguaçu,1998,1584.359
+Japeri,Nova Iguaçu,1999,2691.575
+Japeri,Nova Iguaçu,2000,3279.323
+Japeri,Comendador Soares,1995,1590.259
+Japeri,Comendador Soares,1996,1558.749
+Japeri,Comendador Soares,1997,857.72
+Japeri,Comendador Soares,1998,987.231
+Japeri,Comendador Soares,1999,1763.569
+Japeri,Comendador Soares,2000,2148.672
+Japeri,Austin,1995,2006.627
+Japeri,Austin,1996,1513.456
+Japeri,Austin,1997,893.007
+Japeri,Austin,1998,1113.757
+Japeri,Austin,1999,1848.444
+Japeri,Austin,2000,2252.081
+Japeri,Queimados,1995,4229.423
+Japeri,Queimados,1996,3377.197
+Japeri,Queimados,1997,2424.13
+Japeri,Queimados,1998,2153.453
+Japeri,Queimados,1999,3329.842
+Japeri,Queimados,2000,4056.966
+Japeri,Engenheiro Pedreira,1995,2490.214
+Japeri,Engenheiro Pedreira,1996,2245.102
+Japeri,Engenheiro Pedreira,1997,1362.2
+Japeri,Engenheiro Pedreira,1998,1887.499
+Japeri,Engenheiro Pedreira,1999,2953.223
+Japeri,Engenheiro Pedreira,2000,3598.106
+Japeri,Japeri,1995,1652.876
+Japeri,Japeri,1996,1317.9
+Japeri,Japeri,1997,965.103
+Japeri,Japeri,1998,1166.925
+Japeri,Japeri,1999,1776.995
+Japeri,Japeri,2000,2165.03
+Japeri,Lages,1995,...
+Japeri,Lages,1996,...
+Japeri,Lages,1997,114.003
+Japeri,Lages,1998,166.065
+Japeri,Lages,1999,239.734
+Japeri,Lages,2000,292.084
+Japeri,Paracambi,1995,641.756
+Japeri,Paracambi,1996,528.922
+Japeri,Paracambi,1997,446.025
+Japeri,Paracambi,1998,366.156
+Japeri,Paracambi,1999,469.97
+Japeri,Paracambi,2000,572.595
+Deodoro,Central do Brasil,2001,14287.401
+Deodoro,Central do Brasil,2002,15827.778
+Deodoro,Central do Brasil,2003,18335.99
+Deodoro,Central do Brasil,2004,17448
+Deodoro,Central do Brasil,2005,18696
+Deodoro,Central do Brasil,2006,21376
+Deodoro,Central do Brasil,2007,25050
+Deodoro,Central do Brasil,2008,28090.486
+Deodoro,Central do Brasil,2009,28542.657
+Deodoro,Central do Brasil,2010,31017.015
+Deodoro,Praça da Bandeira,2001,900.22
+Deodoro,Praça da Bandeira,2002,989.799
+Deodoro,Praça da Bandeira,2003,1140.068
+Deodoro,Praça da Bandeira,2004,1128
+Deodoro,Praça da Bandeira,2005,1131
+Deodoro,Praça da Bandeira,2006,1135
+Deodoro,Praça da Bandeira,2007,1198
+Deodoro,Praça da Bandeira,2008,1327.258
+Deodoro,Praça da Bandeira,2009,1264.772
+Deodoro,Praça da Bandeira,2010,1288.321
 Deodoro,São Cristóvão,2001,3605.278
 Deodoro,São Cristóvão,2002,3849.656
 Deodoro,São Cristóvão,2003,4531.544
@@ -757,16 +757,16 @@ Santa Cruz,Senador Camará,2007,926
 Santa Cruz,Senador Camará,2008,1004.499
 Santa Cruz,Senador Camará,2009,1034.55
 Santa Cruz,Senador Camará,2010,1120.02
-Santa Cruz,Santíssimo ,2001,267.498
-Santa Cruz,Santíssimo ,2002,345.217
-Santa Cruz,Santíssimo ,2003,412.591
-Santa Cruz,Santíssimo ,2004,411
-Santa Cruz,Santíssimo ,2005,450
-Santa Cruz,Santíssimo ,2006,457
-Santa Cruz,Santíssimo ,2007,549
-Santa Cruz,Santíssimo ,2008,611.72
-Santa Cruz,Santíssimo ,2009,600.654
-Santa Cruz,Santíssimo ,2010,646.232
+Santa Cruz,Santíssimo,2001,267.498
+Santa Cruz,Santíssimo,2002,345.217
+Santa Cruz,Santíssimo,2003,412.591
+Santa Cruz,Santíssimo,2004,411
+Santa Cruz,Santíssimo,2005,450
+Santa Cruz,Santíssimo,2006,457
+Santa Cruz,Santíssimo,2007,549
+Santa Cruz,Santíssimo,2008,611.72
+Santa Cruz,Santíssimo,2009,600.654
+Santa Cruz,Santíssimo,2010,646.232
 Santa Cruz,Augusto Vasconcelos,2001,242.332
 Santa Cruz,Augusto Vasconcelos,2002,308.731
 Santa Cruz,Augusto Vasconcelos,2003,373.792
@@ -847,506 +847,506 @@ Santa Cruz,Santa Cruz,2007,2775
 Santa Cruz,Santa Cruz,2008,2927.175
 Santa Cruz,Santa Cruz,2009,2735.037
 Santa Cruz,Santa Cruz,2010,3150.1
-Saracuruna ,Barão de Mauá,2001,55.27
-Saracuruna ,Barão de Mauá,2002,...
-Saracuruna ,Barão de Mauá,2003,...
-Saracuruna ,Barão de Mauá,2004,...
-Saracuruna ,Barão de Mauá,2005,...
-Saracuruna ,Barão de Mauá,2006,...
-Saracuruna ,Barão de Mauá,2007,...
-Saracuruna ,Barão de Mauá,2008,...
-Saracuruna ,Barão de Mauá,2009,...
-Saracuruna ,Barão de Mauá,2010,...
-Saracuruna ,Triagem,2001,545.374
-Saracuruna ,Triagem,2002,592.955
-Saracuruna ,Triagem,2003,678.118
-Saracuruna ,Triagem,2004,629
-Saracuruna ,Triagem,2005,647
-Saracuruna ,Triagem,2006,704
-Saracuruna ,Triagem,2007,703
-Saracuruna ,Triagem,2008,760.337
-Saracuruna ,Triagem,2009,709.663
-Saracuruna ,Triagem,2010,761.392
-Saracuruna ,Manguinhos,2001,233.01
-Saracuruna ,Manguinhos,2002,223.265
-Saracuruna ,Manguinhos,2003,243.926
-Saracuruna ,Manguinhos,2004,181
-Saracuruna ,Manguinhos,2005,193
-Saracuruna ,Manguinhos,2006,252
-Saracuruna ,Manguinhos,2007,244
-Saracuruna ,Manguinhos,2008,236.027
-Saracuruna ,Manguinhos,2009,256.045
-Saracuruna ,Manguinhos,2010,382.902
-Saracuruna ,Bonsucesso,2001,549.179
-Saracuruna ,Bonsucesso,2002,597.716
-Saracuruna ,Bonsucesso,2003,699.68
-Saracuruna ,Bonsucesso,2004,613
-Saracuruna ,Bonsucesso,2005,643
-Saracuruna ,Bonsucesso,2006,716
-Saracuruna ,Bonsucesso,2007,827
-Saracuruna ,Bonsucesso,2008,861.61
-Saracuruna ,Bonsucesso,2009,804.15
-Saracuruna ,Bonsucesso,2010,767.489
-Saracuruna ,Ramos,2001,331.269
-Saracuruna ,Ramos,2002,330.789
-Saracuruna ,Ramos,2003,378.339
-Saracuruna ,Ramos,2004,284
-Saracuruna ,Ramos,2005,282
-Saracuruna ,Ramos,2006,299
-Saracuruna ,Ramos,2007,333
-Saracuruna ,Ramos,2008,357.373
-Saracuruna ,Ramos,2009,362.593
-Saracuruna ,Ramos,2010,440.264
-Saracuruna ,Olaria,2001,297.203
-Saracuruna ,Olaria,2002,322.611
-Saracuruna ,Olaria,2003,371.818
-Saracuruna ,Olaria,2004,294
-Saracuruna ,Olaria,2005,291
-Saracuruna ,Olaria,2006,328
-Saracuruna ,Olaria,2007,380
-Saracuruna ,Olaria,2008,409.412
-Saracuruna ,Olaria,2009,409.937
-Saracuruna ,Olaria,2010,462.056
-Saracuruna ,Penha,2001,253.978
-Saracuruna ,Penha,2002,264.978
-Saracuruna ,Penha,2003,306.716
-Saracuruna ,Penha,2004,262
-Saracuruna ,Penha,2005,276
-Saracuruna ,Penha,2006,301
-Saracuruna ,Penha,2007,329
-Saracuruna ,Penha,2008,356.604
-Saracuruna ,Penha,2009,356.928
-Saracuruna ,Penha,2010,414.159
-Saracuruna ,Penha Circular,2001,193.589
-Saracuruna ,Penha Circular,2002,192.385
-Saracuruna ,Penha Circular,2003,221.124
-Saracuruna ,Penha Circular,2004,201
-Saracuruna ,Penha Circular,2005,218
-Saracuruna ,Penha Circular,2006,245
-Saracuruna ,Penha Circular,2007,281
-Saracuruna ,Penha Circular,2008,303.633
-Saracuruna ,Penha Circular,2009,313.617
-Saracuruna ,Penha Circular,2010,376.104
-Saracuruna ,Brás de Pina,2001,104.005
-Saracuruna ,Brás de Pina,2002,130.019
-Saracuruna ,Brás de Pina,2003,145.571
-Saracuruna ,Brás de Pina,2004,122
-Saracuruna ,Brás de Pina,2005,130
-Saracuruna ,Brás de Pina,2006,133
-Saracuruna ,Brás de Pina,2007,146
-Saracuruna ,Brás de Pina,2008,162.287
-Saracuruna ,Brás de Pina,2009,161.843
-Saracuruna ,Brás de Pina,2010,189.971
-Saracuruna ,Cordovil,2001,125.335
-Saracuruna ,Cordovil,2002,153.637
-Saracuruna ,Cordovil,2003,171.113
-Saracuruna ,Cordovil,2004,147
-Saracuruna ,Cordovil,2005,147
-Saracuruna ,Cordovil,2006,162
-Saracuruna ,Cordovil,2007,187
-Saracuruna ,Cordovil,2008,204.362
-Saracuruna ,Cordovil,2009,217.377
-Saracuruna ,Cordovil,2010,259.392
-Saracuruna ,Parada de Lucas,2001,216.001
-Saracuruna ,Parada de Lucas,2002,217.204
-Saracuruna ,Parada de Lucas,2003,238
-Saracuruna ,Parada de Lucas,2004,194
-Saracuruna ,Parada de Lucas,2005,193
-Saracuruna ,Parada de Lucas,2006,201
-Saracuruna ,Parada de Lucas,2007,237
-Saracuruna ,Parada de Lucas,2008,232.144
-Saracuruna ,Parada de Lucas,2009,236.861
-Saracuruna ,Parada de Lucas,2010,288.196
-Saracuruna ,Vigário Geral,2001,113.205
-Saracuruna ,Vigário Geral,2002,161.123
-Saracuruna ,Vigário Geral,2003,180.155
-Saracuruna ,Vigário Geral,2004,138
-Saracuruna ,Vigário Geral,2005,122
-Saracuruna ,Vigário Geral,2006,132
-Saracuruna ,Vigário Geral,2007,136
-Saracuruna ,Vigário Geral,2008,131.417
-Saracuruna ,Vigário Geral,2009,152.996
-Saracuruna ,Vigário Geral,2010,188.108
-Saracuruna ,Duque de Caxias,2001,1597.484
-Saracuruna ,Duque de Caxias,2002,1674.266
-Saracuruna ,Duque de Caxias,2003,1893.557
-Saracuruna ,Duque de Caxias,2004,1600
-Saracuruna ,Duque de Caxias,2005,1557
-Saracuruna ,Duque de Caxias,2006,1578
-Saracuruna ,Duque de Caxias,2007,1804
-Saracuruna ,Duque de Caxias,2008,1785.214
-Saracuruna ,Duque de Caxias,2009,1788.386
-Saracuruna ,Duque de Caxias,2010,2176.593
-Saracuruna ,Gramacho,2001,2234.492
-Saracuruna ,Gramacho,2002,2415.48
-Saracuruna ,Gramacho,2003,2727.84
-Saracuruna ,Gramacho,2004,2318
-Saracuruna ,Gramacho,2005,2276
-Saracuruna ,Gramacho,2006,2407
-Saracuruna ,Gramacho,2007,2791
-Saracuruna ,Gramacho,2008,2815.635
-Saracuruna ,Gramacho,2009,2823.525
-Saracuruna ,Gramacho,2010,3346.841
-Saracuruna ,Campos Eliseos,2001,237.522
-Saracuruna ,Campos Eliseos,2002,244.644
-Saracuruna ,Campos Eliseos,2003,281.991
-Saracuruna ,Campos Eliseos,2004,281
-Saracuruna ,Campos Eliseos,2005,278
-Saracuruna ,Campos Eliseos,2006,289
-Saracuruna ,Campos Eliseos,2007,334
-Saracuruna ,Campos Eliseos,2008,329.121
-Saracuruna ,Campos Eliseos,2009,346.078
-Saracuruna ,Campos Eliseos,2010,378.645
-Saracuruna ,Jardim Primavera,2001,378.474
-Saracuruna ,Jardim Primavera,2002,401.18
-Saracuruna ,Jardim Primavera,2003,458.467
-Saracuruna ,Jardim Primavera,2004,445
-Saracuruna ,Jardim Primavera,2005,482
-Saracuruna ,Jardim Primavera,2006,517
-Saracuruna ,Jardim Primavera,2007,592
-Saracuruna ,Jardim Primavera,2008,596.602
-Saracuruna ,Jardim Primavera,2009,620.468
-Saracuruna ,Jardim Primavera,2010,727.751
-Saracuruna ,Saracuruna ***,2001,1710.722
-Saracuruna ,Saracuruna ***,2002,1357.771
-Saracuruna ,Saracuruna ***,2003,1528.225
-Saracuruna ,Saracuruna ***,2004,1209
-Saracuruna ,Saracuruna ***,2005,1287
-Saracuruna ,Saracuruna ***,2006,1429
-Saracuruna ,Saracuruna ***,2007,1630
-Saracuruna ,Saracuruna ***,2008,1669.279
-Saracuruna ,Saracuruna ***,2009,1678.6
-Saracuruna ,Saracuruna ***,2010,1822.639
-Saracuruna ,Jacarezinho ,2001,355.304
-Saracuruna ,Jacarezinho ,2002,371.176
-Saracuruna ,Jacarezinho ,2003,432.36
-Saracuruna ,Jacarezinho ,2004,...
-Saracuruna ,Jacarezinho ,2005,...
-Saracuruna ,Jacarezinho ,2006,...
-Saracuruna ,Jacarezinho ,2007,...
-Saracuruna ,Jacarezinho ,2008,...
-Saracuruna ,Jacarezinho ,2009,...
-Saracuruna ,Jacarezinho ,2010,...
-Belford Roxo ,Del Castilho,2001,122.544
-Belford Roxo ,Del Castilho,2002,147.987
-Belford Roxo ,Del Castilho,2003,175.521
-Belford Roxo ,Del Castilho,2004,318
-Belford Roxo ,Del Castilho,2005,286
-Belford Roxo ,Del Castilho,2006,300
-Belford Roxo ,Del Castilho,2007,298
-Belford Roxo ,Del Castilho,2008,344.801
-Belford Roxo ,Del Castilho,2009,335.897
-Belford Roxo ,Del Castilho,2010,439.536
-Belford Roxo ,Cintra Vidal,2001,54.222
-Belford Roxo ,Cintra Vidal,2002,97.13
-Belford Roxo ,Cintra Vidal,2003,138.289
-Belford Roxo ,Cintra Vidal,2004,162
-Belford Roxo ,Cintra Vidal,2005,154
-Belford Roxo ,Cintra Vidal,2006,165
-Belford Roxo ,Cintra Vidal,2007,153
-Belford Roxo ,Cintra Vidal,2008,167.839
-Belford Roxo ,Cintra Vidal,2009,164.772
-Belford Roxo ,Cintra Vidal,2010,188.452
-Belford Roxo ,Tomás Coelho,2001,67.617
-Belford Roxo ,Tomás Coelho,2002,98.299
-Belford Roxo ,Tomás Coelho,2003,130.436
-Belford Roxo ,Tomás Coelho,2004,134
-Belford Roxo ,Tomás Coelho,2005,128
-Belford Roxo ,Tomás Coelho,2006,129
-Belford Roxo ,Tomás Coelho,2007,131
-Belford Roxo ,Tomás Coelho,2008,163.762
-Belford Roxo ,Tomás Coelho,2009,164.238
-Belford Roxo ,Tomás Coelho,2010,214.891
-Belford Roxo ,Cavalcante,2001,64.574
-Belford Roxo ,Cavalcante,2002,93.514
-Belford Roxo ,Cavalcante,2003,120.023
-Belford Roxo ,Cavalcante,2004,121
-Belford Roxo ,Cavalcante,2005,117
-Belford Roxo ,Cavalcante,2006,134
-Belford Roxo ,Cavalcante,2007,138
-Belford Roxo ,Cavalcante,2008,161.586
-Belford Roxo ,Cavalcante,2009,156.775
-Belford Roxo ,Cavalcante,2010,194.306
-Belford Roxo ,Mercadão de Madureira ,2001,235.882
-Belford Roxo ,Mercadão de Madureira ,2002,333.067
-Belford Roxo ,Mercadão de Madureira ,2003,415.919
-Belford Roxo ,Mercadão de Madureira ,2004,111
-Belford Roxo ,Mercadão de Madureira ,2005,107
-Belford Roxo ,Mercadão de Madureira ,2006,107
-Belford Roxo ,Mercadão de Madureira ,2007,113
-Belford Roxo ,Mercadão de Madureira ,2008,138.374
-Belford Roxo ,Mercadão de Madureira ,2009,136.077
-Belford Roxo ,Mercadão de Madureira ,2010,168.685
-Belford Roxo ,Rocha Miranda,2001,45.437
-Belford Roxo ,Rocha Miranda,2002,76.02
-Belford Roxo ,Rocha Miranda,2003,100.572
-Belford Roxo ,Rocha Miranda,2004,400
-Belford Roxo ,Rocha Miranda,2005,372
-Belford Roxo ,Rocha Miranda,2006,416
-Belford Roxo ,Rocha Miranda,2007,506
-Belford Roxo ,Rocha Miranda,2008,646.504
-Belford Roxo ,Rocha Miranda,2009,628.209
-Belford Roxo ,Rocha Miranda,2010,713.627
-Belford Roxo ,Honório Gurgel,2001,75.639
-Belford Roxo ,Honório Gurgel,2002,101.652
-Belford Roxo ,Honório Gurgel,2003,129.376
-Belford Roxo ,Honório Gurgel,2004,92
-Belford Roxo ,Honório Gurgel,2005,90
-Belford Roxo ,Honório Gurgel,2006,95
-Belford Roxo ,Honório Gurgel,2007,101
-Belford Roxo ,Honório Gurgel,2008,130.955
-Belford Roxo ,Honório Gurgel,2009,139.521
-Belford Roxo ,Honório Gurgel,2010,159.026
-Belford Roxo ,Barros Filho,2001,19.523
-Belford Roxo ,Barros Filho,2002,80.516
-Belford Roxo ,Barros Filho,2003,119.659
-Belford Roxo ,Barros Filho,2004,134
-Belford Roxo ,Barros Filho,2005,129
-Belford Roxo ,Barros Filho,2006,131
-Belford Roxo ,Barros Filho,2007,145
-Belford Roxo ,Barros Filho,2008,194.448
-Belford Roxo ,Barros Filho,2009,187.708
-Belford Roxo ,Barros Filho,2010,222.892
-Belford Roxo ,Costa Barros,2001,71.923
-Belford Roxo ,Costa Barros,2002,163.909
-Belford Roxo ,Costa Barros,2003,201.981
-Belford Roxo ,Costa Barros,2004,83
-Belford Roxo ,Costa Barros,2005,54
-Belford Roxo ,Costa Barros,2006,49
-Belford Roxo ,Costa Barros,2007,51
-Belford Roxo ,Costa Barros,2008,54.408
-Belford Roxo ,Costa Barros,2009,53.914
-Belford Roxo ,Costa Barros,2010,69.912
-Belford Roxo ,Pavuna,2001,157.266
-Belford Roxo ,Pavuna,2002,194.034
-Belford Roxo ,Pavuna,2003,248.012
-Belford Roxo ,Pavuna,2004,211
-Belford Roxo ,Pavuna,2005,170
-Belford Roxo ,Pavuna,2006,157
-Belford Roxo ,Pavuna,2007,145
-Belford Roxo ,Pavuna,2008,156.982
-Belford Roxo ,Pavuna,2009,131.684
-Belford Roxo ,Pavuna,2010,165.067
-Belford Roxo ,Vila Rosali,2001,72.671
-Belford Roxo ,Vila Rosali,2002,100.506
-Belford Roxo ,Vila Rosali,2003,122.062
-Belford Roxo ,Vila Rosali,2004,221
-Belford Roxo ,Vila Rosali,2005,205
-Belford Roxo ,Vila Rosali,2006,194
-Belford Roxo ,Vila Rosali,2007,205
-Belford Roxo ,Vila Rosali,2008,253.272
-Belford Roxo ,Vila Rosali,2009,274.081
-Belford Roxo ,Vila Rosali,2010,370.063
-Belford Roxo ,Agostinho Porto,2001,130.378
-Belford Roxo ,Agostinho Porto,2002,162.692
-Belford Roxo ,Agostinho Porto,2003,204.784
-Belford Roxo ,Agostinho Porto,2004,118
-Belford Roxo ,Agostinho Porto,2005,111
-Belford Roxo ,Agostinho Porto,2006,112
-Belford Roxo ,Agostinho Porto,2007,108
-Belford Roxo ,Agostinho Porto,2008,125.254
-Belford Roxo ,Agostinho Porto,2009,107.571
-Belford Roxo ,Agostinho Porto,2010,104.501
-Belford Roxo ,Coelho da Rocha,2001,240.627
-Belford Roxo ,Coelho da Rocha,2002,291.661
-Belford Roxo ,Coelho da Rocha,2003,356.306
-Belford Roxo ,Coelho da Rocha,2004,229
-Belford Roxo ,Coelho da Rocha,2005,231
-Belford Roxo ,Coelho da Rocha,2006,220
-Belford Roxo ,Coelho da Rocha,2007,240
-Belford Roxo ,Coelho da Rocha,2008,281.306
-Belford Roxo ,Coelho da Rocha,2009,286.131
-Belford Roxo ,Coelho da Rocha,2010,302.761
-Belford Roxo ,Belford Roxo,2001,1045.123
-Belford Roxo ,Belford Roxo,2002,1308.012
-Belford Roxo ,Belford Roxo,2003,1600.883
-Belford Roxo ,Belford Roxo,2004,419
-Belford Roxo ,Belford Roxo,2005,423
-Belford Roxo ,Belford Roxo,2006,446
-Belford Roxo ,Belford Roxo,2007,512
-Belford Roxo ,Belford Roxo,2008,602.301
-Belford Roxo ,Belford Roxo,2009,567.384
-Belford Roxo ,Belford Roxo,2010,610.546
-Belford Roxo ,São Mateus,2001,...
-Belford Roxo ,São Mateus,2002,...
-Belford Roxo ,São Mateus,2003,...
-Belford Roxo ,São Mateus,2004,1676
-Belford Roxo ,São Mateus,2005,1616
-Belford Roxo ,São Mateus,2006,1615
-Belford Roxo ,São Mateus,2007,1816
-Belford Roxo ,São Mateus,2008,2173.79
-Belford Roxo ,São Mateus,2009,2154.006
-Belford Roxo ,São Mateus,2010,2518.004
-Japeri ,Ricardo de Albuquerque ,2001,272.168
-Japeri ,Ricardo de Albuquerque ,2002,474.117
-Japeri ,Ricardo de Albuquerque ,2003,559.521
-Japeri ,Ricardo de Albuquerque ,2004,614
-Japeri ,Ricardo de Albuquerque ,2005,646
-Japeri ,Ricardo de Albuquerque ,2006,766
-Japeri ,Ricardo de Albuquerque ,2007,940
-Japeri ,Ricardo de Albuquerque ,2008,1000.486
-Japeri ,Ricardo de Albuquerque ,2009,957.755
-Japeri ,Ricardo de Albuquerque ,2010,1059.629
-Japeri ,Anchieta,2001,295.381
-Japeri ,Anchieta,2002,367.007
-Japeri ,Anchieta,2003,421.331
-Japeri ,Anchieta,2004,466
-Japeri ,Anchieta,2005,500
-Japeri ,Anchieta,2006,600
-Japeri ,Anchieta,2007,729
-Japeri ,Anchieta,2008,804.171
-Japeri ,Anchieta,2009,721.451
-Japeri ,Anchieta,2010,780.802
-Japeri ,Olinda,2001,351.303
-Japeri ,Olinda,2002,470.81
-Japeri ,Olinda,2003,547.93
-Japeri ,Olinda,2004,577
-Japeri ,Olinda,2005,581
-Japeri ,Olinda,2006,650
-Japeri ,Olinda,2007,770
-Japeri ,Olinda,2008,829.867
-Japeri ,Olinda,2009,803.086
-Japeri ,Olinda,2010,849.447
-Japeri ,Nilópolis,2001,1400.784
-Japeri ,Nilópolis,2002,1602.941
-Japeri ,Nilópolis,2003,1873.903
-Japeri ,Nilópolis,2004,1951
-Japeri ,Nilópolis,2005,2018
-Japeri ,Nilópolis,2006,2227
-Japeri ,Nilópolis,2007,2557
-Japeri ,Nilópolis,2008,2701.64
-Japeri ,Nilópolis,2009,2588.476
-Japeri ,Nilópolis,2010,2676.787
-Japeri ,Edson Passos,2001,777.455
-Japeri ,Edson Passos,2002,985.981
-Japeri ,Edson Passos,2003,1153.601
-Japeri ,Edson Passos,2004,1187
-Japeri ,Edson Passos,2005,1198
-Japeri ,Edson Passos,2006,1361
-Japeri ,Edson Passos,2007,1503
-Japeri ,Edson Passos,2008,1557.18
-Japeri ,Edson Passos,2009,1468.657
-Japeri ,Edson Passos,2010,1495.201
-Japeri ,Mesquita,2001,699.208
-Japeri ,Mesquita,2002,843.457
-Japeri ,Mesquita,2003,980.631
-Japeri ,Mesquita,2004,1029
-Japeri ,Mesquita,2005,1059
-Japeri ,Mesquita,2006,1166
-Japeri ,Mesquita,2007,1323
-Japeri ,Mesquita,2008,1429.272
-Japeri ,Mesquita,2009,1407.222
-Japeri ,Mesquita,2010,1509.945
-Japeri ,Pres. Juscelino,2001,404.317
-Japeri ,Pres. Juscelino,2002,472.425
-Japeri ,Pres. Juscelino,2003,547.086
-Japeri ,Pres. Juscelino,2004,594
-Japeri ,Pres. Juscelino,2005,587
-Japeri ,Pres. Juscelino,2006,614
-Japeri ,Pres. Juscelino,2007,697
-Japeri ,Pres. Juscelino,2008,776.42
-Japeri ,Pres. Juscelino,2009,721.868
-Japeri ,Pres. Juscelino,2010,728.809
-Japeri ,Nova Iguaçu,2001,3390.965
-Japeri ,Nova Iguaçu,2002,3728.062
-Japeri ,Nova Iguaçu,2003,4253.71
-Japeri ,Nova Iguaçu,2004,4096
-Japeri ,Nova Iguaçu,2005,4090
-Japeri ,Nova Iguaçu,2006,4364
-Japeri ,Nova Iguaçu,2007,5043
-Japeri ,Nova Iguaçu,2008,5376.959
-Japeri ,Nova Iguaçu,2009,5296.718
-Japeri ,Nova Iguaçu,2010,5735.554
-Japeri ,Comendador Soares,2001,1926.819
-Japeri ,Comendador Soares,2002,1967.466
-Japeri ,Comendador Soares,2003,2260.314
-Japeri ,Comendador Soares,2004,2217
-Japeri ,Comendador Soares,2005,2194
-Japeri ,Comendador Soares,2006,2343
-Japeri ,Comendador Soares,2007,2401
-Japeri ,Comendador Soares,2008,2500.796
-Japeri ,Comendador Soares,2009,2467.792
-Japeri ,Comendador Soares,2010,2594.015
-Japeri ,Austin,2001,2031.226
-Japeri ,Austin,2002,2205.318
-Japeri ,Austin,2003,2544.179
-Japeri ,Austin,2004,2300
-Japeri ,Austin,2005,2366
-Japeri ,Austin,2006,2470
-Japeri ,Austin,2007,2554
-Japeri ,Austin,2008,2688.448
-Japeri ,Austin,2009,2738.733
-Japeri ,Austin,2010,2908.024
-Japeri ,Queimados,2001,3680.518
-Japeri ,Queimados,2002,3757.85
-Japeri ,Queimados,2003,4278.773
-Japeri ,Queimados,2004,4068
-Japeri ,Queimados,2005,4000
-Japeri ,Queimados,2006,4217
-Japeri ,Queimados,2007,4389
-Japeri ,Queimados,2008,4658.447
-Japeri ,Queimados,2009,4655.495
-Japeri ,Queimados,2010,4820.658
-Japeri ,Engenheiro Pedreira,2001,3083.783
-Japeri ,Engenheiro Pedreira,2002,3196.268
-Japeri ,Engenheiro Pedreira,2003,3631.233
-Japeri ,Engenheiro Pedreira,2004,3154
-Japeri ,Engenheiro Pedreira,2005,3120
-Japeri ,Engenheiro Pedreira,2006,3345
-Japeri ,Engenheiro Pedreira,2007,3571
-Japeri ,Engenheiro Pedreira,2008,3704.979
-Japeri ,Engenheiro Pedreira,2009,3615.617
-Japeri ,Engenheiro Pedreira,2010,3772.672
-Japeri ,Japeri,2001,1705.087
-Japeri ,Japeri,2002,1709.511
-Japeri ,Japeri,2003,1920.494
-Japeri ,Japeri,2004,1539
-Japeri ,Japeri,2005,1450
-Japeri ,Japeri,2006,1528
-Japeri ,Japeri,2007,1655
-Japeri ,Japeri,2008,1762.481
-Japeri ,Japeri,2009,1693.68
-Japeri ,Japeri,2010,1810.442
-Japeri ,Lages,2001,229.46
-Japeri ,Lages,2002,252.021
-Japeri ,Lages,2003,285.408
-Japeri ,Lages,2004,232
-Japeri ,Lages,2005,209
-Japeri ,Lages,2006,229
-Japeri ,Lages,2007,274
-Japeri ,Lages,2008,308.311
-Japeri ,Lages,2009,307.633
-Japeri ,Lages,2010,338.071
-Japeri ,Paracambi,2001,574.723
-Japeri ,Paracambi,2002,494.571
-Japeri ,Paracambi,2003,549.097
-Japeri ,Paracambi,2004,574
-Japeri ,Paracambi,2005,529
-Japeri ,Paracambi,2006,547
-Japeri ,Paracambi,2007,605
-Japeri ,Paracambi,2008,629.847
-Japeri ,Paracambi,2009,586.492
-Japeri ,Paracambi,2010,618.879
-Deodoro,Central do Brasil ,2011,33070.566
-Deodoro,Central do Brasil ,2012,32594.086
-Deodoro,Central do Brasil ,2013,34120.272
-Deodoro,Central do Brasil ,2014,35660.182
-Deodoro,Central do Brasil ,2015,39165.322
-Deodoro,Central do Brasil ,2016,40478.042
-Deodoro,Central do Brasil ,2017,35872.573
-Deodoro,Central do Brasil ,2018,36421.395
-Deodoro,Central do Brasil ,2019,36577.563
-Deodoro,Central do Brasil ,2020,19714.316
-Deodoro,Praça da Bandeira ,2011,1218.585
-Deodoro,Praça da Bandeira ,2012,1193.616
-Deodoro,Praça da Bandeira ,2013,1313.72
-Deodoro,Praça da Bandeira ,2014,1290.442
-Deodoro,Praça da Bandeira ,2015,1363.686
-Deodoro,Praça da Bandeira ,2016,1332.925
-Deodoro,Praça da Bandeira ,2017,1166.503
-Deodoro,Praça da Bandeira ,2018,1050.777
-Deodoro,Praça da Bandeira ,2019,959.31
-Deodoro,Praça da Bandeira ,2020,533.876
+Saracuruna,Barão de Mauá,2001,55.27
+Saracuruna,Barão de Mauá,2002,...
+Saracuruna,Barão de Mauá,2003,...
+Saracuruna,Barão de Mauá,2004,...
+Saracuruna,Barão de Mauá,2005,...
+Saracuruna,Barão de Mauá,2006,...
+Saracuruna,Barão de Mauá,2007,...
+Saracuruna,Barão de Mauá,2008,...
+Saracuruna,Barão de Mauá,2009,...
+Saracuruna,Barão de Mauá,2010,...
+Saracuruna,Triagem,2001,545.374
+Saracuruna,Triagem,2002,592.955
+Saracuruna,Triagem,2003,678.118
+Saracuruna,Triagem,2004,629
+Saracuruna,Triagem,2005,647
+Saracuruna,Triagem,2006,704
+Saracuruna,Triagem,2007,703
+Saracuruna,Triagem,2008,760.337
+Saracuruna,Triagem,2009,709.663
+Saracuruna,Triagem,2010,761.392
+Saracuruna,Manguinhos,2001,233.01
+Saracuruna,Manguinhos,2002,223.265
+Saracuruna,Manguinhos,2003,243.926
+Saracuruna,Manguinhos,2004,181
+Saracuruna,Manguinhos,2005,193
+Saracuruna,Manguinhos,2006,252
+Saracuruna,Manguinhos,2007,244
+Saracuruna,Manguinhos,2008,236.027
+Saracuruna,Manguinhos,2009,256.045
+Saracuruna,Manguinhos,2010,382.902
+Saracuruna,Bonsucesso,2001,549.179
+Saracuruna,Bonsucesso,2002,597.716
+Saracuruna,Bonsucesso,2003,699.68
+Saracuruna,Bonsucesso,2004,613
+Saracuruna,Bonsucesso,2005,643
+Saracuruna,Bonsucesso,2006,716
+Saracuruna,Bonsucesso,2007,827
+Saracuruna,Bonsucesso,2008,861.61
+Saracuruna,Bonsucesso,2009,804.15
+Saracuruna,Bonsucesso,2010,767.489
+Saracuruna,Ramos,2001,331.269
+Saracuruna,Ramos,2002,330.789
+Saracuruna,Ramos,2003,378.339
+Saracuruna,Ramos,2004,284
+Saracuruna,Ramos,2005,282
+Saracuruna,Ramos,2006,299
+Saracuruna,Ramos,2007,333
+Saracuruna,Ramos,2008,357.373
+Saracuruna,Ramos,2009,362.593
+Saracuruna,Ramos,2010,440.264
+Saracuruna,Olaria,2001,297.203
+Saracuruna,Olaria,2002,322.611
+Saracuruna,Olaria,2003,371.818
+Saracuruna,Olaria,2004,294
+Saracuruna,Olaria,2005,291
+Saracuruna,Olaria,2006,328
+Saracuruna,Olaria,2007,380
+Saracuruna,Olaria,2008,409.412
+Saracuruna,Olaria,2009,409.937
+Saracuruna,Olaria,2010,462.056
+Saracuruna,Penha,2001,253.978
+Saracuruna,Penha,2002,264.978
+Saracuruna,Penha,2003,306.716
+Saracuruna,Penha,2004,262
+Saracuruna,Penha,2005,276
+Saracuruna,Penha,2006,301
+Saracuruna,Penha,2007,329
+Saracuruna,Penha,2008,356.604
+Saracuruna,Penha,2009,356.928
+Saracuruna,Penha,2010,414.159
+Saracuruna,Penha Circular,2001,193.589
+Saracuruna,Penha Circular,2002,192.385
+Saracuruna,Penha Circular,2003,221.124
+Saracuruna,Penha Circular,2004,201
+Saracuruna,Penha Circular,2005,218
+Saracuruna,Penha Circular,2006,245
+Saracuruna,Penha Circular,2007,281
+Saracuruna,Penha Circular,2008,303.633
+Saracuruna,Penha Circular,2009,313.617
+Saracuruna,Penha Circular,2010,376.104
+Saracuruna,Brás de Pina,2001,104.005
+Saracuruna,Brás de Pina,2002,130.019
+Saracuruna,Brás de Pina,2003,145.571
+Saracuruna,Brás de Pina,2004,122
+Saracuruna,Brás de Pina,2005,130
+Saracuruna,Brás de Pina,2006,133
+Saracuruna,Brás de Pina,2007,146
+Saracuruna,Brás de Pina,2008,162.287
+Saracuruna,Brás de Pina,2009,161.843
+Saracuruna,Brás de Pina,2010,189.971
+Saracuruna,Cordovil,2001,125.335
+Saracuruna,Cordovil,2002,153.637
+Saracuruna,Cordovil,2003,171.113
+Saracuruna,Cordovil,2004,147
+Saracuruna,Cordovil,2005,147
+Saracuruna,Cordovil,2006,162
+Saracuruna,Cordovil,2007,187
+Saracuruna,Cordovil,2008,204.362
+Saracuruna,Cordovil,2009,217.377
+Saracuruna,Cordovil,2010,259.392
+Saracuruna,Parada de Lucas,2001,216.001
+Saracuruna,Parada de Lucas,2002,217.204
+Saracuruna,Parada de Lucas,2003,238
+Saracuruna,Parada de Lucas,2004,194
+Saracuruna,Parada de Lucas,2005,193
+Saracuruna,Parada de Lucas,2006,201
+Saracuruna,Parada de Lucas,2007,237
+Saracuruna,Parada de Lucas,2008,232.144
+Saracuruna,Parada de Lucas,2009,236.861
+Saracuruna,Parada de Lucas,2010,288.196
+Saracuruna,Vigário Geral,2001,113.205
+Saracuruna,Vigário Geral,2002,161.123
+Saracuruna,Vigário Geral,2003,180.155
+Saracuruna,Vigário Geral,2004,138
+Saracuruna,Vigário Geral,2005,122
+Saracuruna,Vigário Geral,2006,132
+Saracuruna,Vigário Geral,2007,136
+Saracuruna,Vigário Geral,2008,131.417
+Saracuruna,Vigário Geral,2009,152.996
+Saracuruna,Vigário Geral,2010,188.108
+Saracuruna,Duque de Caxias,2001,1597.484
+Saracuruna,Duque de Caxias,2002,1674.266
+Saracuruna,Duque de Caxias,2003,1893.557
+Saracuruna,Duque de Caxias,2004,1600
+Saracuruna,Duque de Caxias,2005,1557
+Saracuruna,Duque de Caxias,2006,1578
+Saracuruna,Duque de Caxias,2007,1804
+Saracuruna,Duque de Caxias,2008,1785.214
+Saracuruna,Duque de Caxias,2009,1788.386
+Saracuruna,Duque de Caxias,2010,2176.593
+Saracuruna,Gramacho,2001,2234.492
+Saracuruna,Gramacho,2002,2415.48
+Saracuruna,Gramacho,2003,2727.84
+Saracuruna,Gramacho,2004,2318
+Saracuruna,Gramacho,2005,2276
+Saracuruna,Gramacho,2006,2407
+Saracuruna,Gramacho,2007,2791
+Saracuruna,Gramacho,2008,2815.635
+Saracuruna,Gramacho,2009,2823.525
+Saracuruna,Gramacho,2010,3346.841
+Saracuruna,Campos Eliseos,2001,237.522
+Saracuruna,Campos Eliseos,2002,244.644
+Saracuruna,Campos Eliseos,2003,281.991
+Saracuruna,Campos Eliseos,2004,281
+Saracuruna,Campos Eliseos,2005,278
+Saracuruna,Campos Eliseos,2006,289
+Saracuruna,Campos Eliseos,2007,334
+Saracuruna,Campos Eliseos,2008,329.121
+Saracuruna,Campos Eliseos,2009,346.078
+Saracuruna,Campos Eliseos,2010,378.645
+Saracuruna,Jardim Primavera,2001,378.474
+Saracuruna,Jardim Primavera,2002,401.18
+Saracuruna,Jardim Primavera,2003,458.467
+Saracuruna,Jardim Primavera,2004,445
+Saracuruna,Jardim Primavera,2005,482
+Saracuruna,Jardim Primavera,2006,517
+Saracuruna,Jardim Primavera,2007,592
+Saracuruna,Jardim Primavera,2008,596.602
+Saracuruna,Jardim Primavera,2009,620.468
+Saracuruna,Jardim Primavera,2010,727.751
+Saracuruna,Saracuruna,2001,1710.722
+Saracuruna,Saracuruna,2002,1357.771
+Saracuruna,Saracuruna,2003,1528.225
+Saracuruna,Saracuruna,2004,1209
+Saracuruna,Saracuruna,2005,1287
+Saracuruna,Saracuruna,2006,1429
+Saracuruna,Saracuruna,2007,1630
+Saracuruna,Saracuruna,2008,1669.279
+Saracuruna,Saracuruna,2009,1678.6
+Saracuruna,Saracuruna,2010,1822.639
+Saracuruna,Jacarezinho,2001,355.304
+Saracuruna,Jacarezinho,2002,371.176
+Saracuruna,Jacarezinho,2003,432.36
+Saracuruna,Jacarezinho,2004,...
+Saracuruna,Jacarezinho,2005,...
+Saracuruna,Jacarezinho,2006,...
+Saracuruna,Jacarezinho,2007,...
+Saracuruna,Jacarezinho,2008,...
+Saracuruna,Jacarezinho,2009,...
+Saracuruna,Jacarezinho,2010,...
+Belford Roxo,Del Castilho,2001,122.544
+Belford Roxo,Del Castilho,2002,147.987
+Belford Roxo,Del Castilho,2003,175.521
+Belford Roxo,Del Castilho,2004,318
+Belford Roxo,Del Castilho,2005,286
+Belford Roxo,Del Castilho,2006,300
+Belford Roxo,Del Castilho,2007,298
+Belford Roxo,Del Castilho,2008,344.801
+Belford Roxo,Del Castilho,2009,335.897
+Belford Roxo,Del Castilho,2010,439.536
+Belford Roxo,Cintra Vidal,2001,54.222
+Belford Roxo,Cintra Vidal,2002,97.13
+Belford Roxo,Cintra Vidal,2003,138.289
+Belford Roxo,Cintra Vidal,2004,162
+Belford Roxo,Cintra Vidal,2005,154
+Belford Roxo,Cintra Vidal,2006,165
+Belford Roxo,Cintra Vidal,2007,153
+Belford Roxo,Cintra Vidal,2008,167.839
+Belford Roxo,Cintra Vidal,2009,164.772
+Belford Roxo,Cintra Vidal,2010,188.452
+Belford Roxo,Tomás Coelho,2001,67.617
+Belford Roxo,Tomás Coelho,2002,98.299
+Belford Roxo,Tomás Coelho,2003,130.436
+Belford Roxo,Tomás Coelho,2004,134
+Belford Roxo,Tomás Coelho,2005,128
+Belford Roxo,Tomás Coelho,2006,129
+Belford Roxo,Tomás Coelho,2007,131
+Belford Roxo,Tomás Coelho,2008,163.762
+Belford Roxo,Tomás Coelho,2009,164.238
+Belford Roxo,Tomás Coelho,2010,214.891
+Belford Roxo,Cavalcante,2001,64.574
+Belford Roxo,Cavalcante,2002,93.514
+Belford Roxo,Cavalcante,2003,120.023
+Belford Roxo,Cavalcante,2004,121
+Belford Roxo,Cavalcante,2005,117
+Belford Roxo,Cavalcante,2006,134
+Belford Roxo,Cavalcante,2007,138
+Belford Roxo,Cavalcante,2008,161.586
+Belford Roxo,Cavalcante,2009,156.775
+Belford Roxo,Cavalcante,2010,194.306
+Belford Roxo,Mercadão de Madureira,2001,235.882
+Belford Roxo,Mercadão de Madureira,2002,333.067
+Belford Roxo,Mercadão de Madureira,2003,415.919
+Belford Roxo,Mercadão de Madureira,2004,111
+Belford Roxo,Mercadão de Madureira,2005,107
+Belford Roxo,Mercadão de Madureira,2006,107
+Belford Roxo,Mercadão de Madureira,2007,113
+Belford Roxo,Mercadão de Madureira,2008,138.374
+Belford Roxo,Mercadão de Madureira,2009,136.077
+Belford Roxo,Mercadão de Madureira,2010,168.685
+Belford Roxo,Rocha Miranda,2001,45.437
+Belford Roxo,Rocha Miranda,2002,76.02
+Belford Roxo,Rocha Miranda,2003,100.572
+Belford Roxo,Rocha Miranda,2004,400
+Belford Roxo,Rocha Miranda,2005,372
+Belford Roxo,Rocha Miranda,2006,416
+Belford Roxo,Rocha Miranda,2007,506
+Belford Roxo,Rocha Miranda,2008,646.504
+Belford Roxo,Rocha Miranda,2009,628.209
+Belford Roxo,Rocha Miranda,2010,713.627
+Belford Roxo,Honório Gurgel,2001,75.639
+Belford Roxo,Honório Gurgel,2002,101.652
+Belford Roxo,Honório Gurgel,2003,129.376
+Belford Roxo,Honório Gurgel,2004,92
+Belford Roxo,Honório Gurgel,2005,90
+Belford Roxo,Honório Gurgel,2006,95
+Belford Roxo,Honório Gurgel,2007,101
+Belford Roxo,Honório Gurgel,2008,130.955
+Belford Roxo,Honório Gurgel,2009,139.521
+Belford Roxo,Honório Gurgel,2010,159.026
+Belford Roxo,Barros Filho,2001,19.523
+Belford Roxo,Barros Filho,2002,80.516
+Belford Roxo,Barros Filho,2003,119.659
+Belford Roxo,Barros Filho,2004,134
+Belford Roxo,Barros Filho,2005,129
+Belford Roxo,Barros Filho,2006,131
+Belford Roxo,Barros Filho,2007,145
+Belford Roxo,Barros Filho,2008,194.448
+Belford Roxo,Barros Filho,2009,187.708
+Belford Roxo,Barros Filho,2010,222.892
+Belford Roxo,Costa Barros,2001,71.923
+Belford Roxo,Costa Barros,2002,163.909
+Belford Roxo,Costa Barros,2003,201.981
+Belford Roxo,Costa Barros,2004,83
+Belford Roxo,Costa Barros,2005,54
+Belford Roxo,Costa Barros,2006,49
+Belford Roxo,Costa Barros,2007,51
+Belford Roxo,Costa Barros,2008,54.408
+Belford Roxo,Costa Barros,2009,53.914
+Belford Roxo,Costa Barros,2010,69.912
+Belford Roxo,Pavuna,2001,157.266
+Belford Roxo,Pavuna,2002,194.034
+Belford Roxo,Pavuna,2003,248.012
+Belford Roxo,Pavuna,2004,211
+Belford Roxo,Pavuna,2005,170
+Belford Roxo,Pavuna,2006,157
+Belford Roxo,Pavuna,2007,145
+Belford Roxo,Pavuna,2008,156.982
+Belford Roxo,Pavuna,2009,131.684
+Belford Roxo,Pavuna,2010,165.067
+Belford Roxo,Vila Rosali,2001,72.671
+Belford Roxo,Vila Rosali,2002,100.506
+Belford Roxo,Vila Rosali,2003,122.062
+Belford Roxo,Vila Rosali,2004,221
+Belford Roxo,Vila Rosali,2005,205
+Belford Roxo,Vila Rosali,2006,194
+Belford Roxo,Vila Rosali,2007,205
+Belford Roxo,Vila Rosali,2008,253.272
+Belford Roxo,Vila Rosali,2009,274.081
+Belford Roxo,Vila Rosali,2010,370.063
+Belford Roxo,Agostinho Porto,2001,130.378
+Belford Roxo,Agostinho Porto,2002,162.692
+Belford Roxo,Agostinho Porto,2003,204.784
+Belford Roxo,Agostinho Porto,2004,118
+Belford Roxo,Agostinho Porto,2005,111
+Belford Roxo,Agostinho Porto,2006,112
+Belford Roxo,Agostinho Porto,2007,108
+Belford Roxo,Agostinho Porto,2008,125.254
+Belford Roxo,Agostinho Porto,2009,107.571
+Belford Roxo,Agostinho Porto,2010,104.501
+Belford Roxo,Coelho da Rocha,2001,240.627
+Belford Roxo,Coelho da Rocha,2002,291.661
+Belford Roxo,Coelho da Rocha,2003,356.306
+Belford Roxo,Coelho da Rocha,2004,229
+Belford Roxo,Coelho da Rocha,2005,231
+Belford Roxo,Coelho da Rocha,2006,220
+Belford Roxo,Coelho da Rocha,2007,240
+Belford Roxo,Coelho da Rocha,2008,281.306
+Belford Roxo,Coelho da Rocha,2009,286.131
+Belford Roxo,Coelho da Rocha,2010,302.761
+Belford Roxo,Belford Roxo,2001,1045.123
+Belford Roxo,Belford Roxo,2002,1308.012
+Belford Roxo,Belford Roxo,2003,1600.883
+Belford Roxo,Belford Roxo,2004,419
+Belford Roxo,Belford Roxo,2005,423
+Belford Roxo,Belford Roxo,2006,446
+Belford Roxo,Belford Roxo,2007,512
+Belford Roxo,Belford Roxo,2008,602.301
+Belford Roxo,Belford Roxo,2009,567.384
+Belford Roxo,Belford Roxo,2010,610.546
+Belford Roxo,São Mateus,2001,...
+Belford Roxo,São Mateus,2002,...
+Belford Roxo,São Mateus,2003,...
+Belford Roxo,São Mateus,2004,1676
+Belford Roxo,São Mateus,2005,1616
+Belford Roxo,São Mateus,2006,1615
+Belford Roxo,São Mateus,2007,1816
+Belford Roxo,São Mateus,2008,2173.79
+Belford Roxo,São Mateus,2009,2154.006
+Belford Roxo,São Mateus,2010,2518.004
+Japeri,Ricardo de Albuquerque,2001,272.168
+Japeri,Ricardo de Albuquerque,2002,474.117
+Japeri,Ricardo de Albuquerque,2003,559.521
+Japeri,Ricardo de Albuquerque,2004,614
+Japeri,Ricardo de Albuquerque,2005,646
+Japeri,Ricardo de Albuquerque,2006,766
+Japeri,Ricardo de Albuquerque,2007,940
+Japeri,Ricardo de Albuquerque,2008,1000.486
+Japeri,Ricardo de Albuquerque,2009,957.755
+Japeri,Ricardo de Albuquerque,2010,1059.629
+Japeri,Anchieta,2001,295.381
+Japeri,Anchieta,2002,367.007
+Japeri,Anchieta,2003,421.331
+Japeri,Anchieta,2004,466
+Japeri,Anchieta,2005,500
+Japeri,Anchieta,2006,600
+Japeri,Anchieta,2007,729
+Japeri,Anchieta,2008,804.171
+Japeri,Anchieta,2009,721.451
+Japeri,Anchieta,2010,780.802
+Japeri,Olinda,2001,351.303
+Japeri,Olinda,2002,470.81
+Japeri,Olinda,2003,547.93
+Japeri,Olinda,2004,577
+Japeri,Olinda,2005,581
+Japeri,Olinda,2006,650
+Japeri,Olinda,2007,770
+Japeri,Olinda,2008,829.867
+Japeri,Olinda,2009,803.086
+Japeri,Olinda,2010,849.447
+Japeri,Nilópolis,2001,1400.784
+Japeri,Nilópolis,2002,1602.941
+Japeri,Nilópolis,2003,1873.903
+Japeri,Nilópolis,2004,1951
+Japeri,Nilópolis,2005,2018
+Japeri,Nilópolis,2006,2227
+Japeri,Nilópolis,2007,2557
+Japeri,Nilópolis,2008,2701.64
+Japeri,Nilópolis,2009,2588.476
+Japeri,Nilópolis,2010,2676.787
+Japeri,Edson Passos,2001,777.455
+Japeri,Edson Passos,2002,985.981
+Japeri,Edson Passos,2003,1153.601
+Japeri,Edson Passos,2004,1187
+Japeri,Edson Passos,2005,1198
+Japeri,Edson Passos,2006,1361
+Japeri,Edson Passos,2007,1503
+Japeri,Edson Passos,2008,1557.18
+Japeri,Edson Passos,2009,1468.657
+Japeri,Edson Passos,2010,1495.201
+Japeri,Mesquita,2001,699.208
+Japeri,Mesquita,2002,843.457
+Japeri,Mesquita,2003,980.631
+Japeri,Mesquita,2004,1029
+Japeri,Mesquita,2005,1059
+Japeri,Mesquita,2006,1166
+Japeri,Mesquita,2007,1323
+Japeri,Mesquita,2008,1429.272
+Japeri,Mesquita,2009,1407.222
+Japeri,Mesquita,2010,1509.945
+Japeri,Pres. Juscelino,2001,404.317
+Japeri,Pres. Juscelino,2002,472.425
+Japeri,Pres. Juscelino,2003,547.086
+Japeri,Pres. Juscelino,2004,594
+Japeri,Pres. Juscelino,2005,587
+Japeri,Pres. Juscelino,2006,614
+Japeri,Pres. Juscelino,2007,697
+Japeri,Pres. Juscelino,2008,776.42
+Japeri,Pres. Juscelino,2009,721.868
+Japeri,Pres. Juscelino,2010,728.809
+Japeri,Nova Iguaçu,2001,3390.965
+Japeri,Nova Iguaçu,2002,3728.062
+Japeri,Nova Iguaçu,2003,4253.71
+Japeri,Nova Iguaçu,2004,4096
+Japeri,Nova Iguaçu,2005,4090
+Japeri,Nova Iguaçu,2006,4364
+Japeri,Nova Iguaçu,2007,5043
+Japeri,Nova Iguaçu,2008,5376.959
+Japeri,Nova Iguaçu,2009,5296.718
+Japeri,Nova Iguaçu,2010,5735.554
+Japeri,Comendador Soares,2001,1926.819
+Japeri,Comendador Soares,2002,1967.466
+Japeri,Comendador Soares,2003,2260.314
+Japeri,Comendador Soares,2004,2217
+Japeri,Comendador Soares,2005,2194
+Japeri,Comendador Soares,2006,2343
+Japeri,Comendador Soares,2007,2401
+Japeri,Comendador Soares,2008,2500.796
+Japeri,Comendador Soares,2009,2467.792
+Japeri,Comendador Soares,2010,2594.015
+Japeri,Austin,2001,2031.226
+Japeri,Austin,2002,2205.318
+Japeri,Austin,2003,2544.179
+Japeri,Austin,2004,2300
+Japeri,Austin,2005,2366
+Japeri,Austin,2006,2470
+Japeri,Austin,2007,2554
+Japeri,Austin,2008,2688.448
+Japeri,Austin,2009,2738.733
+Japeri,Austin,2010,2908.024
+Japeri,Queimados,2001,3680.518
+Japeri,Queimados,2002,3757.85
+Japeri,Queimados,2003,4278.773
+Japeri,Queimados,2004,4068
+Japeri,Queimados,2005,4000
+Japeri,Queimados,2006,4217
+Japeri,Queimados,2007,4389
+Japeri,Queimados,2008,4658.447
+Japeri,Queimados,2009,4655.495
+Japeri,Queimados,2010,4820.658
+Japeri,Engenheiro Pedreira,2001,3083.783
+Japeri,Engenheiro Pedreira,2002,3196.268
+Japeri,Engenheiro Pedreira,2003,3631.233
+Japeri,Engenheiro Pedreira,2004,3154
+Japeri,Engenheiro Pedreira,2005,3120
+Japeri,Engenheiro Pedreira,2006,3345
+Japeri,Engenheiro Pedreira,2007,3571
+Japeri,Engenheiro Pedreira,2008,3704.979
+Japeri,Engenheiro Pedreira,2009,3615.617
+Japeri,Engenheiro Pedreira,2010,3772.672
+Japeri,Japeri,2001,1705.087
+Japeri,Japeri,2002,1709.511
+Japeri,Japeri,2003,1920.494
+Japeri,Japeri,2004,1539
+Japeri,Japeri,2005,1450
+Japeri,Japeri,2006,1528
+Japeri,Japeri,2007,1655
+Japeri,Japeri,2008,1762.481
+Japeri,Japeri,2009,1693.68
+Japeri,Japeri,2010,1810.442
+Japeri,Lages,2001,229.46
+Japeri,Lages,2002,252.021
+Japeri,Lages,2003,285.408
+Japeri,Lages,2004,232
+Japeri,Lages,2005,209
+Japeri,Lages,2006,229
+Japeri,Lages,2007,274
+Japeri,Lages,2008,308.311
+Japeri,Lages,2009,307.633
+Japeri,Lages,2010,338.071
+Japeri,Paracambi,2001,574.723
+Japeri,Paracambi,2002,494.571
+Japeri,Paracambi,2003,549.097
+Japeri,Paracambi,2004,574
+Japeri,Paracambi,2005,529
+Japeri,Paracambi,2006,547
+Japeri,Paracambi,2007,605
+Japeri,Paracambi,2008,629.847
+Japeri,Paracambi,2009,586.492
+Japeri,Paracambi,2010,618.879
+Deodoro,Central do Brasil,2011,33070.566
+Deodoro,Central do Brasil,2012,32594.086
+Deodoro,Central do Brasil,2013,34120.272
+Deodoro,Central do Brasil,2014,35660.182
+Deodoro,Central do Brasil,2015,39165.322
+Deodoro,Central do Brasil,2016,40478.042
+Deodoro,Central do Brasil,2017,35872.573
+Deodoro,Central do Brasil,2018,36421.395
+Deodoro,Central do Brasil,2019,36577.563
+Deodoro,Central do Brasil,2020,19714.316
+Deodoro,Praça da Bandeira,2011,1218.585
+Deodoro,Praça da Bandeira,2012,1193.616
+Deodoro,Praça da Bandeira,2013,1313.72
+Deodoro,Praça da Bandeira,2014,1290.442
+Deodoro,Praça da Bandeira,2015,1363.686
+Deodoro,Praça da Bandeira,2016,1332.925
+Deodoro,Praça da Bandeira,2017,1166.503
+Deodoro,Praça da Bandeira,2018,1050.777
+Deodoro,Praça da Bandeira,2019,959.31
+Deodoro,Praça da Bandeira,2020,533.876
 Deodoro,São Cristóvão,2011,5433.089
 Deodoro,São Cristóvão,2012,6096.878
 Deodoro,São Cristóvão,2013,7618.41
@@ -1417,16 +1417,16 @@ Deodoro,Engenho Novo,2017,1172.347
 Deodoro,Engenho Novo,2018,1105.095
 Deodoro,Engenho Novo,2019,1067.103
 Deodoro,Engenho Novo,2020,638.977
-Deodoro,Silva Freire ,2011,...
-Deodoro,Silva Freire ,2012,1214.791
-Deodoro,Silva Freire ,2013,1737.942
-Deodoro,Silva Freire ,2014,1554.383
-Deodoro,Silva Freire ,2015,304.04
-Deodoro,Silva Freire ,2016,233.376
-Deodoro,Silva Freire ,2017,153.681
-Deodoro,Silva Freire ,2018,137.145
-Deodoro,Silva Freire ,2019,123.31
-Deodoro,Silva Freire ,2020,45.86
+Deodoro,Silva Freire,2011,...
+Deodoro,Silva Freire,2012,1214.791
+Deodoro,Silva Freire,2013,1737.942
+Deodoro,Silva Freire,2014,1554.383
+Deodoro,Silva Freire,2015,304.04
+Deodoro,Silva Freire,2016,233.376
+Deodoro,Silva Freire,2017,153.681
+Deodoro,Silva Freire,2018,137.145
+Deodoro,Silva Freire,2019,123.31
+Deodoro,Silva Freire,2020,45.86
 Deodoro,Méier,2011,2843.937
 Deodoro,Méier,2012,2235.365
 Deodoro,Méier,2013,2237.697
@@ -1597,16 +1597,16 @@ Santa Cruz,Senador Camará,2017,1106.849
 Santa Cruz,Senador Camará,2018,991.164
 Santa Cruz,Senador Camará,2019,975.031
 Santa Cruz,Senador Camará,2020,644.623
-Santa Cruz,Santíssimo ,2011,655.962
-Santa Cruz,Santíssimo ,2012,703.642
-Santa Cruz,Santíssimo ,2013,802.278
-Santa Cruz,Santíssimo ,2014,950.903
-Santa Cruz,Santíssimo ,2015,1047.933
-Santa Cruz,Santíssimo ,2016,1065.876
-Santa Cruz,Santíssimo ,2017,889.912
-Santa Cruz,Santíssimo ,2018,883.254
-Santa Cruz,Santíssimo ,2019,1003.451
-Santa Cruz,Santíssimo ,2020,565.58
+Santa Cruz,Santíssimo,2011,655.962
+Santa Cruz,Santíssimo,2012,703.642
+Santa Cruz,Santíssimo,2013,802.278
+Santa Cruz,Santíssimo,2014,950.903
+Santa Cruz,Santíssimo,2015,1047.933
+Santa Cruz,Santíssimo,2016,1065.876
+Santa Cruz,Santíssimo,2017,889.912
+Santa Cruz,Santíssimo,2018,883.254
+Santa Cruz,Santíssimo,2019,1003.451
+Santa Cruz,Santíssimo,2020,565.58
 Santa Cruz,Augusto Vasconcelos,2011,601.495
 Santa Cruz,Augusto Vasconcelos,2012,638.161
 Santa Cruz,Augusto Vasconcelos,2013,674.102
@@ -1687,490 +1687,490 @@ Santa Cruz,Santa Cruz,2017,4168.653
 Santa Cruz,Santa Cruz,2018,4355.908
 Santa Cruz,Santa Cruz,2019,4494.212
 Santa Cruz,Santa Cruz,2020,2965.759
-Saracuruna ,Triagem,2011,846
-Saracuruna ,Triagem,2012,913.69
-Saracuruna ,Triagem,2013,963.356
-Saracuruna ,Triagem,2014,1139.815
-Saracuruna ,Triagem,2015,1264.487
-Saracuruna ,Triagem,2016,1303.656
-Saracuruna ,Triagem,2017,1155.79
-Saracuruna ,Triagem,2018,1126.929
-Saracuruna ,Triagem,2019,1043.22
-Saracuruna ,Triagem,2020,642.815
-Saracuruna ,Manguinhos,2011,411.634
-Saracuruna ,Manguinhos,2012,443.966
-Saracuruna ,Manguinhos,2013,399.425
-Saracuruna ,Manguinhos,2014,505.195
-Saracuruna ,Manguinhos,2015,602.57
-Saracuruna ,Manguinhos,2016,715.685
-Saracuruna ,Manguinhos,2017,668.129
-Saracuruna ,Manguinhos,2018,726.38
-Saracuruna ,Manguinhos,2019,744.763
-Saracuruna ,Manguinhos,2020,452.857
-Saracuruna ,Bonsucesso,2011,898.304
-Saracuruna ,Bonsucesso,2012,1101.828
-Saracuruna ,Bonsucesso,2013,1524.766
-Saracuruna ,Bonsucesso,2014,1993.453
-Saracuruna ,Bonsucesso,2015,2133.988
-Saracuruna ,Bonsucesso,2016,2224.74
-Saracuruna ,Bonsucesso,2017,1816.156
-Saracuruna ,Bonsucesso,2018,1771.204
-Saracuruna ,Bonsucesso,2019,1793.652
-Saracuruna ,Bonsucesso,2020,1099.851
-Saracuruna ,Ramos,2011,459.033
-Saracuruna ,Ramos,2012,470.343
-Saracuruna ,Ramos,2013,573.841
-Saracuruna ,Ramos,2014,733.86
-Saracuruna ,Ramos,2015,861.353
-Saracuruna ,Ramos,2016,930.488
-Saracuruna ,Ramos,2017,818.611
-Saracuruna ,Ramos,2018,777.583
-Saracuruna ,Ramos,2019,802.993
-Saracuruna ,Ramos,2020,477.244
-Saracuruna ,Olaria,2011,504.192
-Saracuruna ,Olaria,2012,513.826
-Saracuruna ,Olaria,2013,646.736
-Saracuruna ,Olaria,2014,830.874
-Saracuruna ,Olaria,2015,1008.514
-Saracuruna ,Olaria,2016,1095.826
-Saracuruna ,Olaria,2017,937.128
-Saracuruna ,Olaria,2018,892.528
-Saracuruna ,Olaria,2019,897.485
-Saracuruna ,Olaria,2020,506.537
-Saracuruna ,Penha,2011,459.767
-Saracuruna ,Penha,2012,495.312
-Saracuruna ,Penha,2013,656.24
-Saracuruna ,Penha,2014,918.123
-Saracuruna ,Penha,2015,1227.642
-Saracuruna ,Penha,2016,1315.642
-Saracuruna ,Penha,2017,1113.312
-Saracuruna ,Penha,2018,1111.144
-Saracuruna ,Penha,2019,1126.22
-Saracuruna ,Penha,2020,695.236
-Saracuruna ,Penha Circular,2011,427.551
-Saracuruna ,Penha Circular,2012,464.326
-Saracuruna ,Penha Circular,2013,570.087
-Saracuruna ,Penha Circular,2014,746.023
-Saracuruna ,Penha Circular,2015,843.637
-Saracuruna ,Penha Circular,2016,822.146
-Saracuruna ,Penha Circular,2017,774.352
-Saracuruna ,Penha Circular,2018,778.156
-Saracuruna ,Penha Circular,2019,741.972
-Saracuruna ,Penha Circular,2020,516.607
-Saracuruna ,Brás de Pina,2011,200.634
-Saracuruna ,Brás de Pina,2012,200.547
-Saracuruna ,Brás de Pina,2013,253.584
-Saracuruna ,Brás de Pina,2014,331.783
-Saracuruna ,Brás de Pina,2015,387.169
-Saracuruna ,Brás de Pina,2016,420.941
-Saracuruna ,Brás de Pina,2017,378.461
-Saracuruna ,Brás de Pina,2018,387.756
-Saracuruna ,Brás de Pina,2019,377.709
-Saracuruna ,Brás de Pina,2020,228.069
-Saracuruna ,Cordovil,2011,260.996
-Saracuruna ,Cordovil,2012,264.722
-Saracuruna ,Cordovil,2013,330.528
-Saracuruna ,Cordovil,2014,458.479
-Saracuruna ,Cordovil,2015,510.292
-Saracuruna ,Cordovil,2016,571.79
-Saracuruna ,Cordovil,2017,462.014
-Saracuruna ,Cordovil,2018,481.667
-Saracuruna ,Cordovil,2019,459.119
-Saracuruna ,Cordovil,2020,295.253
-Saracuruna ,Parada de Lucas,2011,306.926
-Saracuruna ,Parada de Lucas,2012,320.772
-Saracuruna ,Parada de Lucas,2013,387.167
-Saracuruna ,Parada de Lucas,2014,512.8
-Saracuruna ,Parada de Lucas,2015,591.568
-Saracuruna ,Parada de Lucas,2016,654.224
-Saracuruna ,Parada de Lucas,2017,613.735
-Saracuruna ,Parada de Lucas,2018,653.514
-Saracuruna ,Parada de Lucas,2019,612.265
-Saracuruna ,Parada de Lucas,2020,459.803
-Saracuruna ,Vigário Geral,2011,204.415
-Saracuruna ,Vigário Geral,2012,219.199
-Saracuruna ,Vigário Geral,2013,266.172
-Saracuruna ,Vigário Geral,2014,348.384
-Saracuruna ,Vigário Geral,2015,440.288
-Saracuruna ,Vigário Geral,2016,443.334
-Saracuruna ,Vigário Geral,2017,381.874
-Saracuruna ,Vigário Geral,2018,398.478
-Saracuruna ,Vigário Geral,2019,378.608
-Saracuruna ,Vigário Geral,2020,255.795
-Saracuruna ,Duque de Caxias,2011,2425.222
-Saracuruna ,Duque de Caxias,2012,2498.997
-Saracuruna ,Duque de Caxias,2013,2947.147
-Saracuruna ,Duque de Caxias,2014,3636.443
-Saracuruna ,Duque de Caxias,2015,4524.317
-Saracuruna ,Duque de Caxias,2016,4575.59
-Saracuruna ,Duque de Caxias,2017,4025.623
-Saracuruna ,Duque de Caxias,2018,4276.713
-Saracuruna ,Duque de Caxias,2019,4209.609
-Saracuruna ,Duque de Caxias,2020,2893.872
-Saracuruna ,Corte Oito,2011,...
-Saracuruna ,Corte Oito,2012,...
-Saracuruna ,Corte Oito,2013,434.174
-Saracuruna ,Corte Oito,2014,740.456
-Saracuruna ,Corte Oito,2015,942.167
-Saracuruna ,Corte Oito,2016,997.385
-Saracuruna ,Corte Oito,2017,1001.04
-Saracuruna ,Corte Oito,2018,1147.901
-Saracuruna ,Corte Oito,2019,1253.281
-Saracuruna ,Corte Oito,2020,746.171
-Saracuruna ,Gramacho,2011,3623.505
-Saracuruna ,Gramacho,2012,3821.64
-Saracuruna ,Gramacho,2013,4144.062
-Saracuruna ,Gramacho,2014,4616.759
-Saracuruna ,Gramacho,2015,5080.263
-Saracuruna ,Gramacho,2016,4764.373
-Saracuruna ,Gramacho,2017,4073.863
-Saracuruna ,Gramacho,2018,4156.957
-Saracuruna ,Gramacho,2019,4085.973
-Saracuruna ,Gramacho,2020,2686.938
-Saracuruna ,Campos Eliseos,2011,435.27
-Saracuruna ,Campos Eliseos,2012,471.107
-Saracuruna ,Campos Eliseos,2013,514.475
-Saracuruna ,Campos Eliseos,2014,523.515
-Saracuruna ,Campos Eliseos,2015,540.229
-Saracuruna ,Campos Eliseos,2016,462.715
-Saracuruna ,Campos Eliseos,2017,387.292
-Saracuruna ,Campos Eliseos,2018,396.465
-Saracuruna ,Campos Eliseos,2019,468.573
-Saracuruna ,Campos Eliseos,2020,289.864
-Saracuruna ,Jardim Primavera,2011,800.645
-Saracuruna ,Jardim Primavera,2012,868.244
-Saracuruna ,Jardim Primavera,2013,918.701
-Saracuruna ,Jardim Primavera,2014,942.744
-Saracuruna ,Jardim Primavera,2015,989.099
-Saracuruna ,Jardim Primavera,2016,883.41
-Saracuruna ,Jardim Primavera,2017,771.041
-Saracuruna ,Jardim Primavera,2018,723.823
-Saracuruna ,Jardim Primavera,2019,821.697
-Saracuruna ,Jardim Primavera,2020,468.707
-Saracuruna ,Saracuruna ***,2011,1817.374
-Saracuruna ,Saracuruna ***,2012,1711.253
-Saracuruna ,Saracuruna ***,2013,1855.42
-Saracuruna ,Saracuruna ***,2014,1973.977
-Saracuruna ,Saracuruna ***,2015,2072.904
-Saracuruna ,Saracuruna ***,2016,1933.98
-Saracuruna ,Saracuruna ***,2017,1873.021
-Saracuruna ,Saracuruna ***,2018,1835.413
-Saracuruna ,Saracuruna ***,2019,1956.165
-Saracuruna ,Saracuruna ***,2020,1243.287
-Saracuruna ,Jacarezinho ,2011,...
-Saracuruna ,Jacarezinho ,2012,425.045
-Saracuruna ,Jacarezinho ,2013,228.994
-Saracuruna ,Jacarezinho ,2014,169.535
-Saracuruna ,Jacarezinho ,2015,120.814
-Saracuruna ,Jacarezinho ,2016,116.799
-Saracuruna ,Jacarezinho ,2017,71.22
-Saracuruna ,Jacarezinho ,2018,252.484
-Saracuruna ,Jacarezinho ,2019,320.122
-Saracuruna ,Jacarezinho ,2020,292.436
-Belford Roxo ,Del Castilho,2011,465.213
-Belford Roxo ,Del Castilho,2012,282.185
-Belford Roxo ,Del Castilho,2013,297.297
-Belford Roxo ,Del Castilho,2014,319.453
-Belford Roxo ,Del Castilho,2015,258.933
-Belford Roxo ,Del Castilho,2016,211.881
-Belford Roxo ,Del Castilho,2017,162.987
-Belford Roxo ,Del Castilho,2018,157.4
-Belford Roxo ,Del Castilho,2019,145.14
-Belford Roxo ,Del Castilho,2020,84.601
-Belford Roxo ,Cintra Vidal,2011,233.477
-Belford Roxo ,Cintra Vidal,2012,217.208
-Belford Roxo ,Cintra Vidal,2013,230.79
-Belford Roxo ,Cintra Vidal,2014,287.908
-Belford Roxo ,Cintra Vidal,2015,304.353
-Belford Roxo ,Cintra Vidal,2016,270.923
-Belford Roxo ,Cintra Vidal,2017,235.041
-Belford Roxo ,Cintra Vidal,2018,217.641
-Belford Roxo ,Cintra Vidal,2019,210.853
-Belford Roxo ,Cintra Vidal,2020,112.266
-Belford Roxo ,Tomás Coelho,2011,226.893
-Belford Roxo ,Tomás Coelho,2012,210.778
-Belford Roxo ,Tomás Coelho,2013,203.388
-Belford Roxo ,Tomás Coelho,2014,205.22
-Belford Roxo ,Tomás Coelho,2015,203.795
-Belford Roxo ,Tomás Coelho,2016,193.471
-Belford Roxo ,Tomás Coelho,2017,160.999
-Belford Roxo ,Tomás Coelho,2018,103.362
-Belford Roxo ,Tomás Coelho,2019,104.718
-Belford Roxo ,Tomás Coelho,2020,71.762
-Belford Roxo ,Cavalcante,2011,213.43
-Belford Roxo ,Cavalcante,2012,204.905
-Belford Roxo ,Cavalcante,2013,206.961
-Belford Roxo ,Cavalcante,2014,216.906
-Belford Roxo ,Cavalcante,2015,205.136
-Belford Roxo ,Cavalcante,2016,174.528
-Belford Roxo ,Cavalcante,2017,125.326
-Belford Roxo ,Cavalcante,2018,85.427
-Belford Roxo ,Cavalcante,2019,89.444
-Belford Roxo ,Cavalcante,2020,71.837
-Belford Roxo ,Mercadão de Madureira ,2011,194.487
-Belford Roxo ,Mercadão de Madureira ,2012,867.437
-Belford Roxo ,Mercadão de Madureira ,2013,926.031
-Belford Roxo ,Mercadão de Madureira ,2014,1073.418
-Belford Roxo ,Mercadão de Madureira ,2015,1137.956
-Belford Roxo ,Mercadão de Madureira ,2016,1095.319
-Belford Roxo ,Mercadão de Madureira ,2017,902.011
-Belford Roxo ,Mercadão de Madureira ,2018,888.748
-Belford Roxo ,Mercadão de Madureira ,2019,941.522
-Belford Roxo ,Mercadão de Madureira ,2020,597.01
-Belford Roxo ,Rocha Miranda,2011,799.836
-Belford Roxo ,Rocha Miranda,2012,170.779
-Belford Roxo ,Rocha Miranda,2013,172.61
-Belford Roxo ,Rocha Miranda,2014,188.916
-Belford Roxo ,Rocha Miranda,2015,193.466
-Belford Roxo ,Rocha Miranda,2016,191.303
-Belford Roxo ,Rocha Miranda,2017,134.907
-Belford Roxo ,Rocha Miranda,2018,102.391
-Belford Roxo ,Rocha Miranda,2019,97.103
-Belford Roxo ,Rocha Miranda,2020,71.072
-Belford Roxo ,Honório Gurgel,2011,162.461
-Belford Roxo ,Honório Gurgel,2012,239.107
-Belford Roxo ,Honório Gurgel,2013,232.593
-Belford Roxo ,Honório Gurgel,2014,236.265
-Belford Roxo ,Honório Gurgel,2015,233.749
-Belford Roxo ,Honório Gurgel,2016,239.311
-Belford Roxo ,Honório Gurgel,2017,160.316
-Belford Roxo ,Honório Gurgel,2018,111.607
-Belford Roxo ,Honório Gurgel,2019,102.083
-Belford Roxo ,Honório Gurgel,2020,72.556
-Belford Roxo ,Barros Filho,2011,237.679
-Belford Roxo ,Barros Filho,2012,95.535
-Belford Roxo ,Barros Filho,2013,66.236
-Belford Roxo ,Barros Filho,2014,106.677
-Belford Roxo ,Barros Filho,2015,71.999
-Belford Roxo ,Barros Filho,2016,125.578
-Belford Roxo ,Barros Filho,2017,132.698
-Belford Roxo ,Barros Filho,2018,127.38
-Belford Roxo ,Barros Filho,2019,112.093
-Belford Roxo ,Barros Filho,2020,66.21
-Belford Roxo ,Costa Barros,2011,88.94
-Belford Roxo ,Costa Barros,2012,139.871
-Belford Roxo ,Costa Barros,2013,111.298
-Belford Roxo ,Costa Barros,2014,113.038
-Belford Roxo ,Costa Barros,2015,104.153
-Belford Roxo ,Costa Barros,2016,119.995
-Belford Roxo ,Costa Barros,2017,101.521
-Belford Roxo ,Costa Barros,2018,73.571
-Belford Roxo ,Costa Barros,2019,54.083
-Belford Roxo ,Costa Barros,2020,75.397
-Belford Roxo ,Pavuna,2011,183.372
-Belford Roxo ,Pavuna,2012,500.163
-Belford Roxo ,Pavuna,2013,522.159
-Belford Roxo ,Pavuna,2014,580.67
-Belford Roxo ,Pavuna,2015,585.654
-Belford Roxo ,Pavuna,2016,647.246
-Belford Roxo ,Pavuna,2017,542.514
-Belford Roxo ,Pavuna,2018,501.966
-Belford Roxo ,Pavuna,2019,533.741
-Belford Roxo ,Pavuna,2020,273.299
-Belford Roxo ,Vila Rosali,2011,459.257
-Belford Roxo ,Vila Rosali,2012,143.489
-Belford Roxo ,Vila Rosali,2013,128
-Belford Roxo ,Vila Rosali,2014,118.584
-Belford Roxo ,Vila Rosali,2015,95.801
-Belford Roxo ,Vila Rosali,2016,68.611
-Belford Roxo ,Vila Rosali,2017,47.259
-Belford Roxo ,Vila Rosali,2018,45.624
-Belford Roxo ,Vila Rosali,2019,38.498
-Belford Roxo ,Vila Rosali,2020,18.443
-Belford Roxo ,Agostinho Porto,2011,128.054
-Belford Roxo ,Agostinho Porto,2012,312.433
-Belford Roxo ,Agostinho Porto,2013,302.507
-Belford Roxo ,Agostinho Porto,2014,293.831
-Belford Roxo ,Agostinho Porto,2015,271.458
-Belford Roxo ,Agostinho Porto,2016,282.863
-Belford Roxo ,Agostinho Porto,2017,236.756
-Belford Roxo ,Agostinho Porto,2018,252.229
-Belford Roxo ,Agostinho Porto,2019,220.174
-Belford Roxo ,Agostinho Porto,2020,90.587
-Belford Roxo ,Coelho da Rocha,2011,323.472
-Belford Roxo ,Coelho da Rocha,2012,607.456
-Belford Roxo ,Coelho da Rocha,2013,607.356
-Belford Roxo ,Coelho da Rocha,2014,619.235
-Belford Roxo ,Coelho da Rocha,2015,586.29
-Belford Roxo ,Coelho da Rocha,2016,633.711
-Belford Roxo ,Coelho da Rocha,2017,539.247
-Belford Roxo ,Coelho da Rocha,2018,556.781
-Belford Roxo ,Coelho da Rocha,2019,525.931
-Belford Roxo ,Coelho da Rocha,2020,239.455
-Belford Roxo ,Belford Roxo,2011,626.976
-Belford Roxo ,Belford Roxo,2012,2684.794
-Belford Roxo ,Belford Roxo,2013,2808.424
-Belford Roxo ,Belford Roxo,2014,2979.888
-Belford Roxo ,Belford Roxo,2015,3049.346
-Belford Roxo ,Belford Roxo,2016,3009.936
-Belford Roxo ,Belford Roxo,2017,2616.381
-Belford Roxo ,Belford Roxo,2018,2679.012
-Belford Roxo ,Belford Roxo,2019,2592.828
-Belford Roxo ,Belford Roxo,2020,1392.806
-Belford Roxo ,São Mateus,2011,2700.824
-Belford Roxo ,São Mateus,2012,...
-Belford Roxo ,São Mateus,2013,...
-Belford Roxo ,São Mateus,2014,...
-Belford Roxo ,São Mateus,2015,...
-Belford Roxo ,São Mateus,2016,...
-Belford Roxo ,São Mateus,2017,...
-Belford Roxo ,São Mateus,2018,...
-Belford Roxo ,São Mateus,2019,...
-Belford Roxo ,São Mateus,2020,...
-Japeri ,Ricardo de Albuquerque ,2011,1184.432
-Japeri ,Ricardo de Albuquerque ,2012,1178.96
-Japeri ,Ricardo de Albuquerque ,2013,1190.79
-Japeri ,Ricardo de Albuquerque ,2014,1296.649
-Japeri ,Ricardo de Albuquerque ,2015,1423.998
-Japeri ,Ricardo de Albuquerque ,2016,1461.711
-Japeri ,Ricardo de Albuquerque ,2017,1236.262
-Japeri ,Ricardo de Albuquerque ,2018,1318.926
-Japeri ,Ricardo de Albuquerque ,2019,1328.468
-Japeri ,Ricardo de Albuquerque ,2020,814.741
-Japeri ,Anchieta,2011,827.847
-Japeri ,Anchieta,2012,820.523
-Japeri ,Anchieta,2013,834.797
-Japeri ,Anchieta,2014,917.078
-Japeri ,Anchieta,2015,976.86
-Japeri ,Anchieta,2016,933.504
-Japeri ,Anchieta,2017,821.937
-Japeri ,Anchieta,2018,837.014
-Japeri ,Anchieta,2019,807.319
-Japeri ,Anchieta,2020,579.747
-Japeri ,Olinda,2011,866.463
-Japeri ,Olinda,2012,862.921
-Japeri ,Olinda,2013,861.846
-Japeri ,Olinda,2014,873.792
-Japeri ,Olinda,2015,905.883
-Japeri ,Olinda,2016,840.507
-Japeri ,Olinda,2017,722.52
-Japeri ,Olinda,2018,798.564
-Japeri ,Olinda,2019,782.342
-Japeri ,Olinda,2020,406.995
-Japeri ,Nilópolis,2011,2835.003
-Japeri ,Nilópolis,2012,2749.409
-Japeri ,Nilópolis,2013,2805.829
-Japeri ,Nilópolis,2014,2995.04
-Japeri ,Nilópolis,2015,3194.41
-Japeri ,Nilópolis,2016,3188.095
-Japeri ,Nilópolis,2017,3007.082
-Japeri ,Nilópolis,2018,2984.077
-Japeri ,Nilópolis,2019,2856.219
-Japeri ,Nilópolis,2020,1836.46
-Japeri ,Edson Passos,2011,1532.544
-Japeri ,Edson Passos,2012,1484.069
-Japeri ,Edson Passos,2013,1447.614
-Japeri ,Edson Passos,2014,1453.798
-Japeri ,Edson Passos,2015,1471.582
-Japeri ,Edson Passos,2016,1450.574
-Japeri ,Edson Passos,2017,1347.25
-Japeri ,Edson Passos,2018,1302.986
-Japeri ,Edson Passos,2019,1343.326
-Japeri ,Edson Passos,2020,878.978
-Japeri ,Mesquita,2011,1510.631
-Japeri ,Mesquita,2012,1494.715
-Japeri ,Mesquita,2013,1516.611
-Japeri ,Mesquita,2014,1552.265
-Japeri ,Mesquita,2015,1592.464
-Japeri ,Mesquita,2016,1521.404
-Japeri ,Mesquita,2017,1423.179
-Japeri ,Mesquita,2018,1433.533
-Japeri ,Mesquita,2019,1457.133
-Japeri ,Mesquita,2020,1011.355
-Japeri ,Pres. Juscelino,2011,741.157
-Japeri ,Pres. Juscelino,2012,756.096
-Japeri ,Pres. Juscelino,2013,772.867
-Japeri ,Pres. Juscelino,2014,798.309
-Japeri ,Pres. Juscelino,2015,836.194
-Japeri ,Pres. Juscelino,2016,802.547
-Japeri ,Pres. Juscelino,2017,766.47
-Japeri ,Pres. Juscelino,2018,767.755
-Japeri ,Pres. Juscelino,2019,756.291
-Japeri ,Pres. Juscelino,2020,418.126
-Japeri ,Nova Iguaçu,2011,5951.509
-Japeri ,Nova Iguaçu,2012,5983.367
-Japeri ,Nova Iguaçu,2013,6139.78
-Japeri ,Nova Iguaçu,2014,6353.939
-Japeri ,Nova Iguaçu,2015,6693.716
-Japeri ,Nova Iguaçu,2016,6828.083
-Japeri ,Nova Iguaçu,2017,6583.722
-Japeri ,Nova Iguaçu,2018,6806.975
-Japeri ,Nova Iguaçu,2019,6692.125
-Japeri ,Nova Iguaçu,2020,4759.357
-Japeri ,Comendador Soares,2011,2560.913
-Japeri ,Comendador Soares,2012,2632.142
-Japeri ,Comendador Soares,2013,2700.979
-Japeri ,Comendador Soares,2014,2622.966
-Japeri ,Comendador Soares,2015,2620.091
-Japeri ,Comendador Soares,2016,2519.933
-Japeri ,Comendador Soares,2017,2369.618
-Japeri ,Comendador Soares,2018,2667.747
-Japeri ,Comendador Soares,2019,2662.375
-Japeri ,Comendador Soares,2020,1651.925
-Japeri ,Austin,2011,2957.603
-Japeri ,Austin,2012,2943.495
-Japeri ,Austin,2013,2907.045
-Japeri ,Austin,2014,2819.779
-Japeri ,Austin,2015,2711.929
-Japeri ,Austin,2016,2599.761
-Japeri ,Austin,2017,2391.784
-Japeri ,Austin,2018,2585.271
-Japeri ,Austin,2019,2592.968
-Japeri ,Austin,2020,1669.001
-Japeri ,Queimados,2011,4833.778
-Japeri ,Queimados,2012,4826.302
-Japeri ,Queimados,2013,4949.482
-Japeri ,Queimados,2014,5025.754
-Japeri ,Queimados,2015,5062.759
-Japeri ,Queimados,2016,4920.816
-Japeri ,Queimados,2017,4661.927
-Japeri ,Queimados,2018,4674.056
-Japeri ,Queimados,2019,4523.745
-Japeri ,Queimados,2020,2933.691
-Japeri ,Engenheiro Pedreira,2011,3765.651
-Japeri ,Engenheiro Pedreira,2012,3627.853
-Japeri ,Engenheiro Pedreira,2013,3618.393
-Japeri ,Engenheiro Pedreira,2014,3534.875
-Japeri ,Engenheiro Pedreira,2015,3529.167
-Japeri ,Engenheiro Pedreira,2016,3472.516
-Japeri ,Engenheiro Pedreira,2017,3252.249
-Japeri ,Engenheiro Pedreira,2018,3269.916
-Japeri ,Engenheiro Pedreira,2019,3169.941
-Japeri ,Engenheiro Pedreira,2020,2197.908
-Japeri ,Japeri,2011,1946.696
-Japeri ,Japeri,2012,1940.473
-Japeri ,Japeri,2013,1892.45
-Japeri ,Japeri,2014,1942.989
-Japeri ,Japeri,2015,1881.014
-Japeri ,Japeri,2016,1633.334
-Japeri ,Japeri,2017,1362.162
-Japeri ,Japeri,2018,1363.801
-Japeri ,Japeri,2019,1568.593
-Japeri ,Japeri,2020,979.527
-Japeri ,Lages,2011,326.933
-Japeri ,Lages,2012,348.638
-Japeri ,Lages,2013,331.564
-Japeri ,Lages,2014,333.718
-Japeri ,Lages,2015,349.09
-Japeri ,Lages,2016,349.64
-Japeri ,Lages,2017,299.246
-Japeri ,Lages,2018,282.786
-Japeri ,Lages,2019,320.973
-Japeri ,Lages,2020,184.859
-Japeri ,Paracambi,2011,624.76
-Japeri ,Paracambi,2012,595.987
-Japeri ,Paracambi,2013,575.172
-Japeri ,Paracambi,2014,611.117
-Japeri ,Paracambi,2015,662.639
-Japeri ,Paracambi,2016,668.419
-Japeri ,Paracambi,2017,659.006
-Japeri ,Paracambi,2018,701.777
-Japeri ,Paracambi,2019,724.485
-Japeri ,Paracambi,2020,339.295
-Deodoro,Central do Brasil ,2021,18418.5
-Deodoro,Central do Brasil ,2022,20290.628
-Deodoro,Praça da Bandeira ,2021,510.401
-Deodoro,Praça da Bandeira ,2022,536.031
+Saracuruna,Triagem,2011,846
+Saracuruna,Triagem,2012,913.69
+Saracuruna,Triagem,2013,963.356
+Saracuruna,Triagem,2014,1139.815
+Saracuruna,Triagem,2015,1264.487
+Saracuruna,Triagem,2016,1303.656
+Saracuruna,Triagem,2017,1155.79
+Saracuruna,Triagem,2018,1126.929
+Saracuruna,Triagem,2019,1043.22
+Saracuruna,Triagem,2020,642.815
+Saracuruna,Manguinhos,2011,411.634
+Saracuruna,Manguinhos,2012,443.966
+Saracuruna,Manguinhos,2013,399.425
+Saracuruna,Manguinhos,2014,505.195
+Saracuruna,Manguinhos,2015,602.57
+Saracuruna,Manguinhos,2016,715.685
+Saracuruna,Manguinhos,2017,668.129
+Saracuruna,Manguinhos,2018,726.38
+Saracuruna,Manguinhos,2019,744.763
+Saracuruna,Manguinhos,2020,452.857
+Saracuruna,Bonsucesso,2011,898.304
+Saracuruna,Bonsucesso,2012,1101.828
+Saracuruna,Bonsucesso,2013,1524.766
+Saracuruna,Bonsucesso,2014,1993.453
+Saracuruna,Bonsucesso,2015,2133.988
+Saracuruna,Bonsucesso,2016,2224.74
+Saracuruna,Bonsucesso,2017,1816.156
+Saracuruna,Bonsucesso,2018,1771.204
+Saracuruna,Bonsucesso,2019,1793.652
+Saracuruna,Bonsucesso,2020,1099.851
+Saracuruna,Ramos,2011,459.033
+Saracuruna,Ramos,2012,470.343
+Saracuruna,Ramos,2013,573.841
+Saracuruna,Ramos,2014,733.86
+Saracuruna,Ramos,2015,861.353
+Saracuruna,Ramos,2016,930.488
+Saracuruna,Ramos,2017,818.611
+Saracuruna,Ramos,2018,777.583
+Saracuruna,Ramos,2019,802.993
+Saracuruna,Ramos,2020,477.244
+Saracuruna,Olaria,2011,504.192
+Saracuruna,Olaria,2012,513.826
+Saracuruna,Olaria,2013,646.736
+Saracuruna,Olaria,2014,830.874
+Saracuruna,Olaria,2015,1008.514
+Saracuruna,Olaria,2016,1095.826
+Saracuruna,Olaria,2017,937.128
+Saracuruna,Olaria,2018,892.528
+Saracuruna,Olaria,2019,897.485
+Saracuruna,Olaria,2020,506.537
+Saracuruna,Penha,2011,459.767
+Saracuruna,Penha,2012,495.312
+Saracuruna,Penha,2013,656.24
+Saracuruna,Penha,2014,918.123
+Saracuruna,Penha,2015,1227.642
+Saracuruna,Penha,2016,1315.642
+Saracuruna,Penha,2017,1113.312
+Saracuruna,Penha,2018,1111.144
+Saracuruna,Penha,2019,1126.22
+Saracuruna,Penha,2020,695.236
+Saracuruna,Penha Circular,2011,427.551
+Saracuruna,Penha Circular,2012,464.326
+Saracuruna,Penha Circular,2013,570.087
+Saracuruna,Penha Circular,2014,746.023
+Saracuruna,Penha Circular,2015,843.637
+Saracuruna,Penha Circular,2016,822.146
+Saracuruna,Penha Circular,2017,774.352
+Saracuruna,Penha Circular,2018,778.156
+Saracuruna,Penha Circular,2019,741.972
+Saracuruna,Penha Circular,2020,516.607
+Saracuruna,Brás de Pina,2011,200.634
+Saracuruna,Brás de Pina,2012,200.547
+Saracuruna,Brás de Pina,2013,253.584
+Saracuruna,Brás de Pina,2014,331.783
+Saracuruna,Brás de Pina,2015,387.169
+Saracuruna,Brás de Pina,2016,420.941
+Saracuruna,Brás de Pina,2017,378.461
+Saracuruna,Brás de Pina,2018,387.756
+Saracuruna,Brás de Pina,2019,377.709
+Saracuruna,Brás de Pina,2020,228.069
+Saracuruna,Cordovil,2011,260.996
+Saracuruna,Cordovil,2012,264.722
+Saracuruna,Cordovil,2013,330.528
+Saracuruna,Cordovil,2014,458.479
+Saracuruna,Cordovil,2015,510.292
+Saracuruna,Cordovil,2016,571.79
+Saracuruna,Cordovil,2017,462.014
+Saracuruna,Cordovil,2018,481.667
+Saracuruna,Cordovil,2019,459.119
+Saracuruna,Cordovil,2020,295.253
+Saracuruna,Parada de Lucas,2011,306.926
+Saracuruna,Parada de Lucas,2012,320.772
+Saracuruna,Parada de Lucas,2013,387.167
+Saracuruna,Parada de Lucas,2014,512.8
+Saracuruna,Parada de Lucas,2015,591.568
+Saracuruna,Parada de Lucas,2016,654.224
+Saracuruna,Parada de Lucas,2017,613.735
+Saracuruna,Parada de Lucas,2018,653.514
+Saracuruna,Parada de Lucas,2019,612.265
+Saracuruna,Parada de Lucas,2020,459.803
+Saracuruna,Vigário Geral,2011,204.415
+Saracuruna,Vigário Geral,2012,219.199
+Saracuruna,Vigário Geral,2013,266.172
+Saracuruna,Vigário Geral,2014,348.384
+Saracuruna,Vigário Geral,2015,440.288
+Saracuruna,Vigário Geral,2016,443.334
+Saracuruna,Vigário Geral,2017,381.874
+Saracuruna,Vigário Geral,2018,398.478
+Saracuruna,Vigário Geral,2019,378.608
+Saracuruna,Vigário Geral,2020,255.795
+Saracuruna,Duque de Caxias,2011,2425.222
+Saracuruna,Duque de Caxias,2012,2498.997
+Saracuruna,Duque de Caxias,2013,2947.147
+Saracuruna,Duque de Caxias,2014,3636.443
+Saracuruna,Duque de Caxias,2015,4524.317
+Saracuruna,Duque de Caxias,2016,4575.59
+Saracuruna,Duque de Caxias,2017,4025.623
+Saracuruna,Duque de Caxias,2018,4276.713
+Saracuruna,Duque de Caxias,2019,4209.609
+Saracuruna,Duque de Caxias,2020,2893.872
+Saracuruna,Corte Oito,2011,...
+Saracuruna,Corte Oito,2012,...
+Saracuruna,Corte Oito,2013,434.174
+Saracuruna,Corte Oito,2014,740.456
+Saracuruna,Corte Oito,2015,942.167
+Saracuruna,Corte Oito,2016,997.385
+Saracuruna,Corte Oito,2017,1001.04
+Saracuruna,Corte Oito,2018,1147.901
+Saracuruna,Corte Oito,2019,1253.281
+Saracuruna,Corte Oito,2020,746.171
+Saracuruna,Gramacho,2011,3623.505
+Saracuruna,Gramacho,2012,3821.64
+Saracuruna,Gramacho,2013,4144.062
+Saracuruna,Gramacho,2014,4616.759
+Saracuruna,Gramacho,2015,5080.263
+Saracuruna,Gramacho,2016,4764.373
+Saracuruna,Gramacho,2017,4073.863
+Saracuruna,Gramacho,2018,4156.957
+Saracuruna,Gramacho,2019,4085.973
+Saracuruna,Gramacho,2020,2686.938
+Saracuruna,Campos Eliseos,2011,435.27
+Saracuruna,Campos Eliseos,2012,471.107
+Saracuruna,Campos Eliseos,2013,514.475
+Saracuruna,Campos Eliseos,2014,523.515
+Saracuruna,Campos Eliseos,2015,540.229
+Saracuruna,Campos Eliseos,2016,462.715
+Saracuruna,Campos Eliseos,2017,387.292
+Saracuruna,Campos Eliseos,2018,396.465
+Saracuruna,Campos Eliseos,2019,468.573
+Saracuruna,Campos Eliseos,2020,289.864
+Saracuruna,Jardim Primavera,2011,800.645
+Saracuruna,Jardim Primavera,2012,868.244
+Saracuruna,Jardim Primavera,2013,918.701
+Saracuruna,Jardim Primavera,2014,942.744
+Saracuruna,Jardim Primavera,2015,989.099
+Saracuruna,Jardim Primavera,2016,883.41
+Saracuruna,Jardim Primavera,2017,771.041
+Saracuruna,Jardim Primavera,2018,723.823
+Saracuruna,Jardim Primavera,2019,821.697
+Saracuruna,Jardim Primavera,2020,468.707
+Saracuruna,Saracuruna,2011,1817.374
+Saracuruna,Saracuruna,2012,1711.253
+Saracuruna,Saracuruna,2013,1855.42
+Saracuruna,Saracuruna,2014,1973.977
+Saracuruna,Saracuruna,2015,2072.904
+Saracuruna,Saracuruna,2016,1933.98
+Saracuruna,Saracuruna,2017,1873.021
+Saracuruna,Saracuruna,2018,1835.413
+Saracuruna,Saracuruna,2019,1956.165
+Saracuruna,Saracuruna,2020,1243.287
+Saracuruna,Jacarezinho,2011,...
+Saracuruna,Jacarezinho,2012,425.045
+Saracuruna,Jacarezinho,2013,228.994
+Saracuruna,Jacarezinho,2014,169.535
+Saracuruna,Jacarezinho,2015,120.814
+Saracuruna,Jacarezinho,2016,116.799
+Saracuruna,Jacarezinho,2017,71.22
+Saracuruna,Jacarezinho,2018,252.484
+Saracuruna,Jacarezinho,2019,320.122
+Saracuruna,Jacarezinho,2020,292.436
+Belford Roxo,Del Castilho,2011,465.213
+Belford Roxo,Del Castilho,2012,282.185
+Belford Roxo,Del Castilho,2013,297.297
+Belford Roxo,Del Castilho,2014,319.453
+Belford Roxo,Del Castilho,2015,258.933
+Belford Roxo,Del Castilho,2016,211.881
+Belford Roxo,Del Castilho,2017,162.987
+Belford Roxo,Del Castilho,2018,157.4
+Belford Roxo,Del Castilho,2019,145.14
+Belford Roxo,Del Castilho,2020,84.601
+Belford Roxo,Cintra Vidal,2011,233.477
+Belford Roxo,Cintra Vidal,2012,217.208
+Belford Roxo,Cintra Vidal,2013,230.79
+Belford Roxo,Cintra Vidal,2014,287.908
+Belford Roxo,Cintra Vidal,2015,304.353
+Belford Roxo,Cintra Vidal,2016,270.923
+Belford Roxo,Cintra Vidal,2017,235.041
+Belford Roxo,Cintra Vidal,2018,217.641
+Belford Roxo,Cintra Vidal,2019,210.853
+Belford Roxo,Cintra Vidal,2020,112.266
+Belford Roxo,Tomás Coelho,2011,226.893
+Belford Roxo,Tomás Coelho,2012,210.778
+Belford Roxo,Tomás Coelho,2013,203.388
+Belford Roxo,Tomás Coelho,2014,205.22
+Belford Roxo,Tomás Coelho,2015,203.795
+Belford Roxo,Tomás Coelho,2016,193.471
+Belford Roxo,Tomás Coelho,2017,160.999
+Belford Roxo,Tomás Coelho,2018,103.362
+Belford Roxo,Tomás Coelho,2019,104.718
+Belford Roxo,Tomás Coelho,2020,71.762
+Belford Roxo,Cavalcante,2011,213.43
+Belford Roxo,Cavalcante,2012,204.905
+Belford Roxo,Cavalcante,2013,206.961
+Belford Roxo,Cavalcante,2014,216.906
+Belford Roxo,Cavalcante,2015,205.136
+Belford Roxo,Cavalcante,2016,174.528
+Belford Roxo,Cavalcante,2017,125.326
+Belford Roxo,Cavalcante,2018,85.427
+Belford Roxo,Cavalcante,2019,89.444
+Belford Roxo,Cavalcante,2020,71.837
+Belford Roxo,Mercadão de Madureira,2011,194.487
+Belford Roxo,Mercadão de Madureira,2012,867.437
+Belford Roxo,Mercadão de Madureira,2013,926.031
+Belford Roxo,Mercadão de Madureira,2014,1073.418
+Belford Roxo,Mercadão de Madureira,2015,1137.956
+Belford Roxo,Mercadão de Madureira,2016,1095.319
+Belford Roxo,Mercadão de Madureira,2017,902.011
+Belford Roxo,Mercadão de Madureira,2018,888.748
+Belford Roxo,Mercadão de Madureira,2019,941.522
+Belford Roxo,Mercadão de Madureira,2020,597.01
+Belford Roxo,Rocha Miranda,2011,799.836
+Belford Roxo,Rocha Miranda,2012,170.779
+Belford Roxo,Rocha Miranda,2013,172.61
+Belford Roxo,Rocha Miranda,2014,188.916
+Belford Roxo,Rocha Miranda,2015,193.466
+Belford Roxo,Rocha Miranda,2016,191.303
+Belford Roxo,Rocha Miranda,2017,134.907
+Belford Roxo,Rocha Miranda,2018,102.391
+Belford Roxo,Rocha Miranda,2019,97.103
+Belford Roxo,Rocha Miranda,2020,71.072
+Belford Roxo,Honório Gurgel,2011,162.461
+Belford Roxo,Honório Gurgel,2012,239.107
+Belford Roxo,Honório Gurgel,2013,232.593
+Belford Roxo,Honório Gurgel,2014,236.265
+Belford Roxo,Honório Gurgel,2015,233.749
+Belford Roxo,Honório Gurgel,2016,239.311
+Belford Roxo,Honório Gurgel,2017,160.316
+Belford Roxo,Honório Gurgel,2018,111.607
+Belford Roxo,Honório Gurgel,2019,102.083
+Belford Roxo,Honório Gurgel,2020,72.556
+Belford Roxo,Barros Filho,2011,237.679
+Belford Roxo,Barros Filho,2012,95.535
+Belford Roxo,Barros Filho,2013,66.236
+Belford Roxo,Barros Filho,2014,106.677
+Belford Roxo,Barros Filho,2015,71.999
+Belford Roxo,Barros Filho,2016,125.578
+Belford Roxo,Barros Filho,2017,132.698
+Belford Roxo,Barros Filho,2018,127.38
+Belford Roxo,Barros Filho,2019,112.093
+Belford Roxo,Barros Filho,2020,66.21
+Belford Roxo,Costa Barros,2011,88.94
+Belford Roxo,Costa Barros,2012,139.871
+Belford Roxo,Costa Barros,2013,111.298
+Belford Roxo,Costa Barros,2014,113.038
+Belford Roxo,Costa Barros,2015,104.153
+Belford Roxo,Costa Barros,2016,119.995
+Belford Roxo,Costa Barros,2017,101.521
+Belford Roxo,Costa Barros,2018,73.571
+Belford Roxo,Costa Barros,2019,54.083
+Belford Roxo,Costa Barros,2020,75.397
+Belford Roxo,Pavuna,2011,183.372
+Belford Roxo,Pavuna,2012,500.163
+Belford Roxo,Pavuna,2013,522.159
+Belford Roxo,Pavuna,2014,580.67
+Belford Roxo,Pavuna,2015,585.654
+Belford Roxo,Pavuna,2016,647.246
+Belford Roxo,Pavuna,2017,542.514
+Belford Roxo,Pavuna,2018,501.966
+Belford Roxo,Pavuna,2019,533.741
+Belford Roxo,Pavuna,2020,273.299
+Belford Roxo,Vila Rosali,2011,459.257
+Belford Roxo,Vila Rosali,2012,143.489
+Belford Roxo,Vila Rosali,2013,128
+Belford Roxo,Vila Rosali,2014,118.584
+Belford Roxo,Vila Rosali,2015,95.801
+Belford Roxo,Vila Rosali,2016,68.611
+Belford Roxo,Vila Rosali,2017,47.259
+Belford Roxo,Vila Rosali,2018,45.624
+Belford Roxo,Vila Rosali,2019,38.498
+Belford Roxo,Vila Rosali,2020,18.443
+Belford Roxo,Agostinho Porto,2011,128.054
+Belford Roxo,Agostinho Porto,2012,312.433
+Belford Roxo,Agostinho Porto,2013,302.507
+Belford Roxo,Agostinho Porto,2014,293.831
+Belford Roxo,Agostinho Porto,2015,271.458
+Belford Roxo,Agostinho Porto,2016,282.863
+Belford Roxo,Agostinho Porto,2017,236.756
+Belford Roxo,Agostinho Porto,2018,252.229
+Belford Roxo,Agostinho Porto,2019,220.174
+Belford Roxo,Agostinho Porto,2020,90.587
+Belford Roxo,Coelho da Rocha,2011,323.472
+Belford Roxo,Coelho da Rocha,2012,607.456
+Belford Roxo,Coelho da Rocha,2013,607.356
+Belford Roxo,Coelho da Rocha,2014,619.235
+Belford Roxo,Coelho da Rocha,2015,586.29
+Belford Roxo,Coelho da Rocha,2016,633.711
+Belford Roxo,Coelho da Rocha,2017,539.247
+Belford Roxo,Coelho da Rocha,2018,556.781
+Belford Roxo,Coelho da Rocha,2019,525.931
+Belford Roxo,Coelho da Rocha,2020,239.455
+Belford Roxo,Belford Roxo,2011,626.976
+Belford Roxo,Belford Roxo,2012,2684.794
+Belford Roxo,Belford Roxo,2013,2808.424
+Belford Roxo,Belford Roxo,2014,2979.888
+Belford Roxo,Belford Roxo,2015,3049.346
+Belford Roxo,Belford Roxo,2016,3009.936
+Belford Roxo,Belford Roxo,2017,2616.381
+Belford Roxo,Belford Roxo,2018,2679.012
+Belford Roxo,Belford Roxo,2019,2592.828
+Belford Roxo,Belford Roxo,2020,1392.806
+Belford Roxo,São Mateus,2011,2700.824
+Belford Roxo,São Mateus,2012,...
+Belford Roxo,São Mateus,2013,...
+Belford Roxo,São Mateus,2014,...
+Belford Roxo,São Mateus,2015,...
+Belford Roxo,São Mateus,2016,...
+Belford Roxo,São Mateus,2017,...
+Belford Roxo,São Mateus,2018,...
+Belford Roxo,São Mateus,2019,...
+Belford Roxo,São Mateus,2020,...
+Japeri,Ricardo de Albuquerque,2011,1184.432
+Japeri,Ricardo de Albuquerque,2012,1178.96
+Japeri,Ricardo de Albuquerque,2013,1190.79
+Japeri,Ricardo de Albuquerque,2014,1296.649
+Japeri,Ricardo de Albuquerque,2015,1423.998
+Japeri,Ricardo de Albuquerque,2016,1461.711
+Japeri,Ricardo de Albuquerque,2017,1236.262
+Japeri,Ricardo de Albuquerque,2018,1318.926
+Japeri,Ricardo de Albuquerque,2019,1328.468
+Japeri,Ricardo de Albuquerque,2020,814.741
+Japeri,Anchieta,2011,827.847
+Japeri,Anchieta,2012,820.523
+Japeri,Anchieta,2013,834.797
+Japeri,Anchieta,2014,917.078
+Japeri,Anchieta,2015,976.86
+Japeri,Anchieta,2016,933.504
+Japeri,Anchieta,2017,821.937
+Japeri,Anchieta,2018,837.014
+Japeri,Anchieta,2019,807.319
+Japeri,Anchieta,2020,579.747
+Japeri,Olinda,2011,866.463
+Japeri,Olinda,2012,862.921
+Japeri,Olinda,2013,861.846
+Japeri,Olinda,2014,873.792
+Japeri,Olinda,2015,905.883
+Japeri,Olinda,2016,840.507
+Japeri,Olinda,2017,722.52
+Japeri,Olinda,2018,798.564
+Japeri,Olinda,2019,782.342
+Japeri,Olinda,2020,406.995
+Japeri,Nilópolis,2011,2835.003
+Japeri,Nilópolis,2012,2749.409
+Japeri,Nilópolis,2013,2805.829
+Japeri,Nilópolis,2014,2995.04
+Japeri,Nilópolis,2015,3194.41
+Japeri,Nilópolis,2016,3188.095
+Japeri,Nilópolis,2017,3007.082
+Japeri,Nilópolis,2018,2984.077
+Japeri,Nilópolis,2019,2856.219
+Japeri,Nilópolis,2020,1836.46
+Japeri,Edson Passos,2011,1532.544
+Japeri,Edson Passos,2012,1484.069
+Japeri,Edson Passos,2013,1447.614
+Japeri,Edson Passos,2014,1453.798
+Japeri,Edson Passos,2015,1471.582
+Japeri,Edson Passos,2016,1450.574
+Japeri,Edson Passos,2017,1347.25
+Japeri,Edson Passos,2018,1302.986
+Japeri,Edson Passos,2019,1343.326
+Japeri,Edson Passos,2020,878.978
+Japeri,Mesquita,2011,1510.631
+Japeri,Mesquita,2012,1494.715
+Japeri,Mesquita,2013,1516.611
+Japeri,Mesquita,2014,1552.265
+Japeri,Mesquita,2015,1592.464
+Japeri,Mesquita,2016,1521.404
+Japeri,Mesquita,2017,1423.179
+Japeri,Mesquita,2018,1433.533
+Japeri,Mesquita,2019,1457.133
+Japeri,Mesquita,2020,1011.355
+Japeri,Pres. Juscelino,2011,741.157
+Japeri,Pres. Juscelino,2012,756.096
+Japeri,Pres. Juscelino,2013,772.867
+Japeri,Pres. Juscelino,2014,798.309
+Japeri,Pres. Juscelino,2015,836.194
+Japeri,Pres. Juscelino,2016,802.547
+Japeri,Pres. Juscelino,2017,766.47
+Japeri,Pres. Juscelino,2018,767.755
+Japeri,Pres. Juscelino,2019,756.291
+Japeri,Pres. Juscelino,2020,418.126
+Japeri,Nova Iguaçu,2011,5951.509
+Japeri,Nova Iguaçu,2012,5983.367
+Japeri,Nova Iguaçu,2013,6139.78
+Japeri,Nova Iguaçu,2014,6353.939
+Japeri,Nova Iguaçu,2015,6693.716
+Japeri,Nova Iguaçu,2016,6828.083
+Japeri,Nova Iguaçu,2017,6583.722
+Japeri,Nova Iguaçu,2018,6806.975
+Japeri,Nova Iguaçu,2019,6692.125
+Japeri,Nova Iguaçu,2020,4759.357
+Japeri,Comendador Soares,2011,2560.913
+Japeri,Comendador Soares,2012,2632.142
+Japeri,Comendador Soares,2013,2700.979
+Japeri,Comendador Soares,2014,2622.966
+Japeri,Comendador Soares,2015,2620.091
+Japeri,Comendador Soares,2016,2519.933
+Japeri,Comendador Soares,2017,2369.618
+Japeri,Comendador Soares,2018,2667.747
+Japeri,Comendador Soares,2019,2662.375
+Japeri,Comendador Soares,2020,1651.925
+Japeri,Austin,2011,2957.603
+Japeri,Austin,2012,2943.495
+Japeri,Austin,2013,2907.045
+Japeri,Austin,2014,2819.779
+Japeri,Austin,2015,2711.929
+Japeri,Austin,2016,2599.761
+Japeri,Austin,2017,2391.784
+Japeri,Austin,2018,2585.271
+Japeri,Austin,2019,2592.968
+Japeri,Austin,2020,1669.001
+Japeri,Queimados,2011,4833.778
+Japeri,Queimados,2012,4826.302
+Japeri,Queimados,2013,4949.482
+Japeri,Queimados,2014,5025.754
+Japeri,Queimados,2015,5062.759
+Japeri,Queimados,2016,4920.816
+Japeri,Queimados,2017,4661.927
+Japeri,Queimados,2018,4674.056
+Japeri,Queimados,2019,4523.745
+Japeri,Queimados,2020,2933.691
+Japeri,Engenheiro Pedreira,2011,3765.651
+Japeri,Engenheiro Pedreira,2012,3627.853
+Japeri,Engenheiro Pedreira,2013,3618.393
+Japeri,Engenheiro Pedreira,2014,3534.875
+Japeri,Engenheiro Pedreira,2015,3529.167
+Japeri,Engenheiro Pedreira,2016,3472.516
+Japeri,Engenheiro Pedreira,2017,3252.249
+Japeri,Engenheiro Pedreira,2018,3269.916
+Japeri,Engenheiro Pedreira,2019,3169.941
+Japeri,Engenheiro Pedreira,2020,2197.908
+Japeri,Japeri,2011,1946.696
+Japeri,Japeri,2012,1940.473
+Japeri,Japeri,2013,1892.45
+Japeri,Japeri,2014,1942.989
+Japeri,Japeri,2015,1881.014
+Japeri,Japeri,2016,1633.334
+Japeri,Japeri,2017,1362.162
+Japeri,Japeri,2018,1363.801
+Japeri,Japeri,2019,1568.593
+Japeri,Japeri,2020,979.527
+Japeri,Lages,2011,326.933
+Japeri,Lages,2012,348.638
+Japeri,Lages,2013,331.564
+Japeri,Lages,2014,333.718
+Japeri,Lages,2015,349.09
+Japeri,Lages,2016,349.64
+Japeri,Lages,2017,299.246
+Japeri,Lages,2018,282.786
+Japeri,Lages,2019,320.973
+Japeri,Lages,2020,184.859
+Japeri,Paracambi,2011,624.76
+Japeri,Paracambi,2012,595.987
+Japeri,Paracambi,2013,575.172
+Japeri,Paracambi,2014,611.117
+Japeri,Paracambi,2015,662.639
+Japeri,Paracambi,2016,668.419
+Japeri,Paracambi,2017,659.006
+Japeri,Paracambi,2018,701.777
+Japeri,Paracambi,2019,724.485
+Japeri,Paracambi,2020,339.295
+Deodoro,Central do Brasil,2021,18418.5
+Deodoro,Central do Brasil,2022,20290.628
+Deodoro,Praça da Bandeira,2021,510.401
+Deodoro,Praça da Bandeira,2022,536.031
 Deodoro,São Cristóvão,2021,3823.478
 Deodoro,São Cristóvão,2022,4447.978
 Deodoro,Maracanã,2021,1629.932
@@ -2185,8 +2185,8 @@ Deodoro,Sampaio,2021,238.291
 Deodoro,Sampaio,2022,274.948
 Deodoro,Engenho Novo,2021,607.514
 Deodoro,Engenho Novo,2022,638.354
-Deodoro,Silva Freire ,2021,41.577
-Deodoro,Silva Freire ,2022,44.834
+Deodoro,Silva Freire,2021,41.577
+Deodoro,Silva Freire,2022,44.834
 Deodoro,Méier,2021,2004.95
 Deodoro,Méier,2022,2132.042
 Deodoro,Engenho de Dentro,2021,1905.666
@@ -2221,8 +2221,8 @@ Santa Cruz,Bangu,2021,2241.048
 Santa Cruz,Bangu,2022,2591.399
 Santa Cruz,Senador Camará,2021,549.076
 Santa Cruz,Senador Camará,2022,669.533
-Santa Cruz,Santíssimo ,2021,545.974
-Santa Cruz,Santíssimo ,2022,632.855
+Santa Cruz,Santíssimo,2021,545.974
+Santa Cruz,Santíssimo,2022,632.855
 Santa Cruz,Augusto Vasconcelos,2021,486.026
 Santa Cruz,Augusto Vasconcelos,2022,593.697
 Santa Cruz,Campo Grande,2021,3750.785
@@ -2239,99 +2239,99 @@ Santa Cruz,Tancredo Neves,2021,270.099
 Santa Cruz,Tancredo Neves,2022,543.83
 Santa Cruz,Santa Cruz,2021,2852.594
 Santa Cruz,Santa Cruz,2022,3221.293
-Saracuruna ,Triagem,2021,574.612
-Saracuruna ,Triagem,2022,539.225
-Saracuruna ,Manguinhos,2021,358.817
-Saracuruna ,Manguinhos,2022,358.845
-Saracuruna ,Bonsucesso,2021,814.584
-Saracuruna ,Bonsucesso,2022,787.188
-Saracuruna ,Ramos,2021,384.041
-Saracuruna ,Ramos,2022,382.565
-Saracuruna ,Olaria,2021,402.395
-Saracuruna ,Olaria,2022,401.892
-Saracuruna ,Penha,2021,494.549
-Saracuruna ,Penha,2022,512.112
-Saracuruna ,Penha Circular,2021,385.641
-Saracuruna ,Penha Circular,2022,337.715
-Saracuruna ,Brás de Pina,2021,166.071
-Saracuruna ,Brás de Pina,2022,162.746
-Saracuruna ,Cordovil,2021,209.947
-Saracuruna ,Cordovil,2022,185.999
-Saracuruna ,Parada de Lucas,2021,268.587
-Saracuruna ,Parada de Lucas,2022,242.407
-Saracuruna ,Vigário Geral,2021,175.739
-Saracuruna ,Vigário Geral,2022,178.739
-Saracuruna ,Duque de Caxias,2021,2087.571
-Saracuruna ,Duque de Caxias,2022,2072.03
-Saracuruna ,Corte Oito,2021,706.366
-Saracuruna ,Corte Oito,2022,742.542
-Saracuruna ,Gramacho,2021,2218.883
-Saracuruna ,Gramacho,2022,2258.004
-Saracuruna ,Campos Eliseos,2021,230.691
-Saracuruna ,Campos Eliseos,2022,158.307
-Saracuruna ,Jardim Primavera,2021,445.963
-Saracuruna ,Jardim Primavera,2022,411.126
-Saracuruna ,Saracuruna ***,2021,1038.572
-Saracuruna ,Saracuruna ***,2022,991.858
-Saracuruna ,Jacarezinho ,2021,226.061
-Saracuruna ,Jacarezinho ,2022,109.635
-Belford Roxo ,Del Castilho,2021,78.122
-Belford Roxo ,Del Castilho,2022,59.812
-Belford Roxo ,Cintra Vidal,2021,85.074
-Belford Roxo ,Cintra Vidal,2022,69.415
-Belford Roxo ,Tomás Coelho,2021,59.762
-Belford Roxo ,Tomás Coelho,2022,53.486
-Belford Roxo ,Cavalcante,2021,49.297
-Belford Roxo ,Cavalcante,2022,38.479
-Belford Roxo ,Mercadão de Madureira ,2021,431.495
-Belford Roxo ,Mercadão de Madureira ,2022,315.327
-Belford Roxo ,Rocha Miranda,2021,54.809
-Belford Roxo ,Rocha Miranda,2022,42.585
-Belford Roxo ,Honório Gurgel,2021,47.811
-Belford Roxo ,Honório Gurgel,2022,37.29
-Belford Roxo ,Barros Filho,2021,56.268
-Belford Roxo ,Barros Filho,2022,47.574
-Belford Roxo ,Costa Barros,2021,42.492
-Belford Roxo ,Costa Barros,2022,29.533
-Belford Roxo ,Pavuna,2021,207.769
-Belford Roxo ,Pavuna,2022,169.669
-Belford Roxo ,Vila Rosali,2021,19.609
-Belford Roxo ,Vila Rosali,2022,16.662
-Belford Roxo ,Agostinho Porto,2021,85.671
-Belford Roxo ,Agostinho Porto,2022,66.234
-Belford Roxo ,Coelho da Rocha,2021,216.378
-Belford Roxo ,Coelho da Rocha,2022,180.844
-Belford Roxo ,Belford Roxo,2021,1051.14
-Belford Roxo ,Belford Roxo,2022,843.437
-Belford Roxo ,São Mateus,2021,...
-Belford Roxo ,São Mateus,2022,...
-Japeri ,Ricardo de Albuquerque ,2021,787.002
-Japeri ,Ricardo de Albuquerque ,2022,874.33
-Japeri ,Anchieta,2021,508.736
-Japeri ,Anchieta,2022,530.666
-Japeri ,Olinda,2021,466.856
-Japeri ,Olinda,2022,485.101
-Japeri ,Nilópolis,2021,1740.732
-Japeri ,Nilópolis,2022,1779.26
-Japeri ,Edson Passos,2021,846.529
-Japeri ,Edson Passos,2022,892.159
-Japeri ,Mesquita,2021,909.745
-Japeri ,Mesquita,2022,946.174
-Japeri ,Pres. Juscelino,2021,484.565
-Japeri ,Pres. Juscelino,2022,522.666
-Japeri ,Nova Iguaçu,2021,4473.936
-Japeri ,Nova Iguaçu,2022,4640.068
-Japeri ,Comendador Soares,2021,1540.122
-Japeri ,Comendador Soares,2022,1639.763
-Japeri ,Austin,2021,1589.274
-Japeri ,Austin,2022,1728.243
-Japeri ,Queimados,2021,2828.333
-Japeri ,Queimados,2022,3122.899
-Japeri ,Engenheiro Pedreira,2021,2207.371
-Japeri ,Engenheiro Pedreira,2022,2564.955
-Japeri ,Japeri,2021,983.701
-Japeri ,Japeri,2022,1086.776
-Japeri ,Lages,2021,172.855
-Japeri ,Lages,2022,173.6
-Japeri ,Paracambi,2021,339.726
-Japeri ,Paracambi,2022,431.769
+Saracuruna,Triagem,2021,574.612
+Saracuruna,Triagem,2022,539.225
+Saracuruna,Manguinhos,2021,358.817
+Saracuruna,Manguinhos,2022,358.845
+Saracuruna,Bonsucesso,2021,814.584
+Saracuruna,Bonsucesso,2022,787.188
+Saracuruna,Ramos,2021,384.041
+Saracuruna,Ramos,2022,382.565
+Saracuruna,Olaria,2021,402.395
+Saracuruna,Olaria,2022,401.892
+Saracuruna,Penha,2021,494.549
+Saracuruna,Penha,2022,512.112
+Saracuruna,Penha Circular,2021,385.641
+Saracuruna,Penha Circular,2022,337.715
+Saracuruna,Brás de Pina,2021,166.071
+Saracuruna,Brás de Pina,2022,162.746
+Saracuruna,Cordovil,2021,209.947
+Saracuruna,Cordovil,2022,185.999
+Saracuruna,Parada de Lucas,2021,268.587
+Saracuruna,Parada de Lucas,2022,242.407
+Saracuruna,Vigário Geral,2021,175.739
+Saracuruna,Vigário Geral,2022,178.739
+Saracuruna,Duque de Caxias,2021,2087.571
+Saracuruna,Duque de Caxias,2022,2072.03
+Saracuruna,Corte Oito,2021,706.366
+Saracuruna,Corte Oito,2022,742.542
+Saracuruna,Gramacho,2021,2218.883
+Saracuruna,Gramacho,2022,2258.004
+Saracuruna,Campos Eliseos,2021,230.691
+Saracuruna,Campos Eliseos,2022,158.307
+Saracuruna,Jardim Primavera,2021,445.963
+Saracuruna,Jardim Primavera,2022,411.126
+Saracuruna,Saracuruna,2021,1038.572
+Saracuruna,Saracuruna,2022,991.858
+Saracuruna,Jacarezinho,2021,226.061
+Saracuruna,Jacarezinho,2022,109.635
+Belford Roxo,Del Castilho,2021,78.122
+Belford Roxo,Del Castilho,2022,59.812
+Belford Roxo,Cintra Vidal,2021,85.074
+Belford Roxo,Cintra Vidal,2022,69.415
+Belford Roxo,Tomás Coelho,2021,59.762
+Belford Roxo,Tomás Coelho,2022,53.486
+Belford Roxo,Cavalcante,2021,49.297
+Belford Roxo,Cavalcante,2022,38.479
+Belford Roxo,Mercadão de Madureira,2021,431.495
+Belford Roxo,Mercadão de Madureira,2022,315.327
+Belford Roxo,Rocha Miranda,2021,54.809
+Belford Roxo,Rocha Miranda,2022,42.585
+Belford Roxo,Honório Gurgel,2021,47.811
+Belford Roxo,Honório Gurgel,2022,37.29
+Belford Roxo,Barros Filho,2021,56.268
+Belford Roxo,Barros Filho,2022,47.574
+Belford Roxo,Costa Barros,2021,42.492
+Belford Roxo,Costa Barros,2022,29.533
+Belford Roxo,Pavuna,2021,207.769
+Belford Roxo,Pavuna,2022,169.669
+Belford Roxo,Vila Rosali,2021,19.609
+Belford Roxo,Vila Rosali,2022,16.662
+Belford Roxo,Agostinho Porto,2021,85.671
+Belford Roxo,Agostinho Porto,2022,66.234
+Belford Roxo,Coelho da Rocha,2021,216.378
+Belford Roxo,Coelho da Rocha,2022,180.844
+Belford Roxo,Belford Roxo,2021,1051.14
+Belford Roxo,Belford Roxo,2022,843.437
+Belford Roxo,São Mateus,2021,...
+Belford Roxo,São Mateus,2022,...
+Japeri,Ricardo de Albuquerque,2021,787.002
+Japeri,Ricardo de Albuquerque,2022,874.33
+Japeri,Anchieta,2021,508.736
+Japeri,Anchieta,2022,530.666
+Japeri,Olinda,2021,466.856
+Japeri,Olinda,2022,485.101
+Japeri,Nilópolis,2021,1740.732
+Japeri,Nilópolis,2022,1779.26
+Japeri,Edson Passos,2021,846.529
+Japeri,Edson Passos,2022,892.159
+Japeri,Mesquita,2021,909.745
+Japeri,Mesquita,2022,946.174
+Japeri,Pres. Juscelino,2021,484.565
+Japeri,Pres. Juscelino,2022,522.666
+Japeri,Nova Iguaçu,2021,4473.936
+Japeri,Nova Iguaçu,2022,4640.068
+Japeri,Comendador Soares,2021,1540.122
+Japeri,Comendador Soares,2022,1639.763
+Japeri,Austin,2021,1589.274
+Japeri,Austin,2022,1728.243
+Japeri,Queimados,2021,2828.333
+Japeri,Queimados,2022,3122.899
+Japeri,Engenheiro Pedreira,2021,2207.371
+Japeri,Engenheiro Pedreira,2022,2564.955
+Japeri,Japeri,2021,983.701
+Japeri,Japeri,2022,1086.776
+Japeri,Lages,2021,172.855
+Japeri,Lages,2022,173.6
+Japeri,Paracambi,2021,339.726
+Japeri,Paracambi,2022,431.769
