@@ -123,9 +123,24 @@
       </div>
 
     <!-- SEÇÃO PARA EXIBIÇÃO DO GRÁFICO-->
-      <script class="graphic" type="text/javascript"></script>
-      <div id="grafico"></div>
-    </div> 
+    <script class="graphic" type="text/javascript">
+      window.onload=function(){
+        CanvasJS.addColorSet("verde",["#278013"]);
+        $.get("../etl_process/datasetFerrov.csv", function(data) {
+        var chart = new CanvasJS.Chart("grafico", {
+          title: {text: "Estação",fontFamily: "tahoma",fontColor: "#278013",fontWeight: "bold",},
+          colorSet: "verde",exportEnabled: true,zoomEnabled: true,
+          toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+          axisX: {viewportMinimum: 2015, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+          axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
+          legend: {},
+          data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSV(data)}],
+        });
+        chart.render();});
+      }
+      </script>
+    <div id="grafico" style="width: 100%;"></div>
+  </div> 
 
 </body>
 </html>

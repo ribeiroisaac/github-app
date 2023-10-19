@@ -1,9 +1,10 @@
 //  Criação do mapa
-var map = L.map('map').setView([-22.71, -43.3070], 10);
+var map = L.map('map').setView([-22.72, -42.6570], 10);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 15,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
+map.doubleClickZoom.disable(); 
 
 //  Conjunto GeoJSON de Estações
 var geojsonEstacoes = {
@@ -145,9 +146,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'red',
                 fillColor: '#f00000',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-                .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkSantaCruz==1 && (((geojsonEstacoes).features[i]).properties).flg_santacruz == 1){
@@ -159,9 +162,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'green',
                 fillColor: '#00f03c',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkJaperi==1 && (((geojsonEstacoes).features[i]).properties).flg_japeri == 1){
@@ -173,9 +178,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#00a8f0',
                 fillColor: '#00a8f0',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkBelfordRoxo==1 && (((geojsonEstacoes).features[i]).properties).flg_belfordroxo == 1){
@@ -187,9 +194,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'purple',
                 fillColor: '#8800f0',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkGuapimirim==1 && (((geojsonEstacoes).features[i]).properties).flg_guapimirim == 1){
@@ -201,9 +210,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: 'yellow',
                 fillColor: '#f0e800',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkSaracuruna==1 && (((geojsonEstacoes).features[i]).properties).flg_saracuruna == 1){
@@ -215,9 +226,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#f07c00',
                 fillColor: '#f07c00',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if(checkVilaInhomirim==1 && (((geojsonEstacoes).features[i]).properties).flg_vilainhomirim == 1){
@@ -229,9 +242,11 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 color: '#b3b000',
                 fillColor: '#b3b000',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
 
         else if (checkParacambi==1 && (((geojsonEstacoes).features[i]).properties).flg_paracambi == 1){
@@ -239,16 +254,28 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
             long[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[0]);
             lat[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[1]);
             //  Desenha Estações com Cor da Função
-            L.circle([lat[i], long[i]], {
+            L.circle([lat[i], long[i]],
+            {
                 color: '#7afbff',
                 fillColor: '#7afbff',
                 fillOpacity: 0.6,
-                radius: 400
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
-            .bindPopup((((geojsonEstacoes).features[i]).properties).nome);
+            .on("click", circleClicked)
+            .on("dblclick", circleDoubleClicked)
         }
     }
 }
+
+function circleClicked(event){
+    console.log(event.target.options.className);
+    event.target.bindPopup(event.target.options.className);
+}
+function circleDoubleClicked(event){
+    updateChart(event.target.options.className);
+}
+
 
 //  Função para limpeza e recriação do mapa em cada atualização
 function cleanMapa(){
