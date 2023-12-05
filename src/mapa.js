@@ -202,22 +202,6 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
             .on("dblclick", circleDoubleClicked)
         }
 
-        else if (checkGuapimirim && (((geojsonEstacoes).features[i]).properties).flg_guapimirim == 1){
-            //  Captura Lat e Long das Estações
-            long[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[0]);
-            lat[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[1]);
-            //  Desenha Estações com Cor da Função
-            L.circle([lat[i], long[i]], {
-                color: 'yellow',
-                fillColor: '#f0e800',
-                fillOpacity: 0.6,
-                radius: 500,
-                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
-            }).addTo(map)
-            .on("click", circleClicked)
-            .on("dblclick", circleDoubleClicked)
-        }
-
         else if (checkSaracuruna && (((geojsonEstacoes).features[i]).properties).flg_saracuruna == 1){
             //  Captura Lat e Long das Estações
             long[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[0]);
@@ -234,6 +218,22 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
             .on("dblclick", circleDoubleClicked)
         }
 
+        else if (checkGuapimirim && (((geojsonEstacoes).features[i]).properties).flg_guapimirim == 1){
+            //  Captura Lat e Long das Estações
+            long[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[0]);
+            lat[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[1]);
+            //  Desenha Estações com Cor da Função
+            L.circle([lat[i], long[i]], {
+                color: 'yellow',
+                fillColor: '#f0e800',
+                fillOpacity: 0.6,
+                radius: 500,
+                className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
+            }).addTo(map)
+            .on("click", circleClicked)
+            .on("dblclick", noDataCircle)
+        }
+
         else if(checkVilaInhomirim && (((geojsonEstacoes).features[i]).properties).flg_vilainhomirim == 1){
             //  Captura Lat e Long das Estações
             long[i]=((((geojsonEstacoes).features[i]).geometry).coordinates[0]);
@@ -247,7 +247,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
             .on("click", circleClicked)
-            .on("dblclick", circleDoubleClicked)
+            .on("dblclick", noDataCircle)
         }
 
         else if (checkParacambi && (((geojsonEstacoes).features[i]).properties).flg_paracambi == 1){
@@ -264,7 +264,7 @@ function mapaFiltro(checkDeodoro, checkSantaCruz, checkJaperi, checkSaracuruna, 
                 className: (((((geojsonEstacoes).features[i]).properties).nome).toString())
             }).addTo(map)
             .on("click", circleClicked)
-            .on("dblclick", circleDoubleClicked)
+            .on("dblclick", noDataCircle)
         }
     }
 }
@@ -275,7 +275,9 @@ function circleClicked(event){
 function circleDoubleClicked(event){
     updateChart(event.target.options.className, event.target.options.fillColor);
 }
-
+function noDataCircle(event){
+    event.target.bindPopup(event.target.options.className + " - Sem Dados");
+}
 
 //  Função para limpeza e recriação do mapa em cada atualização
 function cleanMapa(){

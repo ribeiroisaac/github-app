@@ -48,6 +48,13 @@ html, * {
   justify-content: center;
 }
 
+.aviso{
+  text-align: center;
+  padding: 1% 0%;
+  font-weight: 600;
+  font-size: larger;
+}
+
 /* Estilos dos nomes dos Ramais nos Boxes*/
 .container{
   padding: 0px 7px;
@@ -63,8 +70,8 @@ input.checkbox{
 /* Estilos para Div de Mapa e Gráfico*/
 .central-container{
   display: grid;
-  height: 400px;
-  padding: 4%;
+  height: 500px;
+  padding: 1% 4%;
   gap: 2%;
   grid-auto-columns: auto;
   text-align: center;

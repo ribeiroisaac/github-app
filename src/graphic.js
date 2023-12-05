@@ -8,54 +8,260 @@ function gerenciaRamaisChart(checkDeodoro, checkSantaCruz, checkJaperi, checkSar
     if(!checkDeodoro && !checkBelfordRoxo && !checkSantaCruz && !checkJaperi && !checkSaracuruna){
         updateChart("Estado do Rio de Janeiro", "black");
     }
+    else {
+        if(checkDeodoro){
+            ramaisMarcados.push(["Deodoro","#f00000"])
+//            updateRamalChart("Deodoro","#f00000");
+        }
+        if(checkSantaCruz){
+            ramaisMarcados.push(["Santa Cruz","#00f03c"])
+//            updateRamalChart("Santa Cruz","#00f03c");
+        }
+        if(checkJaperi){
+            ramaisMarcados.push(["Japeri","#00a8f0"])
+//            updateRamalChart("Japeri","#00a8f0");
+        }
+        if(checkSaracuruna){
+            ramaisMarcados.push(["Saracuruna","#f07c00"])
+//            updateRamalChart("Saracuruna","#f07c00");
+        }
+        if(checkBelfordRoxo){
+            ramaisMarcados.push(["Belford Roxo","#8800f0"])
+//            updateRamalChart("Belford Roxo","#8800f0");
+        }
+        updateRamal(ramaisMarcados)
+    }    
+}
 
-    if(checkDeodoro){
-        ramaisMarcados.push(["Deodoro","#f00000"])
-        console.log(ramaisMarcados);
-        updateRamalChart("Deodoro","#f00000");
-    }
-    if(checkSantaCruz){
-        ramaisMarcados.push(["Santa Cruz","#00f03c"])
-        console.log(ramaisMarcados);
-        updateRamalChart("Santa Cruz","#00f03c");
-    }
-    if(checkJaperi){
-        ramaisMarcados.push(["Japeri","#00a8f0"])
-        console.log(ramaisMarcados);
-        updateRamalChart("Japeri","#00a8f0");
-    }
-    if(checkSaracuruna){
-        ramaisMarcados.push(["Saracuruna","#f07c00"])
-        console.log(ramaisMarcados);
-        updateRamalChart("Saracuruna","#f07c00");
-    }
-    if(checkBelfordRoxo){
-        ramaisMarcados.push(["Belford Roxo","#8800f0"])
-        console.log(ramaisMarcados);
-        updateRamalChart("Belford Roxo","#8800f0");
+
+function updateRamal(ramaisMarcados){
+    switch(ramaisMarcados.length){
+        case 1:
+            CanvasJS.addColorSet("cor",[ramaisMarcados[0][1]]);
+            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            var chart = new CanvasJS.Chart("grafico", {
+              title: {text: ramaisMarcados[0][0],fontFamily: "tahoma",fontColor: ramaisMarcados[0][1],fontWeight: "bold",fontSize:25},
+              colorSet: "cor",exportEnabled: true,zoomEnabled: true,
+              toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+              axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+              axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
+              legend: {},
+              data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0])}],
+            });
+            chart.render();});
+            break;
+
+        case 2:
+            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+                var chart = new CanvasJS.Chart("grafico", {
+                  title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
+                  colorSet: "black",exportEnabled: true,zoomEnabled: true,
+                  toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+                  axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+                  axisY: [{
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[0][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[1][1]
+                    }],
+                  data: [
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[0][1],
+                        legendText: ramaisMarcados[0][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0]),
+                    },
+                    {
+                        type: "line", xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[1][1],
+                        legendText: ramaisMarcados[1][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[1][0])
+                    }
+                  ],
+                });
+                chart.render();});
+                break;
+        
+        case 3:
+            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+                var chart = new CanvasJS.Chart("grafico", {
+                  title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
+                  colorSet: "black",exportEnabled: true,zoomEnabled: true,
+                  toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+                  axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+                  axisY: [{
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[0][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[1][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[2][1]
+                    }],
+                  data: [
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[0][1],
+                        legendText: ramaisMarcados[0][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0]),
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[1][1],
+                        legendText: ramaisMarcados[1][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[1][0]),
+                    },
+                    {
+                        type: "line", xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[2][1],
+                        legendText: ramaisMarcados[2][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[2][0])
+                    }
+                  ],
+                });
+                chart.render();});
+                break;
+
+        case 4:
+            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+                var chart = new CanvasJS.Chart("grafico", {
+                  title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
+                  colorSet: "black",exportEnabled: true,zoomEnabled: true,
+                  toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+                  axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+                  axisY: [{
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[0][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[1][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[2][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[3][1]
+                    }],
+                  data: [
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[0][1],
+                        legendText: ramaisMarcados[0][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0]),
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[1][1],
+                        legendText: ramaisMarcados[1][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[1][0]),
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[2][1],
+                        legendText: ramaisMarcados[2][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[2][0]),
+                    },
+                    {
+                        type: "line", xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[3][1],
+                        legendText: ramaisMarcados[3][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[3][0])
+                    }
+                  ],
+                });
+                chart.render();});
+            break;
+
+        case 5:
+            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+                var chart = new CanvasJS.Chart("grafico", {
+                  title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
+                  colorSet: "black",exportEnabled: true,zoomEnabled: true,
+                  toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
+                  axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+                  axisY: [{
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[0][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[1][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[2][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[3][1]
+                    },
+                    {
+                    labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
+                    labelFontColor: ramaisMarcados[4][1]
+                    }],
+                data: [
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[0][1],
+                        legendText: ramaisMarcados[0][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0]),
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[1][1],
+                        legendText: ramaisMarcados[1][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[1][0]),
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[2][1],
+                        legendText: ramaisMarcados[2][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[2][0]),
+                    },
+                    {
+                        type: "line", xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[3][1],
+                        legendText: ramaisMarcados[3][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[3][0])
+                    },
+                    {
+                        type: "line",xValueType: "number",showInLegend:true,
+                        color: ramaisMarcados[4][1],
+                        legendText: ramaisMarcados[4][0],
+                        dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[4][0])
+                    }
+                  ],
+                });
+                chart.render();});
+                break;
     }
 }
 
-function updateRamalChart(estacao, color){
-    console.log(estacao);
-    console.log(color);
-    cleanChart();
+
+function updateRamalChart(ramal, color){
     CanvasJS.addColorSet("verde",[color]);
     $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
     var chart = new CanvasJS.Chart("grafico", {
-      title: {text: estacao,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
+      title: {text: ramal,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
       colorSet: "verde",exportEnabled: true,zoomEnabled: true,
       toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
       axisX: {viewportMinimum: 2015, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
       axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
       legend: {},
-      data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSVRamal(data, estacao)}],
+      data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSVRamal(data, ramal)}],
     });
     chart.render();});
 }
 
-function getDataPointsFromCSVRamal(csv, estacao) {
-    console.log(estacao);
+function getDataPointsFromCSVRamal(csv, ramal) {
     var dataPoints = csvLines = points = [];
     //Divide dataset em N linhas, separando pela '\n' e atribui à variável "csvLines"
     csvLines = csv.split(/\r?\n|\r/);
@@ -66,8 +272,7 @@ function getDataPointsFromCSVRamal(csv, estacao) {
         if (csvLines[i].length > 0) {
             //Separa linha do CSV com base na vírgula, e atribui valores para o array dataPoints que será retornado no final da função
             points = csvLines[i].split(",");
-            console.log(points);
-            if (!(points[0].localeCompare(estacao)) && !(points[1].localeCompare("Subsistema"))){
+            if (!(points[0].localeCompare(ramal)) && !(points[1].localeCompare("Subsistema"))){
                 dataPoints.push({
                     x: parseInt(points[4]), 
                     y: parseInt(points[5]) 		
@@ -85,7 +290,7 @@ function updateChart(estacao, color){
       title: {text: estacao,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
       colorSet: "verde",exportEnabled: true,zoomEnabled: true,
       toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
-      axisX: {viewportMinimum: 2015, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
+      axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
       axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
       legend: {},
       data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSV(data, estacao)}],
