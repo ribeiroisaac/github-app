@@ -2,14 +2,9 @@
   "name": "isaac-javascript",
   "version": "1.0.0",
   "description": "A JavaScript project",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev:watch-backend": "node ./node_modules/parcel-bundler/bin/cli watch ./src/index.js --target node --out-dir ./dist/",
-    "dev:watch-frontend": "node ./node_modules/parcel-bundler/bin/cli watch ./src/index.html --out-dir ./src/",
-    "dev:hot-reload": "node ./node_modules/nodemon/bin/nodemon --watch ./dist/ ./dist/index.js",
-    "start": "node index.js & start http://localhost:9005",
-    "build": "node ./node_modules/parcel-bundler/bin/cli build ./src/index.js --target node --out-dir ./dist/",
-    "lint": "node ./node_modules/eslint/bin/eslint . --ext .jsx,.js --fix"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +18,8 @@
     "canvasjs": "^1.8.3",
     "chartjs-node-canvas": "^4.1.6",
     "express": "^4.18.2",
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "node-static": "^0.7.11"
   },
   "devDependencies": {
     "eslint": "^8.41.0",

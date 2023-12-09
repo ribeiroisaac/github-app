@@ -37,7 +37,7 @@ function updateRamal(ramaisMarcados){
     switch(ramaisMarcados.length){
         case 1:
             CanvasJS.addColorSet("cor",[ramaisMarcados[0][1]]);
-            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
             var chart = new CanvasJS.Chart("grafico", {
               title: {text: ramaisMarcados[0][0],fontFamily: "tahoma",fontColor: ramaisMarcados[0][1],fontWeight: "bold",fontSize:25},
               colorSet: "cor",exportEnabled: true,zoomEnabled: true,
@@ -51,7 +51,7 @@ function updateRamal(ramaisMarcados){
             break;
 
         case 2:
-            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
                 var chart = new CanvasJS.Chart("grafico", {
                   title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
                   colorSet: "black",exportEnabled: true,zoomEnabled: true,
@@ -84,7 +84,7 @@ function updateRamal(ramaisMarcados){
                 break;
         
         case 3:
-            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
                 var chart = new CanvasJS.Chart("grafico", {
                   title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
                   colorSet: "black",exportEnabled: true,zoomEnabled: true,
@@ -127,7 +127,7 @@ function updateRamal(ramaisMarcados){
                 break;
 
         case 4:
-            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
                 var chart = new CanvasJS.Chart("grafico", {
                   title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
                   colorSet: "black",exportEnabled: true,zoomEnabled: true,
@@ -180,7 +180,7 @@ function updateRamal(ramaisMarcados){
             break;
 
         case 5:
-            $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+            $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
                 var chart = new CanvasJS.Chart("grafico", {
                   title: {text: "Comparaçao de Ramais",fontFamily: "tahoma",fontColor: "black",fontWeight: "bold",fontSize:25},
                   colorSet: "black",exportEnabled: true,zoomEnabled: true,
@@ -247,7 +247,7 @@ function updateRamal(ramaisMarcados){
 
 function updateRamalChart(ramal, color){
     CanvasJS.addColorSet("verde",[color]);
-    $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+    $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
     var chart = new CanvasJS.Chart("grafico", {
       title: {text: ramal,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
       colorSet: "verde",exportEnabled: true,zoomEnabled: true,
@@ -284,7 +284,7 @@ function getDataPointsFromCSVRamal(csv, ramal) {
 function updateChart(estacao, color){
     cleanChart();
     CanvasJS.addColorSet("verde",[color]);
-    $.get("../etl_process/datasetFinal_Ferrov.csv", function(data) {
+    $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
     var chart = new CanvasJS.Chart("grafico", {
       title: {text: estacao,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
       colorSet: "verde",exportEnabled: true,zoomEnabled: true,
