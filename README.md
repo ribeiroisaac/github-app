@@ -1,12 +1,11 @@
-# Executando com Docker
+# Executando com VSCode e Live Server
 
-Este arquivo contém um passo-a-passo para executar a aplicação localmente com uso da ferramenta Docker.
+Este arquivo contém um passo-a-passo para executar a aplicação localmente com uso da extensão Live Server, disponível no programa Virtual Studio Code.
 
 ## Pré-Requisitos
 
-- Docker: Version 20.10.0 or higher
+- Virtual Studio Code com Extensão "Live Server"
 - Git: Version 2.28.0 or higher
-- Docker Compose: Version 1.27.0 or higher
 
 ## Clonar o repositório
 
@@ -17,32 +16,16 @@ Este arquivo contém um passo-a-passo para executar a aplicação localmente com
    ```bash
    git clone git@github.com:ribeiroisaac/github-app.git
    ```
-
-## Docker Compose
-
-1. Navegue até a pasta do repositório clonado.
-2. Verifique que o repositório foi clonado com sucesso, principalmente contendo o arquivo "docker-compose.yaml".
-3. Abra uma interface de linha de comando na pasta clonada e execute o comando abaixo:
-
-   ```bash
-   docker-compose up --build -d
-   ```
-
-   O comando acima cria uma imagem Docker com base no arquivo docker-compose.yaml, e inicia o container Docker da aplicação em modo background. 
+4. Navegue até a pasta do repositório clonado para validar sucesso da operação.
 
 ## Acessando aplicação
 
-Após as instalações e inicialização do container é possível verificar a aplicação com os seguintes passos:
+Após o clone do repositório é possível verificar a aplicação localmente com os seguintes passos:
 
-1. Abra um navegador Web e navegue até `http://localhost:5000`.
-   
-## Desligando aplicação
+1. Abra a pasta do repositório clonado no Virtual Studio Code
+2. Procure pela pasta "src".
+3. Clique com o botão direito no arquivo "index.html" e selecione a opção "Open with Live Server"
 
-Para parar a aplicação e remover os containers criados pelo Docker Compose, siga os passos abaixo:
+![Alt text](./image_readme/image.png)
 
-1. Abra uma interface de linha de comando.
-2. Execute o comando:
-
-   ```bash
-   docker-compose down
-   ```
+Em seguida você será direcionado ao link disponibilizado pela extensão, onde a aplicação é executada por um servidor local.
