@@ -1,5 +1,5 @@
-*node_modules
-*package.json
-*package-lock.json
+node_modules
+package-lock.json
 *ipynb_checkpoints
-*table_backup
+dist
+ignore

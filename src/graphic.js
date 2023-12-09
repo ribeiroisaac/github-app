@@ -1,4 +1,3 @@
-
 function cleanChart(){
     $("#grafico").empty();
 }
@@ -60,11 +59,11 @@ function updateRamal(ramaisMarcados){
                   axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
                   axisY: [{
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[0][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[1][1]
+                    labelFontColor: "black"
                     }],
                   data: [
                     {
@@ -93,15 +92,15 @@ function updateRamal(ramaisMarcados){
                   axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
                   axisY: [{
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[0][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[1][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[2][1]
+                    labelFontColor: "black"
                     }],
                   data: [
                     {
@@ -136,19 +135,19 @@ function updateRamal(ramaisMarcados){
                   axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
                   axisY: [{
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[0][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[1][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[2][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[3][1]
+                    labelFontColor: "black"
                     }],
                   data: [
                     {
@@ -189,23 +188,23 @@ function updateRamal(ramaisMarcados){
                   axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
                   axisY: [{
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[0][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[1][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[2][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[3][1]
+                    labelFontColor: "black"
                     },
                     {
                     labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},
-                    labelFontColor: ramaisMarcados[4][1]
+                    labelFontColor: "black"
                     }],
                 data: [
                     {
