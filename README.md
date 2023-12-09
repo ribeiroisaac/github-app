@@ -26,6 +26,8 @@ Após o clone do repositório é possível verificar a aplicação localmente co
 2. Procure pela pasta "src".
 3. Clique com o botão direito no arquivo "index.html" e selecione a opção "Open with Live Server"
 
-![Alt text](./image_readme/image.png)
+<div style="text-align: center;">
+    <img src="./image_readme/image.png">
+</div>
 
 Em seguida você será direcionado ao link disponibilizado pela extensão, onde a aplicação é executada por um servidor local.
