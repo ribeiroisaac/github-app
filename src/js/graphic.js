@@ -45,7 +45,7 @@ function updateRamal(ramaisMarcados){
               axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
               axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
               legend: {},
-              data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0])}],
+              data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano (números em ordem de milhar)",dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[0][0])}],
             });
             chart.render();});
             break;
@@ -75,7 +75,7 @@ function updateRamal(ramaisMarcados){
                     {
                         type: "line", xValueType: "number",showInLegend:true,
                         color: ramaisMarcados[1][1],
-                        legendText: ramaisMarcados[1][0],
+                        legendText: ramaisMarcados[1][0] + " (números em ordem de milhar)",
                         dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[1][0])
                     }
                   ],
@@ -118,7 +118,7 @@ function updateRamal(ramaisMarcados){
                     {
                         type: "line", xValueType: "number",showInLegend:true,
                         color: ramaisMarcados[2][1],
-                        legendText: ramaisMarcados[2][0],
+                        legendText: ramaisMarcados[2][0] + " (números em ordem de milhar)",
                         dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[2][0])
                     }
                   ],
@@ -171,7 +171,7 @@ function updateRamal(ramaisMarcados){
                     {
                         type: "line", xValueType: "number",showInLegend:true,
                         color: ramaisMarcados[3][1],
-                        legendText: ramaisMarcados[3][0],
+                        legendText: ramaisMarcados[3][0] + " (números em ordem de milhar)",
                         dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[3][0])
                     }
                   ],
@@ -234,7 +234,7 @@ function updateRamal(ramaisMarcados){
                     {
                         type: "line",xValueType: "number",showInLegend:true,
                         color: ramaisMarcados[4][1],
-                        legendText: ramaisMarcados[4][0],
+                        legendText: ramaisMarcados[4][0] + " (números em ordem de milhar)",
                         dataPoints: getDataPointsFromCSVRamal(data, ramaisMarcados[4][0])
                     }
                   ],
@@ -242,22 +242,6 @@ function updateRamal(ramaisMarcados){
                 chart.render();});
                 break;
     }
-}
-
-
-function updateRamalChart(ramal, color){
-    CanvasJS.addColorSet("verde",[color]);
-    $.get("../../etl_process/datasetFinal_Ferrov.csv", function(data) {
-    var chart = new CanvasJS.Chart("grafico", {
-      title: {text: ramal,fontFamily: "tahoma",fontColor: color,fontWeight: "bold",fontSize:25},
-      colorSet: "verde",exportEnabled: true,zoomEnabled: true,
-      toolbar: {itemBackgroundColor: "#d3d3d3", itemBackgroundColorOnHover: "#3e3e3e", buttonBorderColor: "#3e3e3e"},
-      axisX: {viewportMinimum: 2015, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
-      axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
-      legend: {},
-      data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSVRamal(data, ramal)}],
-    });
-    chart.render();});
 }
 
 function getDataPointsFromCSVRamal(csv, ramal) {
@@ -292,7 +276,7 @@ function updateChart(estacao, color){
       axisX: {viewportMinimum: 2010, labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");},},
       axisY: {labelFormatter: function (e) {return CanvasJS.formatNumber(e.value, "#");}},
       legend: {},
-      data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano",dataPoints: getDataPointsFromCSV(data, estacao)}],
+      data: [{type: "line",xValueType: "number",showInLegend:true,legendText:"Passageiros por ano (números em ordem de milhar)",dataPoints: getDataPointsFromCSV(data, estacao)}],
     });
     chart.render();});
 }
